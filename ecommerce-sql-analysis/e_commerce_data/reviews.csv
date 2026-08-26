@@ -1,0 +1,3501 @@
+review_id,customer_id,product_id,rating,review_date,review_text
+1,1326,66,5,2024-08-16,Great quality for the price.
+2,1745,70,5,2025-10-30,Excellent product and fast delivery.
+3,1333,25,3,2026-01-07,Product is decent for the price.
+4,1384,7,5,2025-07-11,Very happy with my purchase.
+5,2436,14,3,2025-01-22,"It is okay, but could be better."
+6,1047,41,2,2025-09-18,Quality could be improved.
+7,1181,56,1,2025-09-16,Very disappointed with the product.
+8,500,85,3,2025-11-26,Product is decent for the price.
+9,520,41,5,2025-02-14,Very happy with my purchase.
+10,2473,62,4,2024-03-04,Works as expected.
+11,2267,51,3,2024-08-21,Product is decent for the price.
+12,2030,62,5,2025-09-07,Great quality for the price.
+13,2321,95,2,2025-05-30,Quality could be improved.
+14,1502,7,4,2025-07-14,Works as expected.
+15,1367,22,3,2024-08-12,Average experience.
+16,644,31,3,2024-11-10,"It is okay, but could be better."
+17,1332,10,2,2025-01-24,Quality could be improved.
+18,1941,4,4,2024-03-14,Works as expected.
+19,1920,2,3,2024-08-06,"It is okay, but could be better."
+20,1469,10,4,2024-11-19,Works as expected.
+21,2352,2,4,2024-05-04,Works as expected.
+22,1177,7,5,2025-02-16,Excellent product and fast delivery.
+23,1230,5,2,2025-03-03,Not as good as expected.
+24,434,63,5,2025-08-24,Great quality for the price.
+25,670,59,3,2025-11-16,"It is okay, but could be better."
+26,1514,58,5,2024-06-29,Great quality for the price.
+27,223,1,3,2025-10-18,Average experience.
+28,105,39,5,2024-06-25,Great quality for the price.
+29,1149,76,5,2025-03-12,Excellent product and fast delivery.
+30,20,36,4,2025-02-04,Nice quality and useful.
+31,53,53,5,2025-11-20,Very happy with my purchase.
+32,685,72,1,2025-04-14,Would not buy this again.
+33,941,34,5,2024-08-24,Excellent product and fast delivery.
+34,71,3,5,2024-03-05,Great quality for the price.
+35,884,13,4,2025-05-28,Nice quality and useful.
+36,2451,7,5,2024-05-02,Great quality for the price.
+37,1466,85,1,2024-07-14,Very disappointed with the product.
+38,1552,15,5,2024-03-13,Great quality for the price.
+39,305,45,1,2024-03-29,Would not buy this again.
+40,1738,61,3,2024-11-20,Product is decent for the price.
+41,606,41,3,2025-07-04,Product is decent for the price.
+42,2359,5,5,2025-11-24,Great quality for the price.
+43,46,80,4,2024-06-17,Good product overall.
+44,2033,61,2,2025-01-31,Delivery was fine but product disappointed me.
+45,1311,21,5,2025-07-09,Very happy with my purchase.
+46,1438,89,5,2024-07-26,Great quality for the price.
+47,2149,79,4,2024-09-21,Nice quality and useful.
+48,1638,74,2,2025-12-08,Quality could be improved.
+49,1391,73,4,2025-10-06,Works as expected.
+50,2309,16,4,2026-01-02,Good product overall.
+51,1081,81,5,2024-02-05,Excellent product and fast delivery.
+52,2174,77,3,2024-08-26,Average experience.
+53,1098,43,5,2025-08-27,Very happy with my purchase.
+54,1978,87,3,2025-09-25,"It is okay, but could be better."
+55,1613,2,5,2026-01-22,Excellent product and fast delivery.
+56,1450,31,5,2024-06-04,Very happy with my purchase.
+57,1119,58,3,2025-07-17,Product is decent for the price.
+58,969,83,5,2025-09-03,Excellent product and fast delivery.
+59,1952,46,4,2024-03-02,Good product overall.
+60,2200,96,3,2025-04-04,Product is decent for the price.
+61,1502,45,4,2024-10-10,Works as expected.
+62,2328,50,4,2025-01-14,Nice quality and useful.
+63,1306,3,4,2024-11-07,Nice quality and useful.
+64,795,2,4,2025-07-09,Works as expected.
+65,1989,85,3,2024-11-25,"It is okay, but could be better."
+66,2264,58,4,2024-02-23,Works as expected.
+67,1946,16,4,2024-09-14,Nice quality and useful.
+68,374,94,4,2025-09-17,Works as expected.
+69,1222,77,5,2024-03-29,Very happy with my purchase.
+70,699,69,5,2025-07-05,Excellent product and fast delivery.
+71,1603,79,5,2026-01-05,Great quality for the price.
+72,485,68,2,2024-08-16,Quality could be improved.
+73,1007,9,3,2025-07-07,Average experience.
+74,1381,53,3,2025-09-03,Product is decent for the price.
+75,952,83,3,2024-09-05,Average experience.
+76,2034,76,4,2025-09-25,Good product overall.
+77,719,45,2,2024-02-02,Delivery was fine but product disappointed me.
+78,259,56,4,2024-07-21,Works as expected.
+79,1289,61,5,2024-04-16,Great quality for the price.
+80,1798,59,4,2024-06-04,Works as expected.
+81,244,57,5,2025-02-07,Excellent product and fast delivery.
+82,901,86,5,2025-07-13,Great quality for the price.
+83,1599,89,5,2025-11-09,Great quality for the price.
+84,2384,43,5,2024-07-06,Excellent product and fast delivery.
+85,169,78,3,2024-12-11,Product is decent for the price.
+86,442,17,5,2024-04-03,Excellent product and fast delivery.
+87,2349,35,5,2025-01-10,Excellent product and fast delivery.
+88,726,48,5,2025-09-20,Very happy with my purchase.
+89,139,62,5,2024-11-22,Great quality for the price.
+90,1883,73,4,2025-03-20,Nice quality and useful.
+91,1190,86,4,2024-11-03,Works as expected.
+92,2399,13,5,2025-07-24,Great quality for the price.
+93,787,56,4,2024-12-25,Nice quality and useful.
+94,1613,56,3,2025-12-26,Average experience.
+95,533,67,5,2024-12-07,Very happy with my purchase.
+96,1106,72,4,2025-05-22,Nice quality and useful.
+97,261,4,1,2024-12-28,Would not buy this again.
+98,471,13,4,2024-07-22,Works as expected.
+99,731,79,5,2024-03-12,Great quality for the price.
+100,13,93,4,2025-01-21,Works as expected.
+101,2218,2,4,2025-03-06,Works as expected.
+102,2360,96,3,2024-02-19,"It is okay, but could be better."
+103,185,49,5,2024-10-22,Great quality for the price.
+104,209,95,4,2025-12-03,Good product overall.
+105,1067,6,1,2024-09-05,Very disappointed with the product.
+106,2062,62,4,2024-07-09,Nice quality and useful.
+107,1071,29,4,2024-12-21,Nice quality and useful.
+108,1068,20,2,2024-06-29,Delivery was fine but product disappointed me.
+109,1845,58,3,2024-02-05,"It is okay, but could be better."
+110,2379,65,4,2025-07-14,Good product overall.
+111,1647,14,5,2025-12-02,Very happy with my purchase.
+112,2465,11,5,2025-10-21,Very happy with my purchase.
+113,528,37,4,2024-08-24,Nice quality and useful.
+114,2127,66,5,2025-07-15,Excellent product and fast delivery.
+115,1599,90,5,2024-08-19,Very happy with my purchase.
+116,237,77,5,2025-12-18,Very happy with my purchase.
+117,926,23,4,2025-04-10,Good product overall.
+118,561,20,4,2024-04-21,Good product overall.
+119,141,15,5,2024-09-15,Excellent product and fast delivery.
+120,1030,67,3,2024-11-05,"It is okay, but could be better."
+121,804,94,4,2024-05-22,Works as expected.
+122,2354,57,4,2025-01-15,Nice quality and useful.
+123,1539,14,5,2024-06-01,Great quality for the price.
+124,546,27,3,2025-10-16,Average experience.
+125,1552,64,4,2024-11-12,Works as expected.
+126,508,11,3,2024-07-01,"It is okay, but could be better."
+127,147,11,5,2025-04-07,Very happy with my purchase.
+128,113,13,4,2024-10-25,Nice quality and useful.
+129,110,91,5,2024-06-11,Excellent product and fast delivery.
+130,273,85,4,2025-05-24,Nice quality and useful.
+131,74,54,3,2025-06-07,Average experience.
+132,1826,93,4,2024-04-22,Nice quality and useful.
+133,2429,55,4,2024-03-30,Works as expected.
+134,2143,15,3,2025-09-27,Average experience.
+135,630,45,5,2025-10-12,Great quality for the price.
+136,1284,5,5,2024-11-18,Very happy with my purchase.
+137,1248,62,3,2024-11-26,"It is okay, but could be better."
+138,2079,23,5,2024-07-03,Excellent product and fast delivery.
+139,209,33,3,2025-10-20,Average experience.
+140,2270,30,4,2024-07-29,Nice quality and useful.
+141,678,8,5,2024-03-26,Great quality for the price.
+142,1226,15,4,2024-01-29,Good product overall.
+143,1230,6,4,2025-02-20,Works as expected.
+144,1129,70,4,2024-10-04,Works as expected.
+145,1910,74,3,2024-12-30,Average experience.
+146,1539,48,3,2025-12-21,Product is decent for the price.
+147,2157,73,5,2024-03-29,Great quality for the price.
+148,867,58,3,2024-04-01,"It is okay, but could be better."
+149,2209,44,2,2024-04-24,Quality could be improved.
+150,44,44,3,2024-09-02,"It is okay, but could be better."
+151,697,20,4,2025-02-27,Nice quality and useful.
+152,1391,17,4,2026-01-20,Works as expected.
+153,2254,29,5,2024-06-17,Great quality for the price.
+154,1027,53,5,2025-11-09,Very happy with my purchase.
+155,1332,43,5,2025-11-02,Excellent product and fast delivery.
+156,1059,52,5,2024-11-28,Very happy with my purchase.
+157,2223,38,4,2024-05-09,Works as expected.
+158,792,4,4,2024-10-06,Good product overall.
+159,1646,44,4,2025-12-08,Good product overall.
+160,723,44,5,2024-10-23,Excellent product and fast delivery.
+161,2152,3,4,2024-06-18,Nice quality and useful.
+162,942,4,4,2025-05-24,Works as expected.
+163,1070,19,4,2024-08-24,Nice quality and useful.
+164,1240,14,4,2025-07-29,Good product overall.
+165,2253,12,4,2024-09-17,Works as expected.
+166,1929,88,1,2024-02-06,Very disappointed with the product.
+167,1275,83,4,2024-03-16,Nice quality and useful.
+168,49,48,5,2025-04-01,Very happy with my purchase.
+169,804,8,5,2024-05-31,Great quality for the price.
+170,302,64,3,2024-09-27,"It is okay, but could be better."
+171,1818,9,3,2024-12-26,"It is okay, but could be better."
+172,1031,70,4,2024-03-28,Nice quality and useful.
+173,194,40,4,2024-06-20,Nice quality and useful.
+174,1384,39,3,2024-05-29,Average experience.
+175,534,34,4,2025-06-17,Nice quality and useful.
+176,1326,14,4,2024-07-10,Good product overall.
+177,740,78,4,2025-12-21,Good product overall.
+178,1925,93,4,2025-11-22,Works as expected.
+179,191,48,4,2024-12-01,Good product overall.
+180,1104,51,4,2025-10-18,Works as expected.
+181,751,54,1,2024-07-20,Would not buy this again.
+182,1446,60,5,2024-10-17,Excellent product and fast delivery.
+183,2137,68,4,2025-04-06,Nice quality and useful.
+184,677,39,5,2024-07-06,Great quality for the price.
+185,2297,5,2,2025-08-10,Not as good as expected.
+186,439,88,5,2025-11-01,Very happy with my purchase.
+187,2361,39,5,2024-03-09,Great quality for the price.
+188,1026,1,5,2025-12-12,Very happy with my purchase.
+189,2034,87,5,2025-01-31,Excellent product and fast delivery.
+190,1738,94,5,2024-12-01,Very happy with my purchase.
+191,2087,14,4,2025-11-07,Works as expected.
+192,168,39,4,2024-07-26,Works as expected.
+193,1246,52,1,2025-12-16,Very disappointed with the product.
+194,973,16,4,2024-04-14,Good product overall.
+195,339,83,4,2025-11-25,Nice quality and useful.
+196,21,36,4,2025-09-25,Works as expected.
+197,748,94,1,2024-12-07,Poor quality.
+198,2205,24,5,2024-07-27,Very happy with my purchase.
+199,1163,81,5,2025-07-16,Excellent product and fast delivery.
+200,2119,43,5,2024-05-23,Excellent product and fast delivery.
+201,2442,74,5,2025-06-23,Very happy with my purchase.
+202,1415,15,3,2025-05-19,Average experience.
+203,188,15,4,2026-01-05,Good product overall.
+204,2424,34,4,2024-12-05,Works as expected.
+205,1065,74,4,2025-06-09,Good product overall.
+206,384,13,3,2024-10-22,Average experience.
+207,833,53,5,2025-03-06,Excellent product and fast delivery.
+208,2403,83,4,2025-09-14,Works as expected.
+209,1069,10,4,2025-04-15,Good product overall.
+210,894,16,5,2025-05-14,Excellent product and fast delivery.
+211,1882,74,4,2025-06-25,Nice quality and useful.
+212,2420,24,4,2025-11-20,Nice quality and useful.
+213,2222,19,4,2025-09-19,Nice quality and useful.
+214,1153,69,4,2024-11-30,Good product overall.
+215,857,77,4,2025-10-19,Works as expected.
+216,2442,14,4,2024-12-30,Nice quality and useful.
+217,1459,84,4,2025-10-23,Nice quality and useful.
+218,478,52,4,2025-12-24,Nice quality and useful.
+219,1211,80,4,2025-09-27,Works as expected.
+220,1445,46,1,2025-04-08,Very disappointed with the product.
+221,582,25,4,2024-06-24,Nice quality and useful.
+222,1452,86,4,2024-04-13,Works as expected.
+223,1596,27,4,2025-01-16,Works as expected.
+224,454,49,4,2025-01-24,Works as expected.
+225,637,18,5,2025-12-28,Excellent product and fast delivery.
+226,388,39,5,2025-12-22,Very happy with my purchase.
+227,804,31,4,2024-12-17,Good product overall.
+228,2062,8,5,2024-07-15,Excellent product and fast delivery.
+229,1424,94,4,2025-05-24,Nice quality and useful.
+230,858,93,3,2025-04-04,Average experience.
+231,1217,30,2,2025-12-14,Quality could be improved.
+232,2193,22,5,2025-06-01,Very happy with my purchase.
+233,160,57,5,2025-09-07,Great quality for the price.
+234,1994,41,2,2024-03-07,Not as good as expected.
+235,1663,42,3,2025-04-19,"It is okay, but could be better."
+236,2427,37,5,2025-01-22,Excellent product and fast delivery.
+237,2195,55,5,2025-04-16,Great quality for the price.
+238,1715,94,3,2024-02-02,"It is okay, but could be better."
+239,1475,29,3,2024-05-18,Product is decent for the price.
+240,979,52,5,2025-07-20,Excellent product and fast delivery.
+241,893,34,3,2025-10-22,Average experience.
+242,962,62,4,2025-11-20,Works as expected.
+243,442,54,4,2025-11-04,Good product overall.
+244,1877,77,5,2025-12-18,Very happy with my purchase.
+245,1552,24,3,2025-06-01,Product is decent for the price.
+246,2411,60,4,2025-07-18,Good product overall.
+247,2277,59,4,2025-11-01,Good product overall.
+248,1276,85,5,2025-11-17,Great quality for the price.
+249,1776,33,5,2024-03-12,Great quality for the price.
+250,778,20,5,2024-07-13,Great quality for the price.
+251,317,91,5,2025-11-22,Very happy with my purchase.
+252,976,95,5,2024-04-06,Great quality for the price.
+253,793,62,5,2024-04-13,Excellent product and fast delivery.
+254,1179,61,4,2024-02-25,Good product overall.
+255,364,38,4,2025-05-03,Works as expected.
+256,200,58,2,2024-06-14,Delivery was fine but product disappointed me.
+257,2337,1,2,2024-07-10,Delivery was fine but product disappointed me.
+258,2062,51,5,2025-09-30,Great quality for the price.
+259,464,89,5,2025-10-26,Great quality for the price.
+260,2267,18,4,2025-01-10,Works as expected.
+261,733,86,4,2025-09-27,Works as expected.
+262,1748,40,5,2024-06-07,Great quality for the price.
+263,2407,41,5,2025-05-10,Excellent product and fast delivery.
+264,1630,71,3,2025-04-16,Product is decent for the price.
+265,510,4,3,2024-07-10,Average experience.
+266,464,31,2,2024-07-07,Delivery was fine but product disappointed me.
+267,288,96,5,2025-11-10,Excellent product and fast delivery.
+268,1585,57,4,2025-11-22,Works as expected.
+269,793,57,4,2024-02-09,Good product overall.
+270,821,94,4,2025-12-03,Works as expected.
+271,1632,24,3,2024-04-14,Average experience.
+272,1490,62,5,2025-05-10,Great quality for the price.
+273,480,51,4,2024-12-10,Good product overall.
+274,1228,13,5,2024-06-01,Very happy with my purchase.
+275,798,53,5,2025-09-04,Very happy with my purchase.
+276,1113,42,5,2024-10-24,Great quality for the price.
+277,2393,86,5,2025-06-05,Great quality for the price.
+278,1156,93,4,2024-11-03,Good product overall.
+279,45,95,3,2024-02-09,Product is decent for the price.
+280,496,44,5,2024-06-06,Great quality for the price.
+281,1934,93,4,2025-12-07,Works as expected.
+282,952,30,2,2024-02-06,Not as good as expected.
+283,926,96,4,2025-04-28,Works as expected.
+284,731,16,5,2024-02-02,Very happy with my purchase.
+285,564,7,5,2024-04-07,Very happy with my purchase.
+286,1456,52,1,2024-12-11,Very disappointed with the product.
+287,1269,39,5,2026-01-18,Very happy with my purchase.
+288,1954,55,4,2025-06-10,Good product overall.
+289,575,12,5,2025-03-25,Excellent product and fast delivery.
+290,161,12,3,2024-01-18,Average experience.
+291,1587,37,3,2025-05-23,Product is decent for the price.
+292,289,62,5,2025-02-09,Excellent product and fast delivery.
+293,725,25,5,2025-01-14,Excellent product and fast delivery.
+294,703,71,5,2024-02-15,Great quality for the price.
+295,1993,84,1,2024-06-22,Poor quality.
+296,1753,72,4,2026-01-19,Works as expected.
+297,925,46,5,2025-09-04,Excellent product and fast delivery.
+298,2374,83,2,2025-12-07,Delivery was fine but product disappointed me.
+299,202,1,4,2024-08-24,Works as expected.
+300,2034,88,4,2025-10-20,Good product overall.
+301,253,53,4,2025-12-19,Works as expected.
+302,2407,31,4,2024-03-14,Good product overall.
+303,1907,85,3,2025-11-23,Average experience.
+304,2346,16,4,2024-06-12,Good product overall.
+305,436,42,5,2024-06-06,Excellent product and fast delivery.
+306,564,67,5,2024-03-28,Very happy with my purchase.
+307,174,47,4,2024-08-23,Works as expected.
+308,1733,87,3,2024-07-08,Average experience.
+309,686,85,3,2025-02-04,Average experience.
+310,752,78,5,2025-12-09,Excellent product and fast delivery.
+311,792,11,2,2025-12-28,Quality could be improved.
+312,370,61,5,2025-05-03,Great quality for the price.
+313,1687,86,5,2025-08-13,Great quality for the price.
+314,16,57,5,2024-04-28,Great quality for the price.
+315,297,74,3,2025-11-16,Product is decent for the price.
+316,646,95,1,2024-05-02,Poor quality.
+317,194,40,1,2024-12-21,Poor quality.
+318,2039,55,1,2024-02-15,Poor quality.
+319,73,59,4,2024-03-31,Works as expected.
+320,423,92,4,2025-06-26,Works as expected.
+321,364,2,3,2025-01-14,"It is okay, but could be better."
+322,1140,13,4,2024-04-03,Nice quality and useful.
+323,1684,23,4,2025-11-27,Works as expected.
+324,1868,47,4,2024-07-19,Nice quality and useful.
+325,2473,47,5,2025-11-22,Great quality for the price.
+326,2481,36,4,2024-10-03,Good product overall.
+327,1821,35,4,2024-05-28,Good product overall.
+328,1893,57,5,2025-03-27,Great quality for the price.
+329,445,21,4,2025-11-23,Works as expected.
+330,1996,71,4,2024-08-19,Works as expected.
+331,1516,85,5,2024-12-05,Great quality for the price.
+332,71,78,4,2024-09-04,Works as expected.
+333,2246,48,3,2024-09-25,"It is okay, but could be better."
+334,1122,4,4,2025-03-02,Works as expected.
+335,315,36,5,2024-02-14,Excellent product and fast delivery.
+336,107,75,5,2024-10-19,Very happy with my purchase.
+337,2435,51,5,2024-07-05,Great quality for the price.
+338,1181,23,5,2025-01-10,Excellent product and fast delivery.
+339,1939,22,4,2024-04-14,Works as expected.
+340,2067,89,4,2025-11-05,Works as expected.
+341,2404,10,5,2024-03-10,Excellent product and fast delivery.
+342,1723,55,3,2024-02-19,Product is decent for the price.
+343,225,35,5,2025-08-12,Great quality for the price.
+344,2323,3,5,2025-06-28,Great quality for the price.
+345,666,19,4,2025-07-03,Nice quality and useful.
+346,1345,92,4,2024-09-27,Works as expected.
+347,2454,28,5,2025-03-15,Very happy with my purchase.
+348,2349,85,3,2025-12-04,Average experience.
+349,935,9,5,2025-02-24,Great quality for the price.
+350,789,31,5,2025-05-24,Great quality for the price.
+351,1364,38,2,2025-04-27,Quality could be improved.
+352,860,32,5,2024-05-23,Great quality for the price.
+353,2135,4,4,2025-01-06,Nice quality and useful.
+354,2203,40,4,2024-08-08,Good product overall.
+355,324,19,4,2024-09-29,Works as expected.
+356,2332,36,3,2024-02-07,Average experience.
+357,1600,96,4,2025-01-04,Works as expected.
+358,1132,66,4,2024-05-08,Works as expected.
+359,946,88,4,2025-10-07,Works as expected.
+360,1275,42,4,2024-03-28,Nice quality and useful.
+361,1816,21,4,2024-02-06,Nice quality and useful.
+362,1528,27,3,2024-09-26,"It is okay, but could be better."
+363,542,46,4,2024-09-12,Works as expected.
+364,202,71,3,2025-01-25,Average experience.
+365,2415,96,4,2024-02-27,Good product overall.
+366,1639,66,5,2024-12-09,Very happy with my purchase.
+367,102,27,4,2025-06-16,Good product overall.
+368,102,26,4,2024-09-16,Good product overall.
+369,1331,85,2,2025-11-28,Quality could be improved.
+370,1460,73,3,2024-03-16,Product is decent for the price.
+371,1673,35,5,2024-02-10,Very happy with my purchase.
+372,375,35,5,2024-05-12,Great quality for the price.
+373,871,71,5,2025-03-04,Excellent product and fast delivery.
+374,838,75,5,2024-08-23,Excellent product and fast delivery.
+375,1766,29,3,2025-11-18,Product is decent for the price.
+376,2149,82,3,2024-06-25,"It is okay, but could be better."
+377,482,54,5,2026-01-01,Excellent product and fast delivery.
+378,510,15,5,2025-05-22,Great quality for the price.
+379,1657,4,4,2024-02-12,Works as expected.
+380,1063,51,3,2025-09-27,Product is decent for the price.
+381,634,41,4,2025-01-24,Works as expected.
+382,1870,53,5,2024-07-21,Great quality for the price.
+383,1558,44,3,2024-06-16,"It is okay, but could be better."
+384,2202,90,3,2024-05-20,"It is okay, but could be better."
+385,173,8,4,2024-09-13,Nice quality and useful.
+386,1196,25,5,2024-05-29,Excellent product and fast delivery.
+387,1083,45,4,2024-12-08,Good product overall.
+388,1416,26,2,2024-05-21,Not as good as expected.
+389,1395,10,3,2024-07-10,"It is okay, but could be better."
+390,235,55,4,2025-05-03,Nice quality and useful.
+391,1044,78,4,2025-01-11,Nice quality and useful.
+392,697,56,5,2025-11-07,Great quality for the price.
+393,152,27,4,2025-07-16,Nice quality and useful.
+394,2012,58,5,2024-11-11,Excellent product and fast delivery.
+395,827,34,1,2025-03-09,Very disappointed with the product.
+396,1726,89,1,2025-08-01,Would not buy this again.
+397,24,83,3,2025-10-11,Average experience.
+398,2127,87,3,2024-07-30,"It is okay, but could be better."
+399,305,74,4,2024-03-06,Nice quality and useful.
+400,2222,55,5,2025-10-11,Excellent product and fast delivery.
+401,1771,46,2,2025-01-02,Quality could be improved.
+402,1954,56,5,2025-11-16,Great quality for the price.
+403,824,33,3,2025-04-22,Average experience.
+404,1412,12,5,2025-01-16,Excellent product and fast delivery.
+405,805,24,5,2024-07-04,Very happy with my purchase.
+406,2490,94,4,2024-10-16,Good product overall.
+407,322,41,5,2025-10-11,Excellent product and fast delivery.
+408,413,26,4,2024-07-17,Nice quality and useful.
+409,946,86,5,2024-05-09,Excellent product and fast delivery.
+410,1786,31,5,2024-12-12,Excellent product and fast delivery.
+411,580,60,2,2024-07-13,Not as good as expected.
+412,1599,91,4,2024-07-15,Works as expected.
+413,1018,3,4,2024-07-07,Good product overall.
+414,21,96,2,2025-05-14,Quality could be improved.
+415,1170,37,5,2024-06-30,Excellent product and fast delivery.
+416,1963,10,5,2025-01-02,Very happy with my purchase.
+417,221,94,4,2024-05-22,Good product overall.
+418,1929,84,5,2025-02-14,Excellent product and fast delivery.
+419,398,62,5,2024-06-16,Very happy with my purchase.
+420,595,75,5,2024-09-16,Excellent product and fast delivery.
+421,2461,81,5,2024-04-05,Great quality for the price.
+422,1173,95,4,2025-09-20,Works as expected.
+423,857,96,5,2025-03-19,Great quality for the price.
+424,860,62,4,2025-04-06,Works as expected.
+425,704,71,5,2024-10-11,Great quality for the price.
+426,2284,51,5,2025-12-29,Great quality for the price.
+427,82,40,4,2024-05-22,Good product overall.
+428,395,1,4,2025-09-09,Nice quality and useful.
+429,2364,31,4,2024-10-27,Good product overall.
+430,1903,17,5,2024-11-03,Excellent product and fast delivery.
+431,514,70,1,2024-10-03,Would not buy this again.
+432,501,73,5,2024-06-20,Excellent product and fast delivery.
+433,968,90,5,2025-06-25,Very happy with my purchase.
+434,1081,68,3,2024-02-06,"It is okay, but could be better."
+435,165,77,4,2025-07-12,Works as expected.
+436,1401,12,5,2025-09-10,Very happy with my purchase.
+437,1528,25,4,2025-10-08,Nice quality and useful.
+438,2067,73,4,2025-04-20,Good product overall.
+439,2340,51,5,2024-03-02,Excellent product and fast delivery.
+440,461,76,4,2025-02-12,Good product overall.
+441,1295,47,5,2025-09-24,Very happy with my purchase.
+442,1302,52,4,2024-06-02,Nice quality and useful.
+443,2163,33,3,2024-12-23,Average experience.
+444,2163,60,2,2025-07-14,Not as good as expected.
+445,1223,80,3,2025-06-09,"It is okay, but could be better."
+446,514,37,4,2024-10-01,Works as expected.
+447,1127,94,4,2025-09-20,Nice quality and useful.
+448,1893,13,3,2024-10-29,"It is okay, but could be better."
+449,643,21,5,2025-04-16,Excellent product and fast delivery.
+450,1997,75,5,2024-04-21,Great quality for the price.
+451,1663,26,5,2025-04-02,Great quality for the price.
+452,108,22,4,2024-05-03,Nice quality and useful.
+453,400,17,3,2024-01-20,Average experience.
+454,1893,11,5,2025-12-31,Very happy with my purchase.
+455,169,91,5,2025-07-07,Great quality for the price.
+456,1187,29,3,2025-05-22,Average experience.
+457,1454,86,5,2025-10-01,Very happy with my purchase.
+458,2011,42,4,2025-07-13,Nice quality and useful.
+459,2093,30,5,2024-07-14,Very happy with my purchase.
+460,1749,34,4,2025-09-11,Good product overall.
+461,2378,66,5,2024-09-21,Excellent product and fast delivery.
+462,64,4,4,2024-10-19,Good product overall.
+463,586,59,5,2026-01-01,Excellent product and fast delivery.
+464,398,13,5,2024-06-13,Great quality for the price.
+465,660,38,4,2025-09-08,Nice quality and useful.
+466,1950,11,3,2025-02-15,"It is okay, but could be better."
+467,1886,95,4,2025-01-11,Nice quality and useful.
+468,1177,87,4,2024-07-09,Works as expected.
+469,1587,67,3,2025-10-19,Product is decent for the price.
+470,1638,34,4,2024-08-12,Works as expected.
+471,80,3,3,2024-06-16,Average experience.
+472,1874,22,5,2024-07-02,Great quality for the price.
+473,861,50,1,2025-08-28,Very disappointed with the product.
+474,2289,56,5,2024-03-20,Very happy with my purchase.
+475,2263,23,5,2024-06-07,Very happy with my purchase.
+476,185,50,5,2024-05-21,Great quality for the price.
+477,1031,41,2,2024-07-23,Delivery was fine but product disappointed me.
+478,1306,37,3,2024-11-14,Product is decent for the price.
+479,130,88,5,2025-01-16,Great quality for the price.
+480,244,11,5,2025-06-22,Great quality for the price.
+481,857,83,4,2024-01-27,Nice quality and useful.
+482,1196,52,5,2024-06-22,Excellent product and fast delivery.
+483,1895,66,3,2025-04-05,Product is decent for the price.
+484,1001,41,4,2025-07-06,Nice quality and useful.
+485,679,74,4,2025-08-27,Good product overall.
+486,556,84,5,2024-07-26,Excellent product and fast delivery.
+487,122,83,5,2024-08-03,Great quality for the price.
+488,785,85,5,2024-04-18,Excellent product and fast delivery.
+489,609,28,5,2025-03-03,Very happy with my purchase.
+490,1487,38,4,2025-08-05,Good product overall.
+491,1422,4,5,2025-04-27,Very happy with my purchase.
+492,2388,87,3,2024-12-28,"It is okay, but could be better."
+493,1490,89,2,2024-06-17,Delivery was fine but product disappointed me.
+494,1107,48,4,2024-01-20,Good product overall.
+495,2286,68,1,2024-02-23,Poor quality.
+496,533,38,5,2024-07-22,Very happy with my purchase.
+497,1186,29,2,2024-07-24,Quality could be improved.
+498,261,11,5,2025-04-17,Very happy with my purchase.
+499,94,75,4,2024-10-20,Nice quality and useful.
+500,500,87,3,2024-08-11,"It is okay, but could be better."
+501,972,39,4,2025-02-06,Works as expected.
+502,1296,64,5,2025-06-24,Very happy with my purchase.
+503,439,11,4,2025-11-05,Nice quality and useful.
+504,771,86,5,2025-04-04,Great quality for the price.
+505,732,48,4,2024-10-15,Nice quality and useful.
+506,253,4,5,2024-08-22,Excellent product and fast delivery.
+507,1388,80,4,2024-09-23,Good product overall.
+508,678,20,4,2024-09-26,Good product overall.
+509,2226,96,5,2025-11-18,Excellent product and fast delivery.
+510,1861,24,4,2024-04-10,Good product overall.
+511,1443,68,3,2024-12-03,"It is okay, but could be better."
+512,1066,76,5,2025-07-11,Excellent product and fast delivery.
+513,1031,10,5,2024-07-26,Excellent product and fast delivery.
+514,435,74,4,2025-07-14,Nice quality and useful.
+515,725,62,5,2024-01-22,Great quality for the price.
+516,1565,35,5,2024-04-06,Very happy with my purchase.
+517,2408,46,5,2025-12-16,Excellent product and fast delivery.
+518,1977,31,3,2024-11-16,Product is decent for the price.
+519,682,27,5,2024-07-08,Very happy with my purchase.
+520,1177,30,5,2024-07-09,Excellent product and fast delivery.
+521,856,7,3,2025-04-27,Product is decent for the price.
+522,1237,47,3,2024-10-10,Average experience.
+523,968,68,4,2024-12-17,Good product overall.
+524,41,96,3,2025-04-12,Average experience.
+525,754,88,5,2024-07-14,Excellent product and fast delivery.
+526,1973,30,4,2025-03-11,Good product overall.
+527,20,63,5,2025-12-29,Great quality for the price.
+528,119,90,5,2025-01-21,Very happy with my purchase.
+529,2056,42,1,2025-12-22,Poor quality.
+530,302,3,3,2024-09-30,"It is okay, but could be better."
+531,2399,39,4,2024-02-16,Works as expected.
+532,427,75,3,2024-08-20,"It is okay, but could be better."
+533,1598,73,5,2024-07-14,Very happy with my purchase.
+534,111,9,5,2025-01-25,Great quality for the price.
+535,1490,4,3,2024-12-31,"It is okay, but could be better."
+536,1360,79,5,2025-09-21,Very happy with my purchase.
+537,2360,69,3,2024-02-16,Average experience.
+538,2104,1,4,2024-11-21,Works as expected.
+539,2034,8,1,2025-03-17,Would not buy this again.
+540,1332,3,3,2025-02-18,Average experience.
+541,209,32,3,2025-11-10,Product is decent for the price.
+542,1102,34,4,2024-03-03,Good product overall.
+543,892,40,5,2025-02-15,Excellent product and fast delivery.
+544,1733,10,5,2025-12-14,Great quality for the price.
+545,54,69,4,2024-05-14,Works as expected.
+546,1901,39,3,2025-03-24,Average experience.
+547,686,15,3,2025-11-27,Product is decent for the price.
+548,1797,81,2,2024-09-29,Delivery was fine but product disappointed me.
+549,1602,92,4,2024-11-06,Nice quality and useful.
+550,1815,3,5,2024-12-04,Great quality for the price.
+551,556,10,4,2024-07-02,Works as expected.
+552,437,73,4,2024-01-15,Good product overall.
+553,1717,10,2,2024-04-03,Not as good as expected.
+554,2437,92,5,2024-06-24,Excellent product and fast delivery.
+555,1435,27,3,2025-10-26,Average experience.
+556,2075,70,5,2024-12-02,Very happy with my purchase.
+557,1267,56,5,2025-08-16,Great quality for the price.
+558,155,70,3,2025-01-31,Product is decent for the price.
+559,369,58,4,2024-03-21,Works as expected.
+560,1888,27,4,2025-10-02,Works as expected.
+561,1302,83,3,2024-02-21,Product is decent for the price.
+562,2332,27,3,2024-07-13,Product is decent for the price.
+563,1001,61,3,2024-12-08,Average experience.
+564,394,54,4,2025-05-28,Good product overall.
+565,1999,66,5,2025-12-25,Great quality for the price.
+566,2365,93,5,2024-03-30,Great quality for the price.
+567,2380,77,4,2025-01-04,Good product overall.
+568,466,34,4,2024-12-11,Nice quality and useful.
+569,1892,2,3,2024-10-29,"It is okay, but could be better."
+570,2500,52,5,2024-03-17,Very happy with my purchase.
+571,885,91,5,2025-01-31,Excellent product and fast delivery.
+572,1802,3,4,2024-02-29,Works as expected.
+573,962,24,4,2025-07-27,Nice quality and useful.
+574,671,44,3,2025-10-01,"It is okay, but could be better."
+575,244,29,5,2024-10-05,Great quality for the price.
+576,1229,27,5,2025-03-29,Very happy with my purchase.
+577,517,84,4,2024-12-08,Works as expected.
+578,448,63,5,2025-03-02,Very happy with my purchase.
+579,1145,18,3,2025-05-07,Product is decent for the price.
+580,1385,77,4,2024-04-30,Good product overall.
+581,2360,44,4,2025-07-15,Nice quality and useful.
+582,289,25,4,2025-01-14,Nice quality and useful.
+583,209,32,3,2024-10-15,Average experience.
+584,528,94,5,2025-01-11,Very happy with my purchase.
+585,2371,7,5,2024-07-26,Very happy with my purchase.
+586,2260,55,4,2025-12-28,Works as expected.
+587,130,61,5,2025-07-31,Great quality for the price.
+588,464,93,4,2024-07-13,Good product overall.
+589,2388,32,4,2025-04-22,Good product overall.
+590,1431,24,5,2025-07-31,Excellent product and fast delivery.
+591,167,21,4,2025-06-29,Good product overall.
+592,630,56,5,2024-01-28,Excellent product and fast delivery.
+593,1601,60,5,2024-04-04,Very happy with my purchase.
+594,999,83,3,2024-05-14,Average experience.
+595,1624,13,5,2024-11-17,Excellent product and fast delivery.
+596,1113,60,4,2025-03-07,Nice quality and useful.
+597,456,14,5,2024-06-09,Very happy with my purchase.
+598,1639,86,5,2025-09-14,Great quality for the price.
+599,1415,79,4,2025-09-21,Good product overall.
+600,2093,3,3,2024-06-11,"It is okay, but could be better."
+601,1739,10,3,2024-12-20,Average experience.
+602,989,23,5,2025-03-31,Very happy with my purchase.
+603,1834,54,5,2024-05-05,Great quality for the price.
+604,1639,85,5,2024-12-28,Excellent product and fast delivery.
+605,1194,80,2,2024-08-27,Quality could be improved.
+606,2399,92,4,2024-02-24,Good product overall.
+607,2474,47,5,2025-08-08,Excellent product and fast delivery.
+608,1036,77,5,2024-09-04,Excellent product and fast delivery.
+609,11,60,5,2025-10-30,Great quality for the price.
+610,1539,37,4,2024-06-11,Nice quality and useful.
+611,2285,63,3,2024-03-14,Average experience.
+612,1577,20,4,2025-09-05,Good product overall.
+613,2020,69,4,2025-02-03,Good product overall.
+614,877,21,4,2024-09-10,Works as expected.
+615,534,29,4,2025-04-21,Nice quality and useful.
+616,2482,47,5,2024-11-17,Excellent product and fast delivery.
+617,41,84,4,2024-09-26,Works as expected.
+618,350,70,5,2025-03-10,Very happy with my purchase.
+619,2272,48,4,2024-06-01,Good product overall.
+620,1063,35,5,2025-05-15,Excellent product and fast delivery.
+621,1600,24,3,2025-06-18,Average experience.
+622,1818,35,5,2025-06-18,Very happy with my purchase.
+623,77,18,5,2024-09-23,Great quality for the price.
+624,1898,27,1,2025-05-02,Poor quality.
+625,1618,25,5,2025-05-05,Very happy with my purchase.
+626,1198,42,5,2024-02-19,Great quality for the price.
+627,792,86,1,2024-04-14,Very disappointed with the product.
+628,1774,10,4,2025-11-18,Good product overall.
+629,1922,8,5,2025-12-02,Very happy with my purchase.
+630,1952,72,2,2024-09-19,Quality could be improved.
+631,715,49,4,2024-04-07,Good product overall.
+632,2044,56,5,2024-11-30,Excellent product and fast delivery.
+633,1884,72,5,2024-08-16,Excellent product and fast delivery.
+634,995,14,5,2025-02-13,Great quality for the price.
+635,277,70,4,2025-09-02,Good product overall.
+636,1950,81,4,2025-11-15,Good product overall.
+637,1567,10,3,2026-01-08,Product is decent for the price.
+638,1274,40,2,2025-03-13,Delivery was fine but product disappointed me.
+639,2167,15,5,2024-12-05,Very happy with my purchase.
+640,2329,31,4,2025-09-29,Good product overall.
+641,223,73,5,2024-12-13,Excellent product and fast delivery.
+642,2057,40,5,2025-04-28,Great quality for the price.
+643,1181,32,5,2024-12-15,Very happy with my purchase.
+644,836,69,3,2024-12-10,Product is decent for the price.
+645,792,89,4,2024-02-12,Works as expected.
+646,1448,33,4,2026-01-08,Good product overall.
+647,1899,4,4,2024-10-10,Works as expected.
+648,2093,86,5,2024-09-21,Great quality for the price.
+649,833,51,4,2024-04-05,Nice quality and useful.
+650,130,92,3,2024-09-10,"It is okay, but could be better."
+651,268,27,4,2024-02-25,Works as expected.
+652,1144,14,3,2025-12-18,Product is decent for the price.
+653,1870,86,3,2024-08-05,"It is okay, but could be better."
+654,400,56,5,2025-06-30,Excellent product and fast delivery.
+655,1257,4,4,2025-04-25,Nice quality and useful.
+656,1982,67,5,2025-03-31,Excellent product and fast delivery.
+657,718,54,5,2025-03-16,Great quality for the price.
+658,654,86,4,2024-06-26,Works as expected.
+659,679,72,5,2025-09-19,Excellent product and fast delivery.
+660,105,95,4,2024-07-29,Good product overall.
+661,1310,12,5,2024-10-08,Excellent product and fast delivery.
+662,1738,67,5,2024-04-06,Very happy with my purchase.
+663,1516,15,4,2024-11-12,Nice quality and useful.
+664,795,1,5,2024-11-04,Very happy with my purchase.
+665,1661,26,4,2025-01-14,Works as expected.
+666,2301,43,3,2025-08-29,Average experience.
+667,2289,50,4,2024-08-24,Nice quality and useful.
+668,1632,17,3,2025-10-08,Product is decent for the price.
+669,2465,44,4,2025-12-24,Good product overall.
+670,1938,86,4,2025-04-26,Nice quality and useful.
+671,1081,67,5,2025-07-11,Great quality for the price.
+672,1673,89,5,2024-10-06,Great quality for the price.
+673,730,66,4,2025-01-24,Nice quality and useful.
+674,245,86,3,2025-04-30,"It is okay, but could be better."
+675,1678,17,4,2025-05-26,Good product overall.
+676,2190,65,4,2024-08-27,Works as expected.
+677,1056,81,4,2024-06-14,Works as expected.
+678,1899,79,3,2024-06-11,"It is okay, but could be better."
+679,2360,34,2,2024-02-28,Delivery was fine but product disappointed me.
+680,684,63,4,2024-12-03,Nice quality and useful.
+681,245,42,5,2024-03-05,Excellent product and fast delivery.
+682,165,56,4,2024-02-19,Works as expected.
+683,1332,96,3,2025-06-28,Average experience.
+684,995,17,5,2024-07-26,Great quality for the price.
+685,1906,61,4,2025-07-01,Nice quality and useful.
+686,667,50,3,2024-04-23,Product is decent for the price.
+687,122,82,2,2024-05-08,Quality could be improved.
+688,2249,9,3,2024-10-19,Average experience.
+689,455,81,5,2025-09-20,Great quality for the price.
+690,54,15,5,2025-05-31,Great quality for the price.
+691,1325,28,4,2024-11-07,Good product overall.
+692,425,60,5,2025-12-17,Very happy with my purchase.
+693,1206,36,4,2025-04-25,Nice quality and useful.
+694,274,26,4,2024-10-21,Nice quality and useful.
+695,954,16,4,2024-10-19,Good product overall.
+696,743,13,3,2024-01-18,"It is okay, but could be better."
+697,1298,77,1,2024-04-18,Very disappointed with the product.
+698,2420,38,5,2024-10-02,Great quality for the price.
+699,1124,83,5,2025-12-27,Excellent product and fast delivery.
+700,323,68,5,2024-04-11,Great quality for the price.
+701,1,47,4,2025-08-22,Nice quality and useful.
+702,623,78,5,2025-09-25,Great quality for the price.
+703,2498,19,4,2024-10-09,Nice quality and useful.
+704,777,9,2,2025-09-15,Delivery was fine but product disappointed me.
+705,1072,79,3,2025-07-14,"It is okay, but could be better."
+706,2154,55,5,2025-12-30,Very happy with my purchase.
+707,300,31,5,2024-06-19,Excellent product and fast delivery.
+708,1813,30,5,2025-07-19,Very happy with my purchase.
+709,192,72,4,2024-07-21,Works as expected.
+710,623,40,4,2024-03-28,Nice quality and useful.
+711,15,19,5,2024-04-04,Excellent product and fast delivery.
+712,1332,59,5,2024-04-16,Great quality for the price.
+713,789,10,4,2024-06-02,Good product overall.
+714,2442,77,5,2025-06-14,Very happy with my purchase.
+715,1816,86,5,2024-11-30,Great quality for the price.
+716,1503,39,5,2024-07-13,Excellent product and fast delivery.
+717,1802,56,4,2025-02-05,Good product overall.
+718,1565,56,5,2025-11-22,Very happy with my purchase.
+719,2451,1,5,2024-08-01,Very happy with my purchase.
+720,973,20,5,2025-05-13,Great quality for the price.
+721,255,16,4,2024-06-17,Nice quality and useful.
+722,731,55,5,2025-01-26,Great quality for the price.
+723,148,44,4,2024-09-30,Nice quality and useful.
+724,1490,8,4,2024-10-02,Good product overall.
+725,2104,81,2,2024-01-17,Not as good as expected.
+726,1657,77,5,2025-10-26,Very happy with my purchase.
+727,2062,57,4,2025-02-14,Good product overall.
+728,1394,56,3,2025-02-22,"It is okay, but could be better."
+729,846,81,4,2025-11-25,Works as expected.
+730,2373,1,5,2025-06-25,Excellent product and fast delivery.
+731,1726,77,4,2025-08-05,Nice quality and useful.
+732,1187,5,4,2025-08-10,Nice quality and useful.
+733,1368,80,5,2025-07-26,Great quality for the price.
+734,2291,91,5,2025-03-18,Great quality for the price.
+735,1801,84,3,2025-11-30,Average experience.
+736,864,49,4,2025-03-05,Nice quality and useful.
+737,659,31,5,2025-10-24,Very happy with my purchase.
+738,699,64,5,2025-10-03,Great quality for the price.
+739,764,83,2,2025-07-11,Not as good as expected.
+740,984,8,4,2024-10-24,Nice quality and useful.
+741,1386,4,4,2025-09-25,Works as expected.
+742,1325,72,5,2024-06-21,Excellent product and fast delivery.
+743,527,95,5,2025-01-11,Great quality for the price.
+744,1897,8,5,2025-07-04,Very happy with my purchase.
+745,2134,23,5,2024-02-29,Very happy with my purchase.
+746,1008,37,4,2024-07-08,Works as expected.
+747,641,17,2,2025-08-16,Quality could be improved.
+748,880,84,4,2024-05-03,Good product overall.
+749,1766,95,3,2024-07-14,"It is okay, but could be better."
+750,1422,2,5,2025-01-04,Very happy with my purchase.
+751,1050,13,4,2024-09-27,Nice quality and useful.
+752,2046,13,4,2025-05-08,Nice quality and useful.
+753,20,49,4,2026-01-04,Works as expected.
+754,2128,94,3,2025-12-22,"It is okay, but could be better."
+755,600,10,4,2024-12-18,Works as expected.
+756,1117,72,2,2025-10-24,Not as good as expected.
+757,2294,18,5,2025-04-12,Very happy with my purchase.
+758,2402,80,2,2024-04-16,Not as good as expected.
+759,589,3,5,2024-03-30,Great quality for the price.
+760,407,75,5,2024-02-07,Great quality for the price.
+761,1454,65,4,2025-10-06,Works as expected.
+762,105,13,3,2024-10-01,Average experience.
+763,291,88,2,2024-04-18,Not as good as expected.
+764,319,51,5,2025-01-03,Very happy with my purchase.
+765,2205,94,5,2025-03-13,Great quality for the price.
+766,792,65,4,2025-09-29,Good product overall.
+767,1753,29,5,2025-10-13,Excellent product and fast delivery.
+768,1598,39,5,2024-12-30,Very happy with my purchase.
+769,28,95,4,2025-05-31,Nice quality and useful.
+770,1500,17,4,2024-11-01,Nice quality and useful.
+771,222,92,5,2024-11-12,Excellent product and fast delivery.
+772,2234,78,4,2025-02-12,Good product overall.
+773,2454,94,4,2025-01-18,Nice quality and useful.
+774,726,48,3,2025-07-24,Product is decent for the price.
+775,1519,47,3,2024-03-29,Average experience.
+776,2121,54,4,2026-01-08,Nice quality and useful.
+777,1626,50,5,2025-05-07,Excellent product and fast delivery.
+778,2498,46,5,2024-02-19,Great quality for the price.
+779,870,72,5,2024-04-08,Great quality for the price.
+780,527,44,5,2025-02-12,Great quality for the price.
+781,1853,49,4,2025-01-14,Works as expected.
+782,990,54,4,2024-05-17,Nice quality and useful.
+783,454,58,3,2025-04-01,"It is okay, but could be better."
+784,995,24,4,2025-05-27,Nice quality and useful.
+785,1455,13,5,2024-04-15,Very happy with my purchase.
+786,74,45,3,2024-11-14,Product is decent for the price.
+787,338,67,1,2025-06-02,Very disappointed with the product.
+788,1183,32,4,2025-01-27,Good product overall.
+789,1165,1,4,2024-05-20,Nice quality and useful.
+790,2169,81,4,2025-11-26,Works as expected.
+791,2472,42,2,2024-03-30,Delivery was fine but product disappointed me.
+792,1231,35,4,2025-06-28,Works as expected.
+793,634,30,2,2025-11-21,Quality could be improved.
+794,73,9,5,2024-11-16,Excellent product and fast delivery.
+795,139,67,4,2025-07-03,Good product overall.
+796,581,94,2,2025-05-11,Delivery was fine but product disappointed me.
+797,1982,35,4,2025-06-03,Good product overall.
+798,7,12,3,2025-04-21,"It is okay, but could be better."
+799,623,33,3,2025-02-18,Average experience.
+800,678,45,4,2024-07-15,Works as expected.
+801,630,73,3,2024-10-26,Average experience.
+802,926,52,5,2024-10-19,Excellent product and fast delivery.
+803,2322,36,4,2025-11-02,Good product overall.
+804,29,75,4,2025-08-09,Works as expected.
+805,659,33,4,2025-08-19,Works as expected.
+806,2377,2,5,2025-05-01,Great quality for the price.
+807,1986,37,3,2025-09-06,Product is decent for the price.
+808,2018,46,4,2025-09-13,Good product overall.
+809,1198,25,4,2024-03-17,Good product overall.
+810,130,80,4,2025-08-01,Nice quality and useful.
+811,381,12,4,2025-10-12,Works as expected.
+812,1816,63,4,2024-04-22,Works as expected.
+813,1794,16,3,2025-05-19,"It is okay, but could be better."
+814,519,23,4,2025-01-05,Works as expected.
+815,1723,40,4,2024-02-18,Works as expected.
+816,398,2,4,2025-07-15,Works as expected.
+817,827,14,5,2024-10-06,Great quality for the price.
+818,918,94,5,2025-09-27,Great quality for the price.
+819,1950,76,4,2025-11-18,Works as expected.
+820,2089,78,3,2025-05-08,Product is decent for the price.
+821,1646,45,5,2025-07-31,Great quality for the price.
+822,1804,50,4,2024-03-21,Works as expected.
+823,596,52,5,2025-10-30,Excellent product and fast delivery.
+824,128,79,3,2024-07-08,Product is decent for the price.
+825,1559,10,2,2025-12-05,Not as good as expected.
+826,1512,39,4,2024-06-14,Good product overall.
+827,1491,87,5,2025-02-26,Excellent product and fast delivery.
+828,936,94,5,2025-02-07,Great quality for the price.
+829,2305,79,4,2025-01-25,Good product overall.
+830,513,87,4,2025-10-26,Nice quality and useful.
+831,1016,96,4,2025-12-05,Nice quality and useful.
+832,2340,89,5,2025-01-04,Excellent product and fast delivery.
+833,2104,13,5,2025-11-17,Great quality for the price.
+834,1369,69,3,2025-07-10,Product is decent for the price.
+835,2399,29,3,2025-09-25,Average experience.
+836,1677,75,3,2024-11-05,Product is decent for the price.
+837,17,70,5,2025-05-20,Great quality for the price.
+838,1684,71,5,2026-01-11,Excellent product and fast delivery.
+839,339,56,3,2025-06-25,Product is decent for the price.
+840,1132,16,4,2025-08-20,Good product overall.
+841,580,21,5,2025-10-10,Great quality for the price.
+842,972,54,4,2024-08-15,Works as expected.
+843,21,54,5,2025-11-27,Excellent product and fast delivery.
+844,265,2,3,2024-01-27,"It is okay, but could be better."
+845,2023,39,5,2025-03-10,Excellent product and fast delivery.
+846,743,7,4,2024-07-02,Good product overall.
+847,1623,86,4,2025-09-09,Good product overall.
+848,2110,93,4,2025-05-13,Nice quality and useful.
+849,1367,20,5,2024-02-14,Great quality for the price.
+850,74,44,5,2024-02-16,Great quality for the price.
+851,297,12,3,2024-03-26,Average experience.
+852,972,76,4,2024-08-14,Nice quality and useful.
+853,475,45,4,2024-04-19,Good product overall.
+854,2241,13,4,2024-07-25,Works as expected.
+855,53,52,4,2024-07-08,Good product overall.
+856,202,38,3,2025-09-26,Average experience.
+857,2070,20,3,2024-08-26,"It is okay, but could be better."
+858,2380,31,2,2026-01-10,Not as good as expected.
+859,414,89,5,2024-07-10,Very happy with my purchase.
+860,2344,56,5,2024-07-09,Excellent product and fast delivery.
+861,2190,71,4,2025-07-25,Good product overall.
+862,2299,82,4,2025-01-18,Nice quality and useful.
+863,535,1,5,2025-12-19,Very happy with my purchase.
+864,607,83,5,2025-03-29,Great quality for the price.
+865,2331,26,3,2025-06-13,Product is decent for the price.
+866,757,56,5,2024-10-09,Very happy with my purchase.
+867,142,70,4,2025-07-04,Good product overall.
+868,2082,34,5,2025-12-16,Excellent product and fast delivery.
+869,657,23,4,2024-04-01,Works as expected.
+870,732,90,5,2025-06-30,Very happy with my purchase.
+871,1306,8,3,2024-02-21,"It is okay, but could be better."
+872,1233,43,5,2025-05-01,Very happy with my purchase.
+873,2096,27,5,2025-06-17,Excellent product and fast delivery.
+874,1335,38,5,2025-03-09,Very happy with my purchase.
+875,481,52,5,2024-02-03,Great quality for the price.
+876,1927,23,4,2025-05-23,Good product overall.
+877,726,64,3,2024-05-07,Product is decent for the price.
+878,1956,2,5,2025-09-02,Great quality for the price.
+879,1871,52,4,2024-03-20,Good product overall.
+880,2124,22,3,2026-01-13,Average experience.
+881,1224,50,4,2025-12-05,Works as expected.
+882,2323,2,5,2024-12-20,Very happy with my purchase.
+883,623,74,5,2024-05-20,Excellent product and fast delivery.
+884,1958,78,5,2025-09-10,Excellent product and fast delivery.
+885,90,75,5,2024-11-14,Excellent product and fast delivery.
+886,1217,13,4,2024-09-21,Good product overall.
+887,191,65,4,2024-12-09,Works as expected.
+888,2182,59,5,2025-05-31,Excellent product and fast delivery.
+889,416,39,1,2025-08-21,Very disappointed with the product.
+890,332,11,3,2024-10-03,Average experience.
+891,1427,56,5,2025-03-28,Very happy with my purchase.
+892,253,56,4,2024-06-21,Works as expected.
+893,1573,20,4,2025-01-12,Nice quality and useful.
+894,732,60,5,2024-11-12,Great quality for the price.
+895,2018,24,4,2024-07-29,Good product overall.
+896,41,64,4,2024-04-05,Good product overall.
+897,1041,24,5,2024-06-18,Great quality for the price.
+898,957,93,1,2024-10-21,Very disappointed with the product.
+899,901,47,5,2025-03-09,Excellent product and fast delivery.
+900,1744,54,4,2026-01-04,Works as expected.
+901,984,84,5,2025-03-12,Excellent product and fast delivery.
+902,1284,77,2,2025-01-08,Quality could be improved.
+903,240,28,5,2025-09-21,Great quality for the price.
+904,1918,46,3,2025-01-19,Product is decent for the price.
+905,1149,86,5,2025-04-12,Excellent product and fast delivery.
+906,889,87,4,2024-03-09,Nice quality and useful.
+907,2168,70,5,2024-12-01,Excellent product and fast delivery.
+908,540,71,5,2024-08-01,Very happy with my purchase.
+909,1381,27,5,2024-02-27,Excellent product and fast delivery.
+910,827,73,5,2025-01-09,Excellent product and fast delivery.
+911,425,41,4,2024-04-28,Nice quality and useful.
+912,1568,20,4,2025-02-11,Works as expected.
+913,539,45,5,2025-02-10,Excellent product and fast delivery.
+914,2163,29,5,2024-12-20,Excellent product and fast delivery.
+915,414,62,1,2025-08-04,Very disappointed with the product.
+916,491,58,1,2025-02-01,Very disappointed with the product.
+917,1475,31,4,2024-04-26,Good product overall.
+918,353,37,3,2025-05-21,Product is decent for the price.
+919,359,75,3,2024-06-19,Product is decent for the price.
+920,464,61,4,2025-01-25,Nice quality and useful.
+921,2411,86,5,2024-02-28,Very happy with my purchase.
+922,147,36,4,2024-10-21,Works as expected.
+923,561,17,5,2024-05-12,Very happy with my purchase.
+924,1241,10,5,2024-10-14,Very happy with my purchase.
+925,1136,27,4,2025-05-13,Works as expected.
+926,2191,59,5,2024-04-08,Very happy with my purchase.
+927,1663,53,3,2024-07-08,"It is okay, but could be better."
+928,107,23,4,2024-11-03,Good product overall.
+929,236,90,2,2024-08-18,Delivery was fine but product disappointed me.
+930,731,23,5,2025-01-21,Great quality for the price.
+931,888,25,5,2025-05-26,Excellent product and fast delivery.
+932,856,27,4,2025-05-07,Works as expected.
+933,452,66,3,2024-10-30,Product is decent for the price.
+934,2151,21,5,2024-07-12,Great quality for the price.
+935,1735,25,2,2024-03-09,Quality could be improved.
+936,1308,44,5,2024-09-02,Very happy with my purchase.
+937,1736,38,5,2025-07-24,Great quality for the price.
+938,230,74,5,2024-04-09,Very happy with my purchase.
+939,1569,13,5,2025-03-17,Great quality for the price.
+940,2392,18,3,2025-03-17,Product is decent for the price.
+941,1669,56,5,2024-11-14,Excellent product and fast delivery.
+942,1063,70,3,2024-06-03,Average experience.
+943,2193,79,5,2025-02-07,Very happy with my purchase.
+944,1,92,4,2025-08-29,Good product overall.
+945,315,46,4,2025-07-23,Works as expected.
+946,2429,85,4,2024-03-06,Good product overall.
+947,60,11,4,2024-05-21,Good product overall.
+948,1217,57,5,2025-04-25,Excellent product and fast delivery.
+949,2004,62,3,2025-05-14,"It is okay, but could be better."
+950,156,34,4,2025-06-07,Works as expected.
+951,344,96,5,2025-09-08,Excellent product and fast delivery.
+952,2046,70,4,2025-04-25,Nice quality and useful.
+953,687,77,2,2025-08-01,Quality could be improved.
+954,413,21,4,2025-04-05,Good product overall.
+955,683,86,5,2025-12-19,Great quality for the price.
+956,879,8,3,2025-11-04,Average experience.
+957,1316,48,5,2025-09-09,Great quality for the price.
+958,614,82,5,2025-10-29,Very happy with my purchase.
+959,1386,91,3,2025-02-24,Average experience.
+960,46,29,5,2024-06-11,Great quality for the price.
+961,1694,69,5,2024-05-17,Very happy with my purchase.
+962,1613,75,4,2024-08-08,Good product overall.
+963,486,25,5,2025-11-04,Very happy with my purchase.
+964,2191,47,5,2024-08-17,Excellent product and fast delivery.
+965,2308,8,5,2025-03-18,Great quality for the price.
+966,1441,41,4,2024-04-28,Nice quality and useful.
+967,749,86,4,2024-07-13,Works as expected.
+968,500,40,3,2025-09-19,Average experience.
+969,64,13,5,2025-12-23,Excellent product and fast delivery.
+970,2427,54,4,2024-02-01,Good product overall.
+971,2137,91,3,2024-03-29,Average experience.
+972,2480,95,3,2025-11-15,"It is okay, but could be better."
+973,792,40,5,2025-06-02,Very happy with my purchase.
+974,442,63,5,2024-03-07,Very happy with my purchase.
+975,58,26,2,2025-12-15,Delivery was fine but product disappointed me.
+976,751,53,5,2024-04-30,Excellent product and fast delivery.
+977,1844,58,4,2024-10-09,Nice quality and useful.
+978,757,3,5,2025-02-10,Very happy with my purchase.
+979,940,50,5,2025-09-20,Very happy with my purchase.
+980,1993,18,5,2024-09-29,Great quality for the price.
+981,1776,18,4,2024-06-24,Nice quality and useful.
+982,766,22,4,2025-07-26,Nice quality and useful.
+983,574,75,4,2024-08-05,Good product overall.
+984,666,24,4,2024-03-26,Works as expected.
+985,2255,42,4,2024-08-21,Works as expected.
+986,172,13,1,2024-09-19,Would not buy this again.
+987,359,79,5,2024-05-06,Excellent product and fast delivery.
+988,1688,47,5,2024-04-28,Excellent product and fast delivery.
+989,504,46,4,2025-03-10,Nice quality and useful.
+990,2378,82,4,2024-06-22,Nice quality and useful.
+991,213,16,4,2025-02-05,Works as expected.
+992,1753,21,3,2025-09-25,Product is decent for the price.
+993,2280,67,4,2024-02-06,Nice quality and useful.
+994,130,61,5,2025-08-11,Excellent product and fast delivery.
+995,1746,69,2,2026-01-15,Delivery was fine but product disappointed me.
+996,2405,12,4,2024-01-25,Nice quality and useful.
+997,2151,25,5,2024-07-21,Excellent product and fast delivery.
+998,1345,7,4,2024-09-25,Works as expected.
+999,244,10,5,2025-07-04,Excellent product and fast delivery.
+1000,200,40,4,2024-12-26,Works as expected.
+1001,826,81,2,2024-03-16,Quality could be improved.
+1002,322,19,4,2024-04-15,Good product overall.
+1003,1855,51,1,2025-07-03,Poor quality.
+1004,442,10,4,2024-05-13,Works as expected.
+1005,501,52,5,2024-12-13,Great quality for the price.
+1006,666,30,3,2024-07-30,Product is decent for the price.
+1007,1061,85,1,2024-08-18,Would not buy this again.
+1008,2490,26,4,2024-08-27,Works as expected.
+1009,2034,78,4,2025-07-03,Good product overall.
+1010,896,76,3,2025-06-06,Average experience.
+1011,1018,28,4,2024-02-11,Works as expected.
+1012,165,81,5,2024-11-09,Very happy with my purchase.
+1013,2372,63,4,2025-01-08,Works as expected.
+1014,467,5,4,2024-01-13,Nice quality and useful.
+1015,2490,77,5,2024-09-25,Great quality for the price.
+1016,1613,55,5,2025-06-11,Great quality for the price.
+1017,992,49,4,2024-03-02,Works as expected.
+1018,973,24,5,2025-12-07,Excellent product and fast delivery.
+1019,1950,63,5,2024-08-25,Great quality for the price.
+1020,479,46,3,2024-04-12,Product is decent for the price.
+1021,427,29,2,2024-08-10,Delivery was fine but product disappointed me.
+1022,380,15,3,2025-12-05,"It is okay, but could be better."
+1023,167,79,4,2025-06-29,Good product overall.
+1024,757,77,4,2024-10-14,Good product overall.
+1025,888,92,5,2025-05-23,Very happy with my purchase.
+1026,692,9,4,2024-12-14,Works as expected.
+1027,261,65,5,2024-04-17,Very happy with my purchase.
+1028,2067,14,4,2025-10-29,Works as expected.
+1029,1312,65,4,2025-08-25,Works as expected.
+1030,1493,54,5,2024-01-20,Excellent product and fast delivery.
+1031,2395,59,3,2024-02-07,"It is okay, but could be better."
+1032,1,27,1,2024-02-10,Very disappointed with the product.
+1033,551,56,4,2025-03-08,Nice quality and useful.
+1034,1881,68,3,2025-05-21,"It is okay, but could be better."
+1035,976,67,4,2025-06-26,Nice quality and useful.
+1036,1656,56,4,2024-07-29,Works as expected.
+1037,1545,7,3,2025-09-01,"It is okay, but could be better."
+1038,1030,20,2,2024-09-14,Not as good as expected.
+1039,2022,10,5,2025-11-23,Very happy with my purchase.
+1040,2296,57,4,2024-07-18,Nice quality and useful.
+1041,123,58,4,2025-09-30,Good product overall.
+1042,95,44,5,2025-08-09,Excellent product and fast delivery.
+1043,1573,15,3,2025-07-10,Average experience.
+1044,1955,56,4,2024-10-03,Works as expected.
+1045,1030,74,4,2025-10-11,Works as expected.
+1046,1726,24,4,2025-07-23,Nice quality and useful.
+1047,319,65,4,2025-11-07,Nice quality and useful.
+1048,104,13,4,2025-05-17,Nice quality and useful.
+1049,554,7,3,2024-08-26,Product is decent for the price.
+1050,1642,29,4,2024-07-30,Nice quality and useful.
+1051,2297,70,3,2024-04-13,Product is decent for the price.
+1052,1223,38,3,2025-05-10,Product is decent for the price.
+1053,202,35,5,2025-09-19,Very happy with my purchase.
+1054,17,14,4,2025-03-21,Works as expected.
+1055,237,79,3,2024-06-21,"It is okay, but could be better."
+1056,353,23,4,2024-08-15,Good product overall.
+1057,2413,67,4,2025-02-05,Good product overall.
+1058,994,30,4,2024-05-28,Works as expected.
+1059,1109,9,4,2024-08-25,Works as expected.
+1060,1146,37,5,2025-01-06,Excellent product and fast delivery.
+1061,731,95,5,2025-05-02,Great quality for the price.
+1062,756,78,4,2024-04-24,Good product overall.
+1063,2110,20,4,2025-05-28,Good product overall.
+1064,421,34,5,2024-05-21,Excellent product and fast delivery.
+1065,2499,70,4,2024-07-30,Nice quality and useful.
+1066,429,49,4,2024-07-05,Nice quality and useful.
+1067,634,28,5,2025-02-08,Excellent product and fast delivery.
+1068,1596,62,3,2024-11-21,Product is decent for the price.
+1069,1237,61,4,2025-11-29,Nice quality and useful.
+1070,1332,2,4,2024-11-17,Good product overall.
+1071,885,93,3,2024-02-02,"It is okay, but could be better."
+1072,2404,34,4,2025-10-03,Works as expected.
+1073,1147,53,4,2024-08-27,Nice quality and useful.
+1074,2178,33,1,2024-07-03,Very disappointed with the product.
+1075,1263,33,4,2025-05-14,Nice quality and useful.
+1076,2282,87,1,2024-12-03,Would not buy this again.
+1077,1818,88,3,2024-04-11,Product is decent for the price.
+1078,655,72,1,2026-01-14,Poor quality.
+1079,2348,14,4,2025-05-08,Works as expected.
+1080,1417,20,4,2025-09-16,Works as expected.
+1081,2267,20,3,2024-11-25,"It is okay, but could be better."
+1082,261,19,4,2025-03-31,Works as expected.
+1083,1231,10,5,2025-06-30,Very happy with my purchase.
+1084,1162,30,2,2025-02-13,Not as good as expected.
+1085,1968,69,5,2025-06-23,Very happy with my purchase.
+1086,2006,84,5,2024-07-27,Great quality for the price.
+1087,2427,14,3,2025-09-03,Average experience.
+1088,1757,32,5,2025-03-23,Very happy with my purchase.
+1089,976,29,4,2024-04-14,Works as expected.
+1090,1336,31,5,2024-09-16,Great quality for the price.
+1091,2349,61,1,2025-12-08,Poor quality.
+1092,1162,66,3,2025-11-04,Average experience.
+1093,938,45,1,2025-10-17,Would not buy this again.
+1094,1965,18,2,2024-10-23,Not as good as expected.
+1095,1654,70,4,2025-07-26,Good product overall.
+1096,1345,78,5,2025-07-31,Great quality for the price.
+1097,1988,14,4,2025-07-02,Works as expected.
+1098,2163,34,5,2025-08-13,Very happy with my purchase.
+1099,41,88,3,2024-07-07,"It is okay, but could be better."
+1100,2240,69,3,2025-06-27,Average experience.
+1101,725,85,3,2024-12-03,"It is okay, but could be better."
+1102,1030,67,3,2025-05-13,Product is decent for the price.
+1103,1328,63,3,2025-03-01,Product is decent for the price.
+1104,1694,33,4,2025-11-25,Good product overall.
+1105,895,12,2,2025-08-11,Not as good as expected.
+1106,1756,84,4,2025-09-29,Good product overall.
+1107,1041,49,2,2024-02-09,Delivery was fine but product disappointed me.
+1108,394,65,5,2024-02-03,Very happy with my purchase.
+1109,301,3,5,2025-05-04,Very happy with my purchase.
+1110,1195,70,5,2024-11-11,Excellent product and fast delivery.
+1111,763,60,4,2024-04-24,Good product overall.
+1112,1122,86,4,2025-08-09,Nice quality and useful.
+1113,1459,76,5,2025-10-31,Excellent product and fast delivery.
+1114,1174,81,3,2025-07-12,Product is decent for the price.
+1115,814,41,4,2025-12-17,Works as expected.
+1116,103,69,2,2025-04-02,Delivery was fine but product disappointed me.
+1117,1475,16,2,2025-04-18,Not as good as expected.
+1118,2452,22,4,2024-08-31,Nice quality and useful.
+1119,1403,74,4,2025-02-17,Good product overall.
+1120,2465,26,5,2025-07-10,Great quality for the price.
+1121,1622,2,5,2024-11-12,Great quality for the price.
+1122,625,32,4,2024-11-27,Works as expected.
+1123,965,3,4,2025-03-21,Works as expected.
+1124,560,76,3,2024-03-22,Product is decent for the price.
+1125,2104,95,4,2025-02-08,Good product overall.
+1126,1329,50,4,2025-09-09,Works as expected.
+1127,2164,90,4,2024-05-05,Works as expected.
+1128,1337,50,5,2025-03-28,Great quality for the price.
+1129,24,9,3,2025-11-21,"It is okay, but could be better."
+1130,2066,14,4,2024-10-07,Nice quality and useful.
+1131,1308,27,5,2024-07-28,Very happy with my purchase.
+1132,1642,32,3,2024-12-12,"It is okay, but could be better."
+1133,1818,27,3,2025-11-02,Average experience.
+1134,534,62,2,2025-07-01,Quality could be improved.
+1135,147,32,5,2025-12-10,Excellent product and fast delivery.
+1136,2034,3,4,2024-07-14,Nice quality and useful.
+1137,2493,91,1,2025-03-27,Would not buy this again.
+1138,718,13,5,2025-03-11,Very happy with my purchase.
+1139,1596,71,4,2025-12-12,Nice quality and useful.
+1140,2203,3,4,2025-05-27,Good product overall.
+1141,1132,20,4,2024-10-30,Works as expected.
+1142,1624,16,3,2024-01-28,Product is decent for the price.
+1143,247,88,3,2024-08-17,"It is okay, but could be better."
+1144,557,30,5,2025-11-24,Excellent product and fast delivery.
+1145,1504,55,4,2025-06-22,Good product overall.
+1146,414,78,5,2025-03-04,Excellent product and fast delivery.
+1147,1368,53,5,2024-10-10,Excellent product and fast delivery.
+1148,712,40,5,2024-05-11,Very happy with my purchase.
+1149,958,15,4,2025-11-09,Good product overall.
+1150,2478,38,4,2024-06-01,Nice quality and useful.
+1151,2359,60,5,2025-08-19,Very happy with my purchase.
+1152,1206,72,3,2025-05-09,Product is decent for the price.
+1153,2272,3,4,2024-07-16,Good product overall.
+1154,1652,22,2,2025-06-06,Quality could be improved.
+1155,300,31,3,2024-08-25,Average experience.
+1156,1327,55,4,2025-02-01,Good product overall.
+1157,1815,80,1,2024-11-19,Would not buy this again.
+1158,880,12,3,2025-09-28,Product is decent for the price.
+1159,526,23,3,2024-08-29,"It is okay, but could be better."
+1160,1155,31,2,2024-06-21,Delivery was fine but product disappointed me.
+1161,1143,12,3,2024-04-29,Product is decent for the price.
+1162,501,95,4,2024-10-02,Good product overall.
+1163,859,20,5,2025-12-21,Very happy with my purchase.
+1164,2191,89,5,2025-03-11,Very happy with my purchase.
+1165,2490,95,4,2025-09-07,Nice quality and useful.
+1166,673,31,4,2025-01-01,Works as expected.
+1167,1927,24,5,2024-10-10,Great quality for the price.
+1168,1146,58,5,2025-06-15,Great quality for the price.
+1169,2364,56,5,2024-06-07,Excellent product and fast delivery.
+1170,257,68,2,2024-12-29,Delivery was fine but product disappointed me.
+1171,2063,58,5,2025-03-05,Excellent product and fast delivery.
+1172,1821,42,5,2025-02-28,Excellent product and fast delivery.
+1173,473,38,4,2025-01-27,Works as expected.
+1174,2296,24,5,2024-08-04,Very happy with my purchase.
+1175,716,93,4,2024-09-23,Works as expected.
+1176,209,22,4,2025-12-06,Good product overall.
+1177,397,66,3,2024-08-28,"It is okay, but could be better."
+1178,435,81,4,2025-01-12,Good product overall.
+1179,1743,21,3,2024-03-08,"It is okay, but could be better."
+1180,920,83,3,2025-10-26,Product is decent for the price.
+1181,510,43,3,2024-12-07,"It is okay, but could be better."
+1182,466,61,1,2025-08-19,Would not buy this again.
+1183,2221,64,4,2025-02-02,Nice quality and useful.
+1184,384,27,4,2025-03-04,Nice quality and useful.
+1185,77,61,5,2025-12-29,Great quality for the price.
+1186,1290,79,4,2025-03-25,Nice quality and useful.
+1187,1470,46,4,2025-06-30,Works as expected.
+1188,1572,85,5,2024-06-21,Great quality for the price.
+1189,2424,87,2,2024-02-20,Not as good as expected.
+1190,1923,48,3,2025-12-20,Product is decent for the price.
+1191,414,72,5,2025-10-06,Excellent product and fast delivery.
+1192,407,4,4,2025-10-24,Good product overall.
+1193,350,19,4,2024-03-31,Good product overall.
+1194,945,39,5,2024-09-22,Very happy with my purchase.
+1195,2253,72,4,2025-02-17,Nice quality and useful.
+1196,880,79,3,2024-09-02,"It is okay, but could be better."
+1197,838,32,5,2025-03-22,Excellent product and fast delivery.
+1198,304,50,3,2024-11-01,Average experience.
+1199,1602,61,4,2025-05-17,Good product overall.
+1200,1663,43,3,2024-03-24,Average experience.
+1201,2399,96,3,2024-02-11,Product is decent for the price.
+1202,1483,94,4,2024-09-22,Good product overall.
+1203,2490,37,5,2024-08-20,Very happy with my purchase.
+1204,2056,53,5,2025-12-08,Very happy with my purchase.
+1205,117,12,5,2024-08-29,Very happy with my purchase.
+1206,1147,41,5,2025-11-14,Very happy with my purchase.
+1207,926,7,3,2025-02-19,"It is okay, but could be better."
+1208,2443,34,5,2025-04-05,Very happy with my purchase.
+1209,2393,95,3,2025-08-14,Product is decent for the price.
+1210,1224,59,5,2025-12-18,Very happy with my purchase.
+1211,899,52,4,2025-08-29,Nice quality and useful.
+1212,708,44,3,2026-01-01,"It is okay, but could be better."
+1213,309,85,4,2024-12-15,Nice quality and useful.
+1214,1816,91,5,2025-09-02,Very happy with my purchase.
+1215,1776,80,5,2025-12-30,Excellent product and fast delivery.
+1216,1593,36,4,2025-08-05,Nice quality and useful.
+1217,1624,65,2,2024-03-28,Quality could be improved.
+1218,2333,96,3,2025-03-15,Average experience.
+1219,1174,51,4,2025-05-22,Nice quality and useful.
+1220,2277,62,4,2025-10-30,Nice quality and useful.
+1221,214,43,5,2024-01-18,Excellent product and fast delivery.
+1222,339,7,3,2025-08-29,"It is okay, but could be better."
+1223,484,45,5,2025-04-19,Great quality for the price.
+1224,697,61,4,2024-04-16,Works as expected.
+1225,1310,96,5,2025-08-18,Great quality for the price.
+1226,1059,91,3,2025-08-25,Product is decent for the price.
+1227,686,71,4,2024-12-15,Nice quality and useful.
+1228,578,82,4,2025-08-12,Good product overall.
+1229,2385,4,5,2025-01-28,Great quality for the price.
+1230,2284,5,5,2026-01-01,Very happy with my purchase.
+1231,113,19,5,2024-02-13,Great quality for the price.
+1232,414,51,5,2024-01-14,Excellent product and fast delivery.
+1233,270,44,4,2025-08-02,Works as expected.
+1234,990,10,4,2025-07-15,Nice quality and useful.
+1235,2218,59,4,2025-05-30,Good product overall.
+1236,960,50,5,2025-11-26,Great quality for the price.
+1237,2025,28,3,2025-04-19,Average experience.
+1238,1244,12,5,2025-04-02,Excellent product and fast delivery.
+1239,298,58,5,2024-05-27,Great quality for the price.
+1240,128,87,4,2024-06-21,Nice quality and useful.
+1241,2023,53,5,2025-10-15,Very happy with my purchase.
+1242,1901,87,5,2025-01-15,Great quality for the price.
+1243,2156,62,5,2025-05-12,Very happy with my purchase.
+1244,2414,33,5,2025-03-11,Great quality for the price.
+1245,871,74,3,2024-04-30,"It is okay, but could be better."
+1246,259,1,3,2024-12-07,Average experience.
+1247,2041,12,5,2025-10-19,Very happy with my purchase.
+1248,659,64,5,2025-07-07,Very happy with my purchase.
+1249,1174,30,5,2025-03-04,Very happy with my purchase.
+1250,1492,92,3,2024-04-12,Average experience.
+1251,1469,22,5,2025-03-20,Very happy with my purchase.
+1252,998,22,5,2024-09-06,Excellent product and fast delivery.
+1253,1654,21,5,2024-12-26,Excellent product and fast delivery.
+1254,1240,23,3,2024-06-22,Average experience.
+1255,522,35,3,2025-10-27,Average experience.
+1256,731,31,5,2025-04-03,Great quality for the price.
+1257,1682,45,1,2024-05-29,Poor quality.
+1258,2393,26,5,2024-04-05,Excellent product and fast delivery.
+1259,847,5,4,2024-05-02,Works as expected.
+1260,522,68,5,2024-10-22,Great quality for the price.
+1261,1202,50,5,2025-03-17,Very happy with my purchase.
+1262,1949,6,2,2025-10-28,Delivery was fine but product disappointed me.
+1263,1454,72,5,2025-06-05,Very happy with my purchase.
+1264,731,14,4,2024-09-28,Good product overall.
+1265,741,13,4,2024-08-26,Works as expected.
+1266,1391,69,4,2024-04-06,Good product overall.
+1267,654,71,5,2024-08-12,Very happy with my purchase.
+1268,1799,72,1,2024-12-26,Very disappointed with the product.
+1269,2359,27,4,2025-04-18,Nice quality and useful.
+1270,1057,52,5,2024-06-11,Excellent product and fast delivery.
+1271,2062,79,5,2025-05-18,Great quality for the price.
+1272,283,20,4,2025-01-09,Good product overall.
+1273,1604,17,5,2024-10-09,Great quality for the price.
+1274,2131,78,4,2024-02-08,Works as expected.
+1275,98,9,4,2024-03-31,Good product overall.
+1276,918,53,2,2025-05-12,Delivery was fine but product disappointed me.
+1277,1602,76,5,2025-05-31,Great quality for the price.
+1278,1637,36,5,2024-05-14,Great quality for the price.
+1279,630,81,4,2025-11-12,Good product overall.
+1280,2127,43,4,2024-09-19,Good product overall.
+1281,1,27,4,2025-12-28,Works as expected.
+1282,558,68,4,2024-07-16,Works as expected.
+1283,2499,52,5,2025-05-12,Very happy with my purchase.
+1284,1825,85,5,2025-04-08,Very happy with my purchase.
+1285,954,85,5,2025-02-21,Excellent product and fast delivery.
+1286,459,83,4,2026-01-04,Nice quality and useful.
+1287,2083,89,4,2024-01-14,Works as expected.
+1288,896,31,5,2025-05-25,Very happy with my purchase.
+1289,15,52,4,2025-01-07,Works as expected.
+1290,139,87,3,2024-12-01,"It is okay, but could be better."
+1291,1147,11,3,2025-07-08,"It is okay, but could be better."
+1292,1369,17,5,2025-03-13,Very happy with my purchase.
+1293,300,32,5,2025-10-28,Excellent product and fast delivery.
+1294,93,92,3,2025-11-12,Average experience.
+1295,1535,5,3,2025-06-15,Product is decent for the price.
+1296,2160,44,3,2024-11-10,Average experience.
+1297,1740,88,4,2025-04-29,Works as expected.
+1298,1930,2,4,2024-11-16,Good product overall.
+1299,11,66,4,2024-08-25,Nice quality and useful.
+1300,2349,32,4,2025-04-13,Nice quality and useful.
+1301,914,79,5,2024-09-22,Excellent product and fast delivery.
+1302,2217,29,2,2025-07-07,Quality could be improved.
+1303,464,5,4,2024-03-27,Works as expected.
+1304,2187,12,2,2024-01-30,Not as good as expected.
+1305,940,83,3,2025-07-31,"It is okay, but could be better."
+1306,1399,60,4,2025-01-03,Works as expected.
+1307,1524,19,5,2025-07-17,Great quality for the price.
+1308,2411,18,3,2024-12-01,"It is okay, but could be better."
+1309,1898,75,4,2024-04-28,Nice quality and useful.
+1310,2243,46,5,2025-05-15,Great quality for the price.
+1311,1243,64,3,2024-11-24,"It is okay, but could be better."
+1312,827,71,5,2025-07-01,Great quality for the price.
+1313,1308,67,4,2024-07-30,Good product overall.
+1314,525,41,4,2024-03-17,Nice quality and useful.
+1315,2289,15,3,2024-06-25,"It is okay, but could be better."
+1316,792,31,5,2025-11-06,Great quality for the price.
+1317,1707,2,3,2024-07-03,Average experience.
+1318,54,53,5,2024-02-17,Excellent product and fast delivery.
+1319,1201,77,5,2024-03-10,Excellent product and fast delivery.
+1320,2459,74,4,2024-01-19,Nice quality and useful.
+1321,2389,18,4,2024-12-26,Nice quality and useful.
+1322,1855,39,5,2024-12-22,Excellent product and fast delivery.
+1323,804,67,5,2024-07-11,Very happy with my purchase.
+1324,2437,43,4,2025-05-27,Nice quality and useful.
+1325,1485,94,5,2024-02-24,Excellent product and fast delivery.
+1326,2246,62,4,2025-10-04,Nice quality and useful.
+1327,1377,56,5,2024-03-22,Very happy with my purchase.
+1328,2142,83,4,2025-06-13,Works as expected.
+1329,2187,69,4,2025-08-31,Works as expected.
+1330,2498,66,4,2024-11-25,Good product overall.
+1331,1897,12,3,2025-11-26,"It is okay, but could be better."
+1332,975,48,5,2025-11-14,Great quality for the price.
+1333,2009,94,5,2025-07-20,Very happy with my purchase.
+1334,2073,20,4,2025-03-21,Nice quality and useful.
+1335,1877,39,2,2025-02-24,Quality could be improved.
+1336,2384,85,5,2026-01-03,Great quality for the price.
+1337,1950,54,5,2024-04-09,Great quality for the price.
+1338,697,1,5,2024-09-30,Very happy with my purchase.
+1339,2021,23,3,2026-01-14,Average experience.
+1340,1899,27,4,2024-10-10,Good product overall.
+1341,1638,65,3,2024-08-02,Product is decent for the price.
+1342,1642,86,4,2025-04-24,Nice quality and useful.
+1343,400,90,5,2025-08-01,Great quality for the price.
+1344,1253,32,2,2024-10-04,Quality could be improved.
+1345,1638,28,4,2024-10-15,Works as expected.
+1346,156,75,5,2024-06-27,Very happy with my purchase.
+1347,1723,59,4,2024-03-11,Nice quality and useful.
+1348,1894,22,3,2025-01-04,Average experience.
+1349,1099,34,5,2025-09-26,Excellent product and fast delivery.
+1350,1821,76,3,2024-05-29,Average experience.
+1351,522,65,5,2025-11-04,Very happy with my purchase.
+1352,773,14,4,2025-04-13,Works as expected.
+1353,1434,57,4,2024-11-29,Works as expected.
+1354,101,58,5,2024-06-07,Excellent product and fast delivery.
+1355,2490,48,5,2025-09-01,Very happy with my purchase.
+1356,1893,47,5,2024-03-01,Excellent product and fast delivery.
+1357,442,78,4,2025-11-18,Good product overall.
+1358,787,2,4,2025-07-14,Good product overall.
+1359,1270,63,3,2025-06-21,Product is decent for the price.
+1360,976,61,4,2025-06-27,Good product overall.
+1361,156,17,4,2024-06-23,Good product overall.
+1362,730,30,5,2025-12-23,Great quality for the price.
+1363,655,50,5,2025-08-15,Great quality for the price.
+1364,981,91,2,2024-02-05,Quality could be improved.
+1365,677,55,2,2025-08-18,Quality could be improved.
+1366,2074,9,4,2024-04-15,Good product overall.
+1367,1289,7,5,2024-08-31,Very happy with my purchase.
+1368,485,39,5,2025-12-23,Great quality for the price.
+1369,1816,82,5,2025-08-23,Excellent product and fast delivery.
+1370,118,44,2,2024-11-22,Quality could be improved.
+1371,192,73,3,2024-06-30,Product is decent for the price.
+1372,1748,27,4,2024-08-09,Nice quality and useful.
+1373,978,92,5,2024-05-12,Very happy with my purchase.
+1374,446,14,5,2025-10-02,Excellent product and fast delivery.
+1375,1230,22,4,2025-01-01,Nice quality and useful.
+1376,1490,78,3,2025-04-23,"It is okay, but could be better."
+1377,2393,15,4,2025-09-20,Nice quality and useful.
+1378,1626,92,5,2025-07-27,Great quality for the price.
+1379,270,47,5,2025-03-16,Excellent product and fast delivery.
+1380,2415,3,5,2025-02-04,Very happy with my purchase.
+1381,1919,78,5,2024-09-18,Very happy with my purchase.
+1382,1195,21,5,2024-05-01,Great quality for the price.
+1383,654,63,4,2024-12-15,Works as expected.
+1384,1243,26,4,2025-10-26,Good product overall.
+1385,857,13,5,2025-11-14,Excellent product and fast delivery.
+1386,1264,92,5,2024-08-12,Great quality for the price.
+1387,2127,85,5,2024-03-06,Very happy with my purchase.
+1388,1230,83,4,2024-06-15,Nice quality and useful.
+1389,2499,68,3,2025-12-02,Product is decent for the price.
+1390,1840,34,4,2025-03-27,Works as expected.
+1391,52,23,4,2024-07-10,Works as expected.
+1392,499,23,4,2025-05-24,Good product overall.
+1393,1236,44,3,2024-10-11,Average experience.
+1394,2011,37,5,2025-06-26,Very happy with my purchase.
+1395,894,82,4,2025-09-07,Good product overall.
+1396,306,15,4,2025-03-21,Good product overall.
+1397,1052,25,4,2025-10-17,Good product overall.
+1398,2054,73,4,2024-11-18,Good product overall.
+1399,1100,96,3,2024-07-21,Product is decent for the price.
+1400,752,74,4,2025-11-03,Good product overall.
+1401,1497,83,3,2025-04-25,Product is decent for the price.
+1402,657,9,3,2025-07-23,Product is decent for the price.
+1403,928,39,4,2024-05-31,Good product overall.
+1404,1234,4,3,2025-08-29,Average experience.
+1405,2337,39,4,2025-02-21,Good product overall.
+1406,682,3,4,2024-07-04,Good product overall.
+1407,304,34,4,2025-12-02,Good product overall.
+1408,2222,82,4,2025-10-01,Works as expected.
+1409,27,26,5,2025-07-04,Great quality for the price.
+1410,1107,68,2,2024-01-13,Delivery was fine but product disappointed me.
+1411,2473,22,3,2024-03-05,"It is okay, but could be better."
+1412,814,59,1,2026-01-07,Poor quality.
+1413,286,10,3,2024-04-08,"It is okay, but could be better."
+1414,575,34,4,2024-01-19,Nice quality and useful.
+1415,1115,96,4,2024-03-18,Works as expected.
+1416,1608,14,5,2025-10-01,Great quality for the price.
+1417,1504,80,5,2024-08-12,Great quality for the price.
+1418,102,44,3,2024-06-23,"It is okay, but could be better."
+1419,1835,59,4,2025-03-20,Good product overall.
+1420,1394,93,4,2024-04-18,Nice quality and useful.
+1421,870,8,4,2025-10-15,Nice quality and useful.
+1422,1602,46,4,2025-06-22,Good product overall.
+1423,1016,94,5,2024-02-02,Very happy with my purchase.
+1424,778,78,5,2025-01-09,Great quality for the price.
+1425,700,47,3,2025-08-03,"It is okay, but could be better."
+1426,804,52,3,2024-04-23,Product is decent for the price.
+1427,668,61,4,2024-11-27,Works as expected.
+1428,1501,68,5,2024-02-16,Very happy with my purchase.
+1429,2439,46,2,2024-08-24,Not as good as expected.
+1430,1337,84,2,2024-07-03,Quality could be improved.
+1431,2119,60,2,2025-04-03,Not as good as expected.
+1432,640,79,4,2024-01-14,Nice quality and useful.
+1433,1613,77,3,2025-12-15,Product is decent for the price.
+1434,1181,75,3,2024-01-31,"It is okay, but could be better."
+1435,160,19,4,2024-10-04,Works as expected.
+1436,516,10,2,2024-07-06,Delivery was fine but product disappointed me.
+1437,1624,68,5,2024-03-07,Excellent product and fast delivery.
+1438,60,63,4,2024-05-28,Nice quality and useful.
+1439,228,32,4,2024-02-01,Works as expected.
+1440,2222,55,2,2024-11-01,Quality could be improved.
+1441,2475,28,5,2025-02-26,Great quality for the price.
+1442,53,58,5,2024-06-15,Very happy with my purchase.
+1443,240,31,2,2025-09-15,Quality could be improved.
+1444,1468,26,5,2024-09-16,Great quality for the price.
+1445,2308,44,4,2024-09-08,Nice quality and useful.
+1446,1901,55,5,2025-01-11,Great quality for the price.
+1447,779,82,5,2025-11-01,Excellent product and fast delivery.
+1448,870,43,4,2024-04-11,Nice quality and useful.
+1449,1279,25,5,2025-04-16,Excellent product and fast delivery.
+1450,53,65,4,2025-04-27,Works as expected.
+1451,2000,73,4,2024-06-24,Good product overall.
+1452,975,51,5,2025-10-13,Very happy with my purchase.
+1453,935,24,5,2024-08-31,Great quality for the price.
+1454,673,25,4,2025-10-31,Good product overall.
+1455,679,91,5,2025-08-24,Excellent product and fast delivery.
+1456,1093,95,2,2025-10-25,Not as good as expected.
+1457,425,80,4,2025-11-24,Good product overall.
+1458,475,49,5,2024-05-08,Great quality for the price.
+1459,739,43,4,2025-05-29,Good product overall.
+1460,1602,71,2,2024-11-06,Delivery was fine but product disappointed me.
+1461,2021,70,5,2024-02-20,Great quality for the price.
+1462,1209,58,2,2025-07-19,Not as good as expected.
+1463,1073,23,5,2025-11-17,Great quality for the price.
+1464,1493,47,5,2025-10-26,Great quality for the price.
+1465,2168,93,3,2025-09-11,Average experience.
+1466,2018,79,5,2024-05-20,Very happy with my purchase.
+1467,1337,95,5,2025-12-10,Excellent product and fast delivery.
+1468,2038,11,4,2024-06-05,Good product overall.
+1469,1149,34,4,2024-01-19,Good product overall.
+1470,1807,86,5,2024-09-15,Great quality for the price.
+1471,1456,52,4,2025-08-09,Works as expected.
+1472,74,72,5,2025-07-24,Excellent product and fast delivery.
+1473,2340,91,5,2025-02-25,Excellent product and fast delivery.
+1474,1766,79,5,2024-03-30,Excellent product and fast delivery.
+1475,1059,92,5,2024-12-08,Excellent product and fast delivery.
+1476,794,27,4,2024-11-18,Good product overall.
+1477,1362,7,5,2025-01-20,Very happy with my purchase.
+1478,2164,60,5,2025-12-12,Great quality for the price.
+1479,1718,72,1,2025-04-30,Would not buy this again.
+1480,155,7,4,2024-07-18,Works as expected.
+1481,1319,80,5,2024-09-24,Excellent product and fast delivery.
+1482,1882,3,4,2025-07-03,Nice quality and useful.
+1483,1727,6,5,2024-05-19,Excellent product and fast delivery.
+1484,147,68,5,2025-11-29,Excellent product and fast delivery.
+1485,1676,42,3,2024-07-17,"It is okay, but could be better."
+1486,221,60,3,2024-05-08,"It is okay, but could be better."
+1487,2404,89,4,2025-11-23,Nice quality and useful.
+1488,578,74,3,2025-09-08,Average experience.
+1489,1143,50,1,2025-02-13,Poor quality.
+1490,2236,79,4,2026-01-08,Works as expected.
+1491,216,30,5,2024-09-11,Very happy with my purchase.
+1492,1975,66,4,2025-12-23,Nice quality and useful.
+1493,418,44,5,2025-02-08,Great quality for the price.
+1494,726,17,4,2025-07-27,Good product overall.
+1495,773,59,4,2024-05-15,Nice quality and useful.
+1496,435,82,5,2025-01-10,Excellent product and fast delivery.
+1497,1117,17,5,2024-07-18,Great quality for the price.
+1498,783,93,3,2024-08-18,"It is okay, but could be better."
+1499,2036,73,4,2025-02-22,Good product overall.
+1500,2253,93,4,2024-05-10,Works as expected.
+1501,1818,64,3,2025-07-25,"It is okay, but could be better."
+1502,361,24,3,2025-05-31,Product is decent for the price.
+1503,143,87,3,2025-01-01,Average experience.
+1504,2083,10,5,2024-07-03,Great quality for the price.
+1505,478,50,4,2025-07-02,Works as expected.
+1506,683,53,4,2025-08-24,Nice quality and useful.
+1507,6,2,5,2025-05-18,Great quality for the price.
+1508,880,58,5,2025-11-30,Great quality for the price.
+1509,554,46,5,2024-03-13,Great quality for the price.
+1510,1456,16,4,2024-01-21,Good product overall.
+1511,2352,79,3,2024-06-08,Average experience.
+1512,2018,31,5,2025-09-09,Great quality for the price.
+1513,1528,73,5,2025-09-25,Great quality for the price.
+1514,2470,70,5,2024-04-05,Excellent product and fast delivery.
+1515,1624,91,4,2025-08-28,Works as expected.
+1516,2164,12,2,2024-02-06,Quality could be improved.
+1517,1037,48,4,2024-04-17,Works as expected.
+1518,147,35,3,2025-04-09,Average experience.
+1519,361,77,3,2025-05-31,"It is okay, but could be better."
+1520,1371,86,5,2025-05-18,Excellent product and fast delivery.
+1521,1022,84,4,2024-05-19,Nice quality and useful.
+1522,269,41,5,2024-10-11,Excellent product and fast delivery.
+1523,1070,73,4,2025-10-27,Works as expected.
+1524,259,2,4,2024-12-25,Good product overall.
+1525,691,39,5,2024-12-25,Great quality for the price.
+1526,2399,9,5,2024-04-13,Excellent product and fast delivery.
+1527,392,36,5,2025-12-14,Great quality for the price.
+1528,2490,34,5,2025-08-21,Great quality for the price.
+1529,350,30,4,2025-06-07,Works as expected.
+1530,2164,45,5,2024-01-12,Very happy with my purchase.
+1531,1211,81,5,2025-10-11,Excellent product and fast delivery.
+1532,445,57,4,2024-03-20,Nice quality and useful.
+1533,2337,4,3,2024-07-11,Average experience.
+1534,736,39,4,2025-09-12,Works as expected.
+1535,1186,82,4,2025-07-04,Good product overall.
+1536,388,62,4,2026-01-16,Good product overall.
+1537,2122,30,4,2025-03-17,Good product overall.
+1538,843,11,4,2024-11-01,Good product overall.
+1539,1892,86,5,2025-09-13,Great quality for the price.
+1540,2160,39,5,2024-11-22,Excellent product and fast delivery.
+1541,1263,10,3,2024-09-02,Product is decent for the price.
+1542,2234,37,4,2025-03-01,Nice quality and useful.
+1543,715,15,4,2024-04-10,Works as expected.
+1544,1923,58,3,2024-02-06,"It is okay, but could be better."
+1545,924,36,5,2026-01-02,Very happy with my purchase.
+1546,437,10,4,2024-04-13,Nice quality and useful.
+1547,749,93,5,2024-10-27,Very happy with my purchase.
+1548,18,66,5,2025-01-15,Great quality for the price.
+1549,321,88,4,2025-02-06,Nice quality and useful.
+1550,519,64,5,2024-06-15,Excellent product and fast delivery.
+1551,1363,52,3,2025-04-13,Average experience.
+1552,1085,74,2,2025-04-01,Not as good as expected.
+1553,740,29,4,2025-02-04,Good product overall.
+1554,1347,49,4,2025-08-23,Nice quality and useful.
+1555,1193,31,5,2025-09-11,Very happy with my purchase.
+1556,2414,85,3,2025-07-02,Product is decent for the price.
+1557,168,8,4,2024-07-28,Nice quality and useful.
+1558,15,10,4,2025-02-14,Works as expected.
+1559,522,54,3,2025-01-24,"It is okay, but could be better."
+1560,1696,74,2,2025-03-20,Not as good as expected.
+1561,1231,61,5,2025-10-04,Very happy with my purchase.
+1562,600,96,3,2024-12-22,Product is decent for the price.
+1563,2290,69,4,2025-08-22,Works as expected.
+1564,2278,12,1,2025-01-11,Poor quality.
+1565,525,86,5,2025-12-17,Very happy with my purchase.
+1566,1533,70,5,2024-04-08,Great quality for the price.
+1567,994,13,5,2025-09-10,Great quality for the price.
+1568,888,14,4,2025-11-26,Nice quality and useful.
+1569,574,26,4,2024-08-24,Nice quality and useful.
+1570,1811,41,5,2025-10-10,Excellent product and fast delivery.
+1571,459,42,3,2024-06-14,Product is decent for the price.
+1572,1572,85,3,2025-10-04,Product is decent for the price.
+1573,302,93,2,2024-04-18,Not as good as expected.
+1574,772,30,5,2024-09-23,Very happy with my purchase.
+1575,1455,34,4,2025-07-28,Nice quality and useful.
+1576,1848,24,5,2025-09-05,Excellent product and fast delivery.
+1577,1047,88,5,2024-10-24,Very happy with my purchase.
+1578,568,82,5,2024-02-19,Excellent product and fast delivery.
+1579,350,74,5,2025-08-27,Excellent product and fast delivery.
+1580,697,61,4,2025-01-05,Works as expected.
+1581,2490,45,5,2024-01-15,Very happy with my purchase.
+1582,1930,24,4,2025-06-20,Works as expected.
+1583,2480,11,4,2025-08-12,Nice quality and useful.
+1584,158,19,4,2025-04-10,Nice quality and useful.
+1585,1332,43,3,2024-05-19,Average experience.
+1586,1878,2,4,2024-12-10,Nice quality and useful.
+1587,2011,96,5,2024-10-06,Excellent product and fast delivery.
+1588,130,74,5,2025-08-02,Very happy with my purchase.
+1589,417,40,4,2025-05-07,Works as expected.
+1590,2297,55,4,2024-04-17,Works as expected.
+1591,1424,66,4,2024-07-01,Good product overall.
+1592,726,54,4,2025-07-17,Nice quality and useful.
+1593,1644,35,4,2025-12-21,Nice quality and useful.
+1594,245,84,5,2025-05-23,Excellent product and fast delivery.
+1595,2150,96,5,2025-11-27,Very happy with my purchase.
+1596,2187,56,5,2025-09-04,Very happy with my purchase.
+1597,2000,28,5,2025-12-03,Great quality for the price.
+1598,1624,50,4,2025-07-10,Nice quality and useful.
+1599,686,31,4,2025-05-18,Good product overall.
+1600,2267,46,5,2024-11-25,Excellent product and fast delivery.
+1601,1139,53,3,2025-02-11,Average experience.
+1602,813,65,5,2026-01-13,Very happy with my purchase.
+1603,2243,4,5,2025-12-31,Very happy with my purchase.
+1604,359,44,5,2025-02-02,Great quality for the price.
+1605,147,24,5,2025-02-27,Very happy with my purchase.
+1606,2278,11,4,2025-01-21,Works as expected.
+1607,2104,55,5,2024-04-23,Great quality for the price.
+1608,924,86,5,2024-04-11,Great quality for the price.
+1609,180,49,5,2025-11-01,Very happy with my purchase.
+1610,1119,9,5,2025-10-02,Excellent product and fast delivery.
+1611,452,29,5,2025-12-03,Excellent product and fast delivery.
+1612,1230,8,4,2025-07-21,Nice quality and useful.
+1613,317,5,5,2024-06-25,Great quality for the price.
+1614,1867,34,4,2025-12-30,Good product overall.
+1615,1083,35,3,2025-07-14,Average experience.
+1616,1749,78,5,2024-02-04,Very happy with my purchase.
+1617,353,46,3,2025-03-19,Average experience.
+1618,680,61,5,2024-06-06,Great quality for the price.
+1619,1946,24,5,2025-12-07,Very happy with my purchase.
+1620,1623,52,3,2024-09-18,"It is okay, but could be better."
+1621,130,80,3,2024-07-23,"It is okay, but could be better."
+1622,304,77,5,2024-05-25,Excellent product and fast delivery.
+1623,97,45,5,2024-03-10,Great quality for the price.
+1624,17,94,5,2025-03-03,Very happy with my purchase.
+1625,2364,68,1,2025-07-19,Would not buy this again.
+1626,16,15,2,2025-08-27,Delivery was fine but product disappointed me.
+1627,1010,73,1,2024-04-30,Very disappointed with the product.
+1628,508,87,4,2025-05-12,Works as expected.
+1629,2332,77,3,2025-08-30,"It is okay, but could be better."
+1630,2490,75,5,2024-08-02,Excellent product and fast delivery.
+1631,2404,64,4,2024-04-08,Good product overall.
+1632,2037,6,4,2025-01-01,Nice quality and useful.
+1633,2374,93,5,2025-12-13,Great quality for the price.
+1634,1011,4,3,2024-09-24,Average experience.
+1635,1671,7,2,2024-07-10,Quality could be improved.
+1636,1030,37,3,2024-04-07,Average experience.
+1637,1552,43,5,2024-11-29,Very happy with my purchase.
+1638,2059,56,5,2024-12-25,Excellent product and fast delivery.
+1639,1332,23,5,2025-06-27,Great quality for the price.
+1640,1884,21,3,2024-08-11,Product is decent for the price.
+1641,689,32,5,2024-06-11,Great quality for the price.
+1642,754,4,5,2024-06-12,Very happy with my purchase.
+1643,330,28,2,2024-11-04,Not as good as expected.
+1644,1899,56,5,2025-05-16,Excellent product and fast delivery.
+1645,1138,66,5,2024-07-16,Great quality for the price.
+1646,105,10,3,2024-08-05,Average experience.
+1647,840,14,4,2025-10-26,Good product overall.
+1648,173,12,4,2024-09-08,Good product overall.
+1649,1886,6,5,2024-04-16,Very happy with my purchase.
+1650,1231,57,4,2025-12-15,Works as expected.
+1651,671,12,4,2025-11-06,Works as expected.
+1652,1179,23,4,2024-06-28,Good product overall.
+1653,2178,95,4,2025-08-25,Nice quality and useful.
+1654,1727,43,5,2025-11-07,Excellent product and fast delivery.
+1655,185,24,3,2024-11-05,"It is okay, but could be better."
+1656,1927,80,3,2024-04-12,Product is decent for the price.
+1657,471,34,4,2024-05-19,Works as expected.
+1658,792,74,4,2024-10-13,Nice quality and useful.
+1659,1565,33,4,2025-11-25,Works as expected.
+1660,549,27,4,2025-08-04,Works as expected.
+1661,1927,78,4,2024-02-21,Works as expected.
+1662,508,44,2,2024-02-04,Delivery was fine but product disappointed me.
+1663,871,60,4,2025-10-15,Nice quality and useful.
+1664,442,67,3,2025-08-02,Product is decent for the price.
+1665,1399,1,5,2024-10-29,Great quality for the price.
+1666,1794,69,4,2025-12-04,Nice quality and useful.
+1667,1325,41,4,2025-09-19,Works as expected.
+1668,2190,95,3,2025-07-19,"It is okay, but could be better."
+1669,2379,65,4,2025-05-07,Nice quality and useful.
+1670,968,63,4,2024-12-19,Works as expected.
+1671,1718,1,5,2024-06-22,Excellent product and fast delivery.
+1672,1643,68,3,2025-09-23,Average experience.
+1673,1898,15,1,2024-05-17,Very disappointed with the product.
+1674,912,33,4,2025-02-26,Nice quality and useful.
+1675,1346,55,5,2024-06-07,Very happy with my purchase.
+1676,2168,24,4,2024-06-28,Good product overall.
+1677,612,79,5,2025-10-16,Excellent product and fast delivery.
+1678,142,55,3,2024-12-15,"It is okay, but could be better."
+1679,2063,48,4,2025-08-21,Good product overall.
+1680,413,9,1,2024-01-24,Very disappointed with the product.
+1681,2393,26,4,2025-09-27,Works as expected.
+1682,2443,83,4,2025-07-22,Good product overall.
+1683,262,66,4,2025-08-09,Nice quality and useful.
+1684,1907,94,5,2025-05-06,Excellent product and fast delivery.
+1685,1800,39,4,2025-03-25,Works as expected.
+1686,1070,8,5,2025-05-11,Excellent product and fast delivery.
+1687,1749,20,4,2024-07-04,Good product overall.
+1688,244,20,4,2025-03-07,Works as expected.
+1689,843,62,3,2025-03-03,Average experience.
+1690,5,26,3,2024-08-15,Average experience.
+1691,223,41,3,2025-08-06,"It is okay, but could be better."
+1692,1343,54,5,2024-08-15,Great quality for the price.
+1693,363,44,4,2025-01-24,Nice quality and useful.
+1694,501,40,4,2025-06-17,Works as expected.
+1695,1474,57,4,2024-09-21,Works as expected.
+1696,1907,17,5,2025-04-14,Great quality for the price.
+1697,359,1,4,2024-07-07,Nice quality and useful.
+1698,2093,90,2,2025-11-03,Quality could be improved.
+1699,478,11,2,2024-09-12,Not as good as expected.
+1700,74,1,4,2024-11-18,Works as expected.
+1701,381,45,4,2025-10-05,Works as expected.
+1702,8,24,5,2025-05-03,Great quality for the price.
+1703,1879,5,5,2024-11-29,Very happy with my purchase.
+1704,2070,38,5,2024-08-22,Excellent product and fast delivery.
+1705,1132,65,5,2025-08-26,Very happy with my purchase.
+1706,1195,54,3,2025-05-30,"It is okay, but could be better."
+1707,2165,95,5,2025-11-07,Great quality for the price.
+1708,600,85,5,2025-01-07,Great quality for the price.
+1709,1750,85,5,2025-04-06,Excellent product and fast delivery.
+1710,1132,82,5,2025-09-06,Excellent product and fast delivery.
+1711,563,16,4,2025-04-19,Works as expected.
+1712,2001,12,5,2025-04-10,Excellent product and fast delivery.
+1713,185,66,5,2024-10-09,Great quality for the price.
+1714,899,47,2,2025-06-13,Not as good as expected.
+1715,1366,67,5,2025-10-02,Very happy with my purchase.
+1716,1000,21,1,2025-01-31,Very disappointed with the product.
+1717,2091,52,5,2024-11-20,Great quality for the price.
+1718,600,58,5,2024-12-26,Very happy with my purchase.
+1719,1475,51,4,2025-04-13,Good product overall.
+1720,296,57,5,2025-02-23,Excellent product and fast delivery.
+1721,2258,11,4,2025-07-24,Nice quality and useful.
+1722,41,11,1,2024-10-19,Poor quality.
+1723,1476,71,3,2024-02-28,Product is decent for the price.
+1724,994,11,3,2024-08-19,Product is decent for the price.
+1725,395,70,4,2026-01-21,Good product overall.
+1726,739,23,4,2025-09-02,Nice quality and useful.
+1727,306,77,5,2026-01-14,Very happy with my purchase.
+1728,509,41,4,2024-08-16,Good product overall.
+1729,269,72,3,2024-10-24,Average experience.
+1730,1133,84,5,2025-01-20,Great quality for the price.
+1731,2448,5,2,2025-06-01,Quality could be improved.
+1732,968,92,4,2025-10-29,Good product overall.
+1733,1274,50,5,2025-03-07,Very happy with my purchase.
+1734,977,34,4,2024-09-21,Good product overall.
+1735,2033,60,5,2024-10-07,Great quality for the price.
+1736,1325,29,2,2025-08-28,Not as good as expected.
+1737,87,30,5,2024-09-04,Excellent product and fast delivery.
+1738,1424,8,5,2024-07-14,Very happy with my purchase.
+1739,1332,75,5,2025-06-26,Excellent product and fast delivery.
+1740,102,67,5,2025-02-25,Great quality for the price.
+1741,619,28,3,2025-11-12,"It is okay, but could be better."
+1742,1154,88,1,2024-08-07,Would not buy this again.
+1743,1920,16,2,2024-08-05,Quality could be improved.
+1744,972,82,4,2024-12-19,Good product overall.
+1745,407,60,4,2025-10-24,Good product overall.
+1746,209,3,1,2025-12-16,Very disappointed with the product.
+1747,1143,40,5,2024-05-04,Excellent product and fast delivery.
+1748,194,60,4,2024-07-08,Nice quality and useful.
+1749,1335,66,5,2025-03-21,Very happy with my purchase.
+1750,500,93,3,2024-09-20,Average experience.
+1751,967,61,3,2024-09-26,Product is decent for the price.
+1752,501,48,1,2025-01-11,Very disappointed with the product.
+1753,1180,66,3,2025-03-25,"It is okay, but could be better."
+1754,532,94,4,2025-05-25,Nice quality and useful.
+1755,680,3,5,2025-08-07,Great quality for the price.
+1756,1503,79,1,2024-07-12,Poor quality.
+1757,1422,86,4,2025-09-13,Works as expected.
+1758,1409,25,5,2025-10-13,Very happy with my purchase.
+1759,2342,28,4,2025-05-20,Nice quality and useful.
+1760,817,39,3,2024-03-19,Average experience.
+1761,924,76,2,2025-04-08,Delivery was fine but product disappointed me.
+1762,1685,21,4,2024-11-13,Nice quality and useful.
+1763,1011,69,4,2025-07-25,Nice quality and useful.
+1764,1941,36,5,2024-10-12,Excellent product and fast delivery.
+1765,2016,73,1,2024-09-24,Poor quality.
+1766,312,42,5,2024-12-25,Very happy with my purchase.
+1767,1044,44,5,2025-11-13,Great quality for the price.
+1768,757,32,5,2024-05-21,Excellent product and fast delivery.
+1769,12,22,4,2025-02-12,Nice quality and useful.
+1770,755,96,5,2026-01-07,Excellent product and fast delivery.
+1771,1366,46,3,2024-01-10,Product is decent for the price.
+1772,1632,28,5,2024-05-05,Very happy with my purchase.
+1773,2005,72,4,2025-08-27,Good product overall.
+1774,967,96,4,2024-09-09,Good product overall.
+1775,2440,1,4,2026-01-11,Works as expected.
+1776,1794,63,5,2024-12-10,Excellent product and fast delivery.
+1777,1066,81,3,2024-08-07,"It is okay, but could be better."
+1778,2178,18,4,2024-01-22,Good product overall.
+1779,2480,86,4,2025-07-23,Works as expected.
+1780,1066,71,5,2025-07-09,Great quality for the price.
+1781,2133,67,4,2024-02-03,Works as expected.
+1782,1354,37,5,2024-05-09,Very happy with my purchase.
+1783,1119,63,3,2024-07-16,Average experience.
+1784,1104,28,3,2024-08-31,Product is decent for the price.
+1785,2222,26,5,2024-11-21,Great quality for the price.
+1786,394,72,4,2024-03-09,Nice quality and useful.
+1787,646,42,3,2025-11-09,"It is okay, but could be better."
+1788,678,56,4,2024-05-20,Good product overall.
+1789,2131,32,4,2024-03-07,Good product overall.
+1790,1386,2,5,2024-01-28,Great quality for the price.
+1791,1844,88,4,2025-05-05,Works as expected.
+1792,2258,61,5,2025-05-13,Great quality for the price.
+1793,1653,17,5,2024-02-04,Very happy with my purchase.
+1794,2412,5,3,2024-07-14,Average experience.
+1795,2022,60,5,2025-03-12,Great quality for the price.
+1796,1818,77,5,2024-07-17,Very happy with my purchase.
+1797,1758,94,4,2024-06-04,Works as expected.
+1798,1547,58,5,2025-01-31,Very happy with my purchase.
+1799,954,27,3,2024-10-29,Average experience.
+1800,762,84,4,2024-08-15,Good product overall.
+1801,81,33,5,2024-10-17,Very happy with my purchase.
+1802,1228,31,3,2024-06-09,Product is decent for the price.
+1803,1573,80,4,2025-11-12,Nice quality and useful.
+1804,436,3,5,2024-05-28,Very happy with my purchase.
+1805,1784,67,4,2026-01-25,Good product overall.
+1806,1897,75,3,2025-06-30,Average experience.
+1807,671,32,2,2026-01-11,Not as good as expected.
+1808,360,59,5,2025-08-18,Great quality for the price.
+1809,1274,22,4,2025-02-18,Nice quality and useful.
+1810,640,38,5,2025-06-23,Very happy with my purchase.
+1811,870,73,3,2024-04-10,Average experience.
+1812,1344,43,4,2025-10-24,Good product overall.
+1813,250,52,5,2025-09-13,Very happy with my purchase.
+1814,111,89,5,2024-05-15,Excellent product and fast delivery.
+1815,2073,90,5,2025-06-17,Very happy with my purchase.
+1816,139,8,4,2024-05-01,Nice quality and useful.
+1817,2398,92,4,2024-03-27,Good product overall.
+1818,552,51,5,2024-04-23,Great quality for the price.
+1819,2113,59,4,2025-12-01,Good product overall.
+1820,1739,40,3,2024-12-21,"It is okay, but could be better."
+1821,575,52,4,2025-03-28,Works as expected.
+1822,23,48,5,2025-04-06,Excellent product and fast delivery.
+1823,64,24,5,2025-01-12,Very happy with my purchase.
+1824,1371,53,3,2025-01-07,Average experience.
+1825,733,80,5,2025-09-19,Great quality for the price.
+1826,756,73,4,2025-01-30,Works as expected.
+1827,385,62,3,2024-04-24,"It is okay, but could be better."
+1828,1684,69,2,2025-09-21,Not as good as expected.
+1829,802,5,5,2025-12-25,Very happy with my purchase.
+1830,2209,7,1,2026-01-15,Very disappointed with the product.
+1831,705,60,4,2024-10-22,Good product overall.
+1832,491,61,3,2024-07-21,"It is okay, but could be better."
+1833,1893,23,4,2024-12-14,Nice quality and useful.
+1834,2038,69,2,2024-12-31,Quality could be improved.
+1835,2465,68,5,2026-01-12,Excellent product and fast delivery.
+1836,440,18,4,2025-01-05,Works as expected.
+1837,1718,78,4,2024-10-27,Works as expected.
+1838,1877,13,3,2025-10-28,Average experience.
+1839,225,91,5,2025-11-13,Excellent product and fast delivery.
+1840,984,91,5,2025-11-07,Great quality for the price.
+1841,1825,35,2,2025-03-26,Delivery was fine but product disappointed me.
+1842,1825,51,3,2025-01-01,Average experience.
+1843,1784,93,3,2026-01-02,Average experience.
+1844,24,91,5,2024-10-01,Great quality for the price.
+1845,1977,96,5,2025-09-07,Excellent product and fast delivery.
+1846,1033,90,5,2025-07-08,Excellent product and fast delivery.
+1847,2130,36,5,2024-06-30,Great quality for the price.
+1848,1724,20,5,2025-03-05,Excellent product and fast delivery.
+1849,532,44,4,2024-09-27,Nice quality and useful.
+1850,500,48,4,2024-02-06,Good product overall.
+1851,2099,24,4,2025-08-08,Works as expected.
+1852,2114,20,3,2024-10-07,Product is decent for the price.
+1853,846,79,3,2025-09-09,Average experience.
+1854,218,87,5,2024-03-04,Very happy with my purchase.
+1855,270,90,3,2025-08-29,"It is okay, but could be better."
+1856,1170,10,3,2024-04-14,"It is okay, but could be better."
+1857,659,24,4,2025-07-03,Works as expected.
+1858,480,74,5,2025-07-14,Excellent product and fast delivery.
+1859,594,54,5,2025-09-26,Great quality for the price.
+1860,1635,53,4,2025-03-20,Good product overall.
+1861,1150,54,3,2025-07-07,"It is okay, but could be better."
+1862,2111,79,3,2024-11-12,Average experience.
+1863,671,9,5,2024-04-19,Very happy with my purchase.
+1864,534,28,4,2024-06-03,Good product overall.
+1865,1417,47,5,2024-12-06,Excellent product and fast delivery.
+1866,184,74,4,2025-08-01,Works as expected.
+1867,2405,72,4,2025-07-11,Works as expected.
+1868,553,67,5,2024-04-20,Great quality for the price.
+1869,1707,13,4,2024-09-01,Good product overall.
+1870,940,90,3,2025-08-17,Product is decent for the price.
+1871,2199,80,4,2025-03-26,Works as expected.
+1872,1089,18,5,2024-05-16,Very happy with my purchase.
+1873,1468,45,2,2025-05-21,Quality could be improved.
+1874,2228,27,4,2024-06-13,Works as expected.
+1875,2074,60,4,2024-11-30,Works as expected.
+1876,1872,94,5,2024-02-01,Great quality for the price.
+1877,730,84,4,2024-04-29,Works as expected.
+1878,382,70,4,2025-11-09,Works as expected.
+1879,2406,74,5,2025-01-12,Excellent product and fast delivery.
+1880,2159,20,4,2025-08-03,Nice quality and useful.
+1881,1416,49,3,2024-05-22,Average experience.
+1882,1973,41,5,2025-06-29,Excellent product and fast delivery.
+1883,1263,1,5,2025-10-09,Great quality for the price.
+1884,1049,11,4,2024-12-10,Good product overall.
+1885,414,57,4,2024-01-27,Nice quality and useful.
+1886,1181,78,5,2025-09-23,Great quality for the price.
+1887,2411,34,3,2025-09-21,"It is okay, but could be better."
+1888,105,96,4,2025-08-01,Nice quality and useful.
+1889,1324,8,4,2024-09-16,Works as expected.
+1890,2348,66,5,2024-03-23,Great quality for the price.
+1891,74,11,5,2024-07-02,Great quality for the price.
+1892,1068,21,4,2025-10-19,Good product overall.
+1893,1898,96,1,2025-09-03,Would not buy this again.
+1894,478,92,5,2025-12-15,Very happy with my purchase.
+1895,525,94,5,2025-12-11,Very happy with my purchase.
+1896,2479,2,4,2025-12-23,Works as expected.
+1897,454,54,4,2025-03-13,Works as expected.
+1898,2475,25,5,2024-07-24,Excellent product and fast delivery.
+1899,1788,52,4,2025-03-28,Good product overall.
+1900,1499,13,3,2024-05-22,Average experience.
+1901,11,82,3,2024-11-03,"It is okay, but could be better."
+1902,1190,82,4,2025-08-11,Nice quality and useful.
+1903,1881,72,5,2025-06-01,Great quality for the price.
+1904,1950,9,5,2025-01-25,Very happy with my purchase.
+1905,827,7,5,2025-02-27,Great quality for the price.
+1906,327,10,5,2025-07-15,Very happy with my purchase.
+1907,644,67,4,2024-04-30,Nice quality and useful.
+1908,1535,52,2,2024-03-26,Delivery was fine but product disappointed me.
+1909,2243,34,5,2026-01-22,Excellent product and fast delivery.
+1910,1013,85,5,2024-10-24,Excellent product and fast delivery.
+1911,1631,66,5,2025-04-17,Very happy with my purchase.
+1912,2093,29,2,2025-06-11,Quality could be improved.
+1913,979,61,5,2025-07-26,Very happy with my purchase.
+1914,1030,7,5,2025-10-14,Excellent product and fast delivery.
+1915,2024,32,4,2024-11-30,Nice quality and useful.
+1916,2209,17,5,2025-07-23,Very happy with my purchase.
+1917,2020,27,4,2025-01-25,Good product overall.
+1918,686,56,5,2025-02-20,Very happy with my purchase.
+1919,1332,78,2,2024-04-13,Quality could be improved.
+1920,1911,58,4,2025-03-27,Works as expected.
+1921,5,83,4,2024-02-05,Good product overall.
+1922,595,13,5,2024-09-08,Excellent product and fast delivery.
+1923,515,10,5,2024-07-08,Great quality for the price.
+1924,317,7,5,2025-10-26,Excellent product and fast delivery.
+1925,668,88,4,2024-06-17,Good product overall.
+1926,767,86,5,2025-05-28,Great quality for the price.
+1927,2034,10,5,2025-08-12,Very happy with my purchase.
+1928,926,92,4,2025-04-21,Works as expected.
+1929,1238,13,4,2025-12-02,Works as expected.
+1930,1901,36,4,2024-04-25,Good product overall.
+1931,497,16,3,2025-05-29,"It is okay, but could be better."
+1932,1122,42,5,2025-03-06,Great quality for the price.
+1933,1589,44,4,2024-02-29,Good product overall.
+1934,829,89,4,2024-08-28,Works as expected.
+1935,740,62,4,2024-03-21,Good product overall.
+1936,1826,17,5,2025-08-29,Very happy with my purchase.
+1937,1746,11,2,2025-08-14,Not as good as expected.
+1938,1552,25,5,2025-06-28,Excellent product and fast delivery.
+1939,2448,25,4,2025-05-23,Works as expected.
+1940,2481,88,5,2025-07-01,Great quality for the price.
+1941,2379,15,4,2024-10-25,Nice quality and useful.
+1942,1572,92,4,2025-11-07,Nice quality and useful.
+1943,1009,88,4,2025-11-27,Good product overall.
+1944,1575,92,5,2024-09-03,Very happy with my purchase.
+1945,2452,14,3,2024-11-17,Average experience.
+1946,1132,52,2,2025-05-14,Delivery was fine but product disappointed me.
+1947,1399,78,1,2025-09-22,Would not buy this again.
+1948,1332,35,5,2024-10-10,Excellent product and fast delivery.
+1949,1565,59,3,2024-04-09,"It is okay, but could be better."
+1950,765,73,3,2024-07-27,Product is decent for the price.
+1951,568,6,5,2025-04-30,Very happy with my purchase.
+1952,962,21,3,2024-10-11,Product is decent for the price.
+1953,1618,60,4,2025-04-22,Nice quality and useful.
+1954,674,70,4,2024-05-16,Works as expected.
+1955,349,26,2,2024-05-03,Quality could be improved.
+1956,2074,94,4,2024-05-04,Good product overall.
+1957,1552,6,4,2024-11-16,Works as expected.
+1958,2414,30,5,2025-12-27,Very happy with my purchase.
+1959,288,61,5,2025-08-17,Excellent product and fast delivery.
+1960,1719,26,5,2026-01-10,Very happy with my purchase.
+1961,442,85,4,2025-02-21,Nice quality and useful.
+1962,15,80,3,2024-02-18,Average experience.
+1963,1626,13,5,2025-08-02,Very happy with my purchase.
+1964,976,5,4,2025-12-03,Nice quality and useful.
+1965,56,73,3,2025-08-21,Average experience.
+1966,472,52,3,2025-08-17,Average experience.
+1967,457,50,5,2025-10-29,Very happy with my purchase.
+1968,2360,82,3,2024-06-30,Product is decent for the price.
+1969,2399,1,2,2025-06-05,Delivery was fine but product disappointed me.
+1970,1415,52,4,2025-09-20,Works as expected.
+1971,1754,51,4,2024-05-01,Good product overall.
+1972,478,68,2,2025-07-14,Delivery was fine but product disappointed me.
+1973,520,90,2,2025-02-14,Not as good as expected.
+1974,2160,87,5,2025-03-20,Very happy with my purchase.
+1975,1347,44,5,2024-09-24,Great quality for the price.
+1976,2203,17,4,2024-11-18,Good product overall.
+1977,1464,39,4,2024-02-22,Good product overall.
+1978,2301,70,4,2025-01-29,Works as expected.
+1979,1245,93,4,2025-11-22,Good product overall.
+1980,615,26,1,2024-06-02,Would not buy this again.
+1981,92,30,2,2024-04-29,Delivery was fine but product disappointed me.
+1982,73,39,3,2024-03-14,Average experience.
+1983,2168,43,5,2024-11-14,Great quality for the price.
+1984,1699,39,4,2024-10-14,Good product overall.
+1985,49,63,4,2024-02-19,Good product overall.
+1986,725,93,4,2024-06-06,Nice quality and useful.
+1987,1264,2,2,2025-03-20,Quality could be improved.
+1988,871,43,3,2024-11-13,Product is decent for the price.
+1989,339,24,4,2025-11-21,Works as expected.
+1990,1041,54,4,2024-04-25,Works as expected.
+1991,1688,36,5,2024-05-02,Excellent product and fast delivery.
+1992,1164,69,3,2025-02-10,Average experience.
+1993,2263,45,4,2024-06-15,Nice quality and useful.
+1994,594,8,2,2025-10-05,Delivery was fine but product disappointed me.
+1995,601,38,5,2025-08-13,Very happy with my purchase.
+1996,1418,67,5,2024-07-16,Great quality for the price.
+1997,1744,60,3,2026-01-12,Average experience.
+1998,1816,75,5,2024-11-29,Great quality for the price.
+1999,441,63,3,2024-07-18,"It is okay, but could be better."
+2000,746,18,4,2025-08-21,Good product overall.
+2001,160,36,5,2024-02-16,Great quality for the price.
+2002,373,1,4,2024-05-25,Works as expected.
+2003,1982,63,5,2025-12-23,Excellent product and fast delivery.
+2004,297,52,4,2024-08-22,Nice quality and useful.
+2005,673,37,3,2025-07-02,Product is decent for the price.
+2006,2093,87,4,2024-02-19,Good product overall.
+2007,748,85,2,2025-09-10,Quality could be improved.
+2008,1572,64,5,2024-08-18,Very happy with my purchase.
+2009,2083,11,2,2025-07-01,Delivery was fine but product disappointed me.
+2010,2089,54,4,2024-02-27,Works as expected.
+2011,2444,37,4,2024-11-20,Good product overall.
+2012,1147,71,4,2024-08-29,Works as expected.
+2013,213,33,4,2025-01-23,Nice quality and useful.
+2014,1163,19,4,2025-01-17,Works as expected.
+2015,2350,50,4,2024-03-14,Good product overall.
+2016,1147,95,4,2024-10-08,Nice quality and useful.
+2017,2493,3,4,2024-04-23,Works as expected.
+2018,72,42,5,2025-04-11,Great quality for the price.
+2019,72,53,5,2025-08-31,Very happy with my purchase.
+2020,880,85,5,2025-10-01,Excellent product and fast delivery.
+2021,2240,41,4,2025-07-01,Nice quality and useful.
+2022,1245,66,4,2025-11-08,Works as expected.
+2023,486,74,2,2025-07-26,Not as good as expected.
+2024,1280,60,5,2025-02-21,Very happy with my purchase.
+2025,1148,93,4,2024-05-17,Nice quality and useful.
+2026,461,5,4,2025-06-15,Nice quality and useful.
+2027,1249,95,5,2025-03-04,Great quality for the price.
+2028,1391,24,4,2026-01-17,Works as expected.
+2029,2033,81,5,2024-03-03,Very happy with my purchase.
+2030,568,6,3,2024-02-22,Average experience.
+2031,990,43,5,2025-12-10,Excellent product and fast delivery.
+2032,122,76,3,2024-07-18,Product is decent for the price.
+2033,527,63,3,2025-01-01,Average experience.
+2034,1133,49,4,2024-07-09,Nice quality and useful.
+2035,2443,81,2,2025-11-11,Delivery was fine but product disappointed me.
+2036,401,93,2,2025-12-06,Quality could be improved.
+2037,240,28,4,2024-08-06,Good product overall.
+2038,1246,92,4,2024-08-23,Works as expected.
+2039,1042,71,5,2025-07-31,Great quality for the price.
+2040,414,14,2,2025-11-12,Quality could be improved.
+2041,406,93,2,2024-04-12,Not as good as expected.
+2042,2024,95,5,2024-12-04,Excellent product and fast delivery.
+2043,922,63,4,2024-04-26,Works as expected.
+2044,871,39,5,2025-07-23,Great quality for the price.
+2045,505,86,5,2025-12-12,Excellent product and fast delivery.
+2046,2309,44,3,2024-02-02,Product is decent for the price.
+2047,209,12,4,2024-04-26,Nice quality and useful.
+2048,732,52,5,2024-08-25,Excellent product and fast delivery.
+2049,1067,32,2,2025-09-03,Quality could be improved.
+2050,1083,2,1,2024-12-09,Poor quality.
+2051,1745,35,1,2025-04-23,Would not buy this again.
+2052,1489,1,3,2024-02-22,"It is okay, but could be better."
+2053,632,51,4,2024-11-04,Good product overall.
+2054,1598,68,3,2024-12-26,"It is okay, but could be better."
+2055,2267,71,1,2025-05-29,Would not buy this again.
+2056,24,84,5,2025-01-25,Very happy with my purchase.
+2057,135,19,5,2025-02-06,Very happy with my purchase.
+2058,2444,83,5,2024-11-16,Excellent product and fast delivery.
+2059,401,19,4,2025-05-11,Works as expected.
+2060,364,66,4,2024-06-08,Works as expected.
+2061,39,67,5,2024-12-16,Very happy with my purchase.
+2062,2222,55,5,2025-07-22,Excellent product and fast delivery.
+2063,98,65,4,2024-10-07,Good product overall.
+2064,2414,82,5,2025-12-28,Great quality for the price.
+2065,2349,74,3,2025-01-13,Product is decent for the price.
+2066,2240,86,5,2024-12-02,Excellent product and fast delivery.
+2067,1104,76,5,2024-11-24,Great quality for the price.
+2068,725,80,3,2025-08-10,"It is okay, but could be better."
+2069,461,90,5,2025-09-21,Very happy with my purchase.
+2070,477,91,4,2025-10-26,Good product overall.
+2071,41,90,5,2024-12-09,Excellent product and fast delivery.
+2072,1945,9,4,2024-02-07,Works as expected.
+2073,53,1,3,2025-12-02,Product is decent for the price.
+2074,2012,24,1,2024-09-01,Would not buy this again.
+2075,167,90,4,2025-12-06,Nice quality and useful.
+2076,1775,24,4,2025-06-24,Nice quality and useful.
+2077,553,15,4,2025-08-19,Good product overall.
+2078,499,35,4,2025-06-21,Good product overall.
+2079,1535,45,5,2025-05-30,Excellent product and fast delivery.
+2080,425,47,5,2024-05-03,Excellent product and fast delivery.
+2081,2219,5,5,2024-10-19,Great quality for the price.
+2082,2193,31,1,2024-04-15,Would not buy this again.
+2083,1624,54,4,2025-04-28,Works as expected.
+2084,867,76,2,2024-04-04,Delivery was fine but product disappointed me.
+2085,602,54,2,2025-01-19,Quality could be improved.
+2086,963,17,4,2025-01-20,Works as expected.
+2087,1447,11,3,2026-01-05,"It is okay, but could be better."
+2088,2412,65,4,2025-08-08,Works as expected.
+2089,454,15,4,2025-10-13,Works as expected.
+2090,2339,40,5,2024-01-26,Excellent product and fast delivery.
+2091,1836,42,5,2024-07-11,Great quality for the price.
+2092,552,42,4,2025-07-25,Good product overall.
+2093,2490,58,4,2024-09-23,Nice quality and useful.
+2094,952,46,1,2025-08-27,Very disappointed with the product.
+2095,315,81,3,2025-07-03,Average experience.
+2096,357,20,2,2024-07-17,Delivery was fine but product disappointed me.
+2097,2360,39,4,2024-11-28,Nice quality and useful.
+2098,2020,69,2,2024-11-16,Delivery was fine but product disappointed me.
+2099,313,27,4,2024-05-19,Works as expected.
+2100,2481,2,3,2025-06-29,Average experience.
+2101,1357,61,5,2024-03-19,Excellent product and fast delivery.
+2102,726,27,4,2024-05-10,Good product overall.
+2103,726,45,5,2025-11-05,Great quality for the price.
+2104,384,37,5,2025-02-15,Very happy with my purchase.
+2105,1922,87,2,2025-05-14,Delivery was fine but product disappointed me.
+2106,1881,86,4,2025-02-05,Works as expected.
+2107,1094,48,5,2024-04-07,Great quality for the price.
+2108,2339,38,5,2025-08-19,Great quality for the price.
+2109,2478,32,5,2024-05-25,Excellent product and fast delivery.
+2110,1068,11,4,2024-05-13,Good product overall.
+2111,1247,5,4,2025-12-02,Works as expected.
+2112,1843,28,5,2024-06-13,Very happy with my purchase.
+2113,1948,2,4,2025-12-05,Nice quality and useful.
+2114,184,78,5,2025-06-03,Very happy with my purchase.
+2115,2316,58,1,2024-05-07,Very disappointed with the product.
+2116,2316,72,4,2024-09-15,Works as expected.
+2117,1038,65,2,2025-08-20,Delivery was fine but product disappointed me.
+2118,1319,23,4,2024-09-05,Works as expected.
+2119,274,34,4,2024-09-25,Good product overall.
+2120,859,62,4,2024-10-02,Nice quality and useful.
+2121,1264,71,3,2025-08-01,Product is decent for the price.
+2122,1872,64,3,2025-09-24,Product is decent for the price.
+2123,1173,22,2,2024-12-23,Not as good as expected.
+2124,395,81,5,2025-09-12,Excellent product and fast delivery.
+2125,1027,92,5,2026-01-19,Very happy with my purchase.
+2126,899,45,5,2024-05-03,Very happy with my purchase.
+2127,2391,33,5,2025-04-27,Very happy with my purchase.
+2128,305,74,4,2025-11-17,Nice quality and useful.
+2129,1122,4,4,2024-02-22,Works as expected.
+2130,1144,69,4,2024-04-27,Works as expected.
+2131,160,58,5,2024-10-15,Excellent product and fast delivery.
+2132,173,58,5,2024-09-27,Excellent product and fast delivery.
+2133,1663,90,3,2025-01-22,Product is decent for the price.
+2134,1135,15,5,2025-11-20,Great quality for the price.
+2135,692,8,5,2025-08-26,Great quality for the price.
+2136,1745,5,4,2025-07-06,Good product overall.
+2137,777,58,5,2025-08-28,Great quality for the price.
+2138,2110,68,5,2025-05-11,Very happy with my purchase.
+2139,2405,11,3,2025-07-11,"It is okay, but could be better."
+2140,1277,96,4,2025-10-09,Good product overall.
+2141,690,63,4,2025-04-07,Works as expected.
+2142,51,43,3,2024-07-30,"It is okay, but could be better."
+2143,2219,66,4,2024-07-09,Good product overall.
+2144,1624,79,4,2024-10-19,Good product overall.
+2145,378,26,5,2025-08-29,Great quality for the price.
+2146,267,53,5,2025-11-16,Very happy with my purchase.
+2147,961,29,4,2025-09-17,Nice quality and useful.
+2148,1234,49,5,2025-08-10,Very happy with my purchase.
+2149,1126,7,5,2026-01-19,Great quality for the price.
+2150,1561,22,5,2024-09-20,Great quality for the price.
+2151,512,27,5,2024-05-25,Great quality for the price.
+2152,798,37,5,2025-09-13,Great quality for the price.
+2153,1483,69,5,2025-09-09,Very happy with my purchase.
+2154,946,58,4,2025-09-15,Works as expected.
+2155,804,56,5,2025-11-26,Very happy with my purchase.
+2156,2148,48,4,2024-02-27,Nice quality and useful.
+2157,462,74,2,2025-07-03,Quality could be improved.
+2158,53,81,4,2025-04-25,Works as expected.
+2159,1247,81,4,2025-09-11,Works as expected.
+2160,2364,52,4,2025-09-27,Works as expected.
+2161,1624,37,2,2024-04-18,Delivery was fine but product disappointed me.
+2162,541,75,4,2025-05-05,Works as expected.
+2163,1483,21,4,2024-08-12,Nice quality and useful.
+2164,973,82,4,2024-04-06,Nice quality and useful.
+2165,223,34,5,2025-12-01,Excellent product and fast delivery.
+2166,526,20,3,2025-05-01,Product is decent for the price.
+2167,147,35,5,2025-02-13,Excellent product and fast delivery.
+2168,677,73,5,2025-02-04,Great quality for the price.
+2169,958,82,5,2024-04-10,Excellent product and fast delivery.
+2170,2046,59,3,2024-10-21,Average experience.
+2171,2413,88,5,2025-01-31,Excellent product and fast delivery.
+2172,768,8,4,2025-11-22,Works as expected.
+2173,1162,2,5,2025-11-07,Excellent product and fast delivery.
+2174,1993,73,4,2024-06-22,Nice quality and useful.
+2175,972,25,4,2025-03-04,Works as expected.
+2176,54,90,3,2025-05-29,"It is okay, but could be better."
+2177,2246,87,5,2024-08-19,Excellent product and fast delivery.
+2178,2323,16,3,2025-11-04,Product is decent for the price.
+2179,337,37,5,2025-07-12,Very happy with my purchase.
+2180,704,5,4,2025-02-15,Nice quality and useful.
+2181,1041,33,2,2025-10-24,Quality could be improved.
+2182,300,59,3,2024-11-18,"It is okay, but could be better."
+2183,1707,48,2,2024-08-30,Quality could be improved.
+2184,702,58,4,2024-09-11,Good product overall.
+2185,2472,11,5,2025-11-26,Great quality for the price.
+2186,687,15,5,2024-07-19,Excellent product and fast delivery.
+2187,77,75,4,2024-09-12,Good product overall.
+2188,1234,94,5,2025-12-06,Great quality for the price.
+2189,824,11,3,2024-04-25,Product is decent for the price.
+2190,1007,71,3,2025-12-25,"It is okay, but could be better."
+2191,1516,48,3,2025-03-22,Product is decent for the price.
+2192,926,42,5,2025-04-22,Excellent product and fast delivery.
+2193,2427,74,5,2024-07-25,Very happy with my purchase.
+2194,1108,40,5,2024-08-25,Excellent product and fast delivery.
+2195,2022,43,4,2024-05-23,Good product overall.
+2196,214,88,2,2025-12-22,Quality could be improved.
+2197,2144,70,3,2025-08-08,Product is decent for the price.
+2198,269,71,5,2024-09-27,Great quality for the price.
+2199,435,7,4,2024-12-31,Works as expected.
+2200,354,91,5,2025-05-07,Excellent product and fast delivery.
+2201,15,80,5,2025-06-14,Great quality for the price.
+2202,950,35,5,2024-08-22,Very happy with my purchase.
+2203,808,2,5,2025-09-11,Very happy with my purchase.
+2204,1803,38,2,2025-01-10,Quality could be improved.
+2205,2454,50,4,2025-04-25,Good product overall.
+2206,962,7,5,2024-05-31,Excellent product and fast delivery.
+2207,611,47,5,2025-04-07,Excellent product and fast delivery.
+2208,1726,5,5,2025-10-21,Excellent product and fast delivery.
+2209,335,16,4,2025-10-03,Good product overall.
+2210,1774,73,5,2026-01-07,Excellent product and fast delivery.
+2211,973,76,5,2025-10-31,Great quality for the price.
+2212,726,29,5,2025-06-23,Excellent product and fast delivery.
+2213,673,43,3,2025-07-14,"It is okay, but could be better."
+2214,2143,79,5,2024-12-23,Great quality for the price.
+2215,1080,58,5,2024-11-12,Excellent product and fast delivery.
+2216,2267,96,4,2024-08-08,Nice quality and useful.
+2217,793,90,3,2025-12-01,Product is decent for the price.
+2218,850,15,2,2024-10-16,Not as good as expected.
+2219,261,42,4,2024-04-30,Works as expected.
+2220,1307,90,3,2024-11-07,Average experience.
+2221,2073,85,4,2025-02-21,Works as expected.
+2222,1552,85,5,2024-11-13,Great quality for the price.
+2223,2057,6,4,2025-12-21,Works as expected.
+2224,463,1,5,2024-09-14,Very happy with my purchase.
+2225,2344,60,5,2024-05-31,Great quality for the price.
+2226,1590,26,4,2024-09-17,Good product overall.
+2227,679,17,4,2024-12-07,Works as expected.
+2228,1599,27,3,2024-11-04,Average experience.
+2229,597,93,2,2024-01-26,Quality could be improved.
+2230,2484,86,4,2024-10-15,Nice quality and useful.
+2231,202,8,4,2025-05-28,Good product overall.
+2232,501,56,4,2025-06-11,Good product overall.
+2233,437,78,2,2024-04-03,Quality could be improved.
+2234,1458,1,4,2025-12-29,Nice quality and useful.
+2235,1960,88,4,2024-09-08,Works as expected.
+2236,359,41,4,2024-10-23,Good product overall.
+2237,1327,74,3,2024-02-15,"It is okay, but could be better."
+2238,1840,60,4,2024-04-11,Works as expected.
+2239,1129,60,5,2025-12-26,Excellent product and fast delivery.
+2240,1652,50,4,2024-06-11,Good product overall.
+2241,1319,23,3,2025-06-26,Average experience.
+2242,46,61,5,2024-06-15,Excellent product and fast delivery.
+2243,464,39,5,2025-09-27,Very happy with my purchase.
+2244,1456,71,1,2025-02-01,Would not buy this again.
+2245,1018,19,4,2024-08-29,Nice quality and useful.
+2246,2113,3,4,2025-10-12,Works as expected.
+2247,523,36,4,2025-09-08,Works as expected.
+2248,1724,89,3,2025-03-26,"It is okay, but could be better."
+2249,2382,18,5,2025-06-26,Great quality for the price.
+2250,187,70,5,2025-03-23,Very happy with my purchase.
+2251,1695,53,1,2024-07-08,Would not buy this again.
+2252,1624,43,3,2025-03-05,"It is okay, but could be better."
+2253,199,46,4,2024-06-21,Works as expected.
+2254,814,75,5,2024-02-19,Very happy with my purchase.
+2255,506,61,4,2025-11-24,Good product overall.
+2256,2267,41,4,2024-09-20,Works as expected.
+2257,354,42,3,2024-06-22,"It is okay, but could be better."
+2258,1661,65,4,2024-08-23,Good product overall.
+2259,2481,69,3,2025-08-31,Average experience.
+2260,1776,23,5,2025-07-25,Great quality for the price.
+2261,1578,32,5,2025-11-18,Excellent product and fast delivery.
+2262,2452,10,3,2024-08-22,Product is decent for the price.
+2263,1672,5,5,2025-02-16,Excellent product and fast delivery.
+2264,2012,70,5,2024-02-17,Great quality for the price.
+2265,2376,39,5,2025-08-11,Great quality for the price.
+2266,2134,15,5,2024-03-02,Great quality for the price.
+2267,579,71,5,2024-06-08,Great quality for the price.
+2268,223,68,3,2024-07-05,"It is okay, but could be better."
+2269,2135,50,5,2025-01-07,Very happy with my purchase.
+2270,2360,31,2,2024-11-05,Not as good as expected.
+2271,475,95,5,2024-10-18,Great quality for the price.
+2272,440,79,5,2025-01-23,Great quality for the price.
+2273,2232,91,5,2025-08-14,Great quality for the price.
+2274,965,81,5,2024-12-30,Great quality for the price.
+2275,933,61,5,2025-08-06,Great quality for the price.
+2276,1169,24,5,2024-01-31,Great quality for the price.
+2277,903,93,3,2025-12-04,Product is decent for the price.
+2278,1572,32,5,2025-03-01,Very happy with my purchase.
+2279,2322,19,4,2025-11-14,Nice quality and useful.
+2280,1701,93,5,2025-04-11,Excellent product and fast delivery.
+2281,2018,58,4,2024-08-27,Good product overall.
+2282,1242,58,3,2024-05-22,Product is decent for the price.
+2283,1684,86,4,2025-07-04,Nice quality and useful.
+2284,193,85,5,2024-05-04,Excellent product and fast delivery.
+2285,406,22,4,2025-01-31,Good product overall.
+2286,1413,65,5,2024-09-26,Great quality for the price.
+2287,113,89,5,2025-09-24,Excellent product and fast delivery.
+2288,1179,39,3,2024-01-31,Average experience.
+2289,2465,31,5,2024-05-05,Very happy with my purchase.
+2290,757,41,3,2025-07-12,Product is decent for the price.
+2291,773,15,4,2025-11-27,Nice quality and useful.
+2292,1233,70,3,2024-12-02,"It is okay, but could be better."
+2293,821,43,4,2024-08-17,Works as expected.
+2294,225,78,4,2025-03-16,Nice quality and useful.
+2295,719,41,4,2025-08-06,Good product overall.
+2296,772,4,4,2024-06-13,Works as expected.
+2297,382,7,2,2025-11-13,Delivery was fine but product disappointed me.
+2298,1012,37,3,2025-10-08,"It is okay, but could be better."
+2299,1898,3,4,2025-05-03,Works as expected.
+2300,1075,20,5,2025-05-19,Very happy with my purchase.
+2301,1972,41,4,2025-11-06,Nice quality and useful.
+2302,1454,40,3,2025-10-12,Average experience.
+2303,1403,26,5,2025-04-18,Great quality for the price.
+2304,350,69,1,2025-01-30,Would not buy this again.
+2305,108,58,4,2025-05-28,Good product overall.
+2306,363,82,5,2025-09-20,Excellent product and fast delivery.
+2307,1328,37,4,2024-09-15,Good product overall.
+2308,840,42,5,2025-04-20,Very happy with my purchase.
+2309,1357,84,4,2024-01-27,Good product overall.
+2310,2360,38,4,2024-08-07,Good product overall.
+2311,2093,69,3,2024-08-29,Product is decent for the price.
+2312,1490,8,5,2025-02-12,Excellent product and fast delivery.
+2313,880,56,3,2025-07-06,Average experience.
+2314,1381,4,5,2024-05-14,Great quality for the price.
+2315,1,33,3,2025-04-24,Average experience.
+2316,972,54,4,2025-12-15,Nice quality and useful.
+2317,1504,58,3,2024-02-02,"It is okay, but could be better."
+2318,2330,4,4,2025-08-29,Nice quality and useful.
+2319,1146,70,4,2025-05-07,Works as expected.
+2320,1319,31,3,2024-07-24,Average experience.
+2321,1284,58,5,2024-02-28,Very happy with my purchase.
+2322,1758,63,5,2024-02-04,Very happy with my purchase.
+2323,350,49,4,2024-07-05,Good product overall.
+2324,2079,42,4,2025-08-22,Good product overall.
+2325,1335,36,3,2024-03-15,Product is decent for the price.
+2326,2465,5,4,2025-06-06,Good product overall.
+2327,1552,34,3,2025-09-17,"It is okay, but could be better."
+2328,2359,18,3,2024-07-19,"It is okay, but could be better."
+2329,300,45,1,2024-08-08,Would not buy this again.
+2330,1578,12,2,2025-10-26,Not as good as expected.
+2331,306,86,4,2025-02-03,Good product overall.
+2332,1683,6,5,2025-01-19,Great quality for the price.
+2333,569,19,5,2024-01-25,Very happy with my purchase.
+2334,1248,51,5,2024-01-10,Great quality for the price.
+2335,1377,78,3,2025-01-31,Product is decent for the price.
+2336,827,77,5,2024-09-17,Great quality for the price.
+2337,812,55,5,2024-12-27,Excellent product and fast delivery.
+2338,1344,30,5,2025-01-31,Excellent product and fast delivery.
+2339,390,78,3,2024-05-09,Product is decent for the price.
+2340,241,53,2,2024-07-21,Not as good as expected.
+2341,921,57,4,2025-01-27,Good product overall.
+2342,1565,79,4,2025-10-27,Nice quality and useful.
+2343,1235,14,4,2024-05-29,Good product overall.
+2344,1724,46,3,2025-12-18,Product is decent for the price.
+2345,811,71,1,2024-02-20,Poor quality.
+2346,322,71,5,2024-11-23,Very happy with my purchase.
+2347,1911,2,5,2025-03-22,Great quality for the price.
+2348,2472,53,4,2025-11-24,Works as expected.
+2349,2193,16,2,2024-05-08,Quality could be improved.
+2350,1913,64,1,2024-08-05,Poor quality.
+2351,677,29,5,2024-05-03,Great quality for the price.
+2352,1715,2,5,2024-01-28,Excellent product and fast delivery.
+2353,806,81,4,2024-12-21,Good product overall.
+2354,1749,43,5,2024-01-28,Very happy with my purchase.
+2355,643,27,4,2025-04-20,Good product overall.
+2356,514,63,3,2025-03-23,Average experience.
+2357,587,5,4,2024-03-17,Works as expected.
+2358,297,51,5,2025-03-02,Great quality for the price.
+2359,729,13,5,2025-05-07,Great quality for the price.
+2360,1602,78,3,2025-06-22,Product is decent for the price.
+2361,914,78,5,2024-08-23,Very happy with my purchase.
+2362,1370,8,5,2025-01-13,Great quality for the price.
+2363,1997,34,3,2025-05-22,Average experience.
+2364,2168,53,5,2024-05-26,Great quality for the price.
+2365,950,55,2,2024-05-28,Not as good as expected.
+2366,73,10,4,2025-06-08,Nice quality and useful.
+2367,1012,32,4,2024-08-04,Nice quality and useful.
+2368,866,27,5,2024-11-03,Great quality for the price.
+2369,2091,91,5,2024-07-08,Excellent product and fast delivery.
+2370,90,36,4,2024-11-08,Nice quality and useful.
+2371,1621,86,3,2024-07-16,"It is okay, but could be better."
+2372,1102,57,4,2024-06-10,Nice quality and useful.
+2373,332,92,5,2025-01-15,Excellent product and fast delivery.
+2374,2342,27,2,2024-02-14,Quality could be improved.
+2375,2442,75,5,2025-01-12,Excellent product and fast delivery.
+2376,1504,2,5,2024-08-29,Excellent product and fast delivery.
+2377,2063,4,5,2025-08-25,Great quality for the price.
+2378,384,70,5,2025-09-17,Excellent product and fast delivery.
+2379,1009,83,5,2024-11-12,Very happy with my purchase.
+2380,1197,51,3,2025-10-21,Average experience.
+2381,340,51,4,2024-08-09,Nice quality and useful.
+2382,1475,37,4,2024-03-16,Works as expected.
+2383,1033,48,5,2024-12-03,Great quality for the price.
+2384,1784,82,3,2025-10-17,Product is decent for the price.
+2385,697,70,5,2024-05-25,Very happy with my purchase.
+2386,803,2,3,2025-09-12,"It is okay, but could be better."
+2387,2200,70,4,2024-07-02,Works as expected.
+2388,981,24,1,2024-08-24,Very disappointed with the product.
+2389,2036,56,5,2024-01-22,Great quality for the price.
+2390,1958,87,5,2024-03-23,Very happy with my purchase.
+2391,2093,28,4,2024-02-18,Good product overall.
+2392,794,62,4,2025-07-01,Works as expected.
+2393,2415,37,5,2025-10-09,Very happy with my purchase.
+2394,24,50,4,2025-11-20,Works as expected.
+2395,445,13,5,2025-07-30,Very happy with my purchase.
+2396,1053,95,5,2025-11-16,Very happy with my purchase.
+2397,294,80,4,2025-10-12,Works as expected.
+2398,2272,63,5,2025-10-04,Great quality for the price.
+2399,202,76,4,2025-09-24,Works as expected.
+2400,2136,23,3,2024-03-21,Average experience.
+2401,1984,45,4,2025-07-09,Good product overall.
+2402,2403,29,4,2025-10-21,Good product overall.
+2403,24,6,4,2024-09-24,Good product overall.
+2404,1446,75,5,2024-06-10,Excellent product and fast delivery.
+2405,1754,12,4,2024-06-19,Nice quality and useful.
+2406,156,23,5,2025-06-09,Excellent product and fast delivery.
+2407,1483,42,5,2025-09-10,Very happy with my purchase.
+2408,1472,43,4,2026-01-10,Good product overall.
+2409,448,38,5,2025-03-31,Very happy with my purchase.
+2410,1409,61,4,2024-03-08,Good product overall.
+2411,1088,52,4,2024-11-01,Good product overall.
+2412,123,64,4,2025-09-30,Nice quality and useful.
+2413,2498,37,5,2025-10-13,Great quality for the price.
+2414,1891,30,5,2025-09-19,Very happy with my purchase.
+2415,627,83,5,2024-09-13,Very happy with my purchase.
+2416,297,6,2,2025-11-16,Delivery was fine but product disappointed me.
+2417,172,7,5,2024-10-03,Excellent product and fast delivery.
+2418,1107,17,4,2025-05-22,Nice quality and useful.
+2419,2215,91,3,2024-12-29,Product is decent for the price.
+2420,156,25,1,2025-07-04,Poor quality.
+2421,1538,39,5,2024-12-21,Excellent product and fast delivery.
+2422,2448,13,5,2025-07-01,Great quality for the price.
+2423,1745,46,5,2025-05-03,Very happy with my purchase.
+2424,1934,57,4,2025-11-24,Works as expected.
+2425,1052,83,5,2025-04-22,Great quality for the price.
+2426,2226,84,3,2025-04-10,"It is okay, but could be better."
+2427,725,9,5,2025-08-05,Great quality for the price.
+2428,1907,50,5,2025-05-03,Great quality for the price.
+2429,2359,2,4,2025-08-19,Nice quality and useful.
+2430,65,87,4,2025-04-11,Nice quality and useful.
+2431,1744,54,5,2024-04-04,Great quality for the price.
+2432,1528,23,5,2025-10-02,Excellent product and fast delivery.
+2433,2113,22,5,2025-09-14,Very happy with my purchase.
+2434,147,72,5,2025-04-13,Excellent product and fast delivery.
+2435,400,33,5,2025-08-04,Great quality for the price.
+2436,789,2,3,2025-05-30,Average experience.
+2437,1847,29,5,2025-03-17,Very happy with my purchase.
+2438,1626,79,4,2024-06-08,Works as expected.
+2439,722,80,5,2025-03-22,Great quality for the price.
+2440,223,3,4,2025-07-22,Good product overall.
+2441,794,84,4,2024-10-12,Good product overall.
+2442,139,62,5,2026-01-08,Excellent product and fast delivery.
+2443,604,75,5,2025-01-01,Great quality for the price.
+2444,725,21,5,2025-07-05,Great quality for the price.
+2445,218,65,5,2025-11-28,Great quality for the price.
+2446,1217,32,5,2024-07-21,Great quality for the price.
+2447,581,17,5,2025-05-04,Very happy with my purchase.
+2448,248,7,4,2024-07-26,Works as expected.
+2449,452,92,3,2025-10-10,"It is okay, but could be better."
+2450,1419,37,4,2026-01-04,Works as expected.
+2451,501,42,3,2024-03-22,Product is decent for the price.
+2452,2441,92,2,2024-05-28,Not as good as expected.
+2453,1899,1,5,2025-11-12,Great quality for the price.
+2454,546,30,4,2025-07-20,Nice quality and useful.
+2455,1336,34,4,2025-03-12,Nice quality and useful.
+2456,2035,44,4,2025-01-08,Works as expected.
+2457,1306,78,3,2024-01-21,Average experience.
+2458,2416,78,5,2025-08-16,Excellent product and fast delivery.
+2459,1376,73,5,2024-04-22,Great quality for the price.
+2460,2258,5,4,2024-11-07,Nice quality and useful.
+2461,2071,22,4,2025-09-17,Works as expected.
+2462,39,78,4,2024-12-02,Nice quality and useful.
+2463,1610,5,1,2025-01-06,Very disappointed with the product.
+2464,209,41,3,2024-05-25,"It is okay, but could be better."
+2465,471,51,5,2024-01-18,Great quality for the price.
+2466,1346,46,5,2025-10-11,Excellent product and fast delivery.
+2467,1026,41,2,2025-12-06,Not as good as expected.
+2468,1758,84,5,2024-03-07,Great quality for the price.
+2469,1157,27,4,2025-07-04,Good product overall.
+2470,1670,49,4,2024-04-27,Good product overall.
+2471,1006,34,4,2024-03-03,Nice quality and useful.
+2472,1088,67,4,2025-04-08,Nice quality and useful.
+2473,2398,75,4,2024-03-19,Nice quality and useful.
+2474,1523,54,5,2024-11-06,Great quality for the price.
+2475,477,76,4,2025-05-01,Good product overall.
+2476,879,72,4,2025-11-18,Works as expected.
+2477,2282,42,4,2024-01-11,Nice quality and useful.
+2478,877,22,5,2025-01-02,Great quality for the price.
+2479,650,90,1,2025-06-03,Would not buy this again.
+2480,1551,83,4,2024-02-06,Nice quality and useful.
+2481,2243,13,3,2025-05-20,"It is okay, but could be better."
+2482,1098,66,5,2024-12-26,Great quality for the price.
+2483,1954,80,2,2024-04-01,Quality could be improved.
+2484,2105,15,5,2024-07-11,Great quality for the price.
+2485,1520,33,3,2025-04-24,Average experience.
+2486,2010,74,4,2024-08-10,Works as expected.
+2487,1347,26,5,2025-12-17,Great quality for the price.
+2488,2200,27,4,2025-03-25,Works as expected.
+2489,1371,58,4,2024-07-16,Good product overall.
+2490,569,87,4,2024-07-16,Works as expected.
+2491,632,69,5,2024-09-26,Excellent product and fast delivery.
+2492,10,56,4,2025-07-29,Nice quality and useful.
+2493,1252,53,2,2024-05-17,Quality could be improved.
+2494,2123,90,4,2024-06-13,Works as expected.
+2495,1893,43,1,2024-01-18,Very disappointed with the product.
+2496,671,15,4,2025-11-06,Works as expected.
+2497,139,21,5,2024-12-03,Great quality for the price.
+2498,1925,26,2,2024-05-15,Delivery was fine but product disappointed me.
+2499,1545,50,4,2024-11-26,Good product overall.
+2500,1036,87,3,2025-03-15,"It is okay, but could be better."
+2501,561,82,5,2024-07-27,Excellent product and fast delivery.
+2502,951,12,4,2024-11-20,Works as expected.
+2503,2278,55,4,2024-08-28,Good product overall.
+2504,117,43,3,2024-10-09,Average experience.
+2505,499,64,3,2025-06-23,Average experience.
+2506,446,96,3,2025-03-04,"It is okay, but could be better."
+2507,1768,89,3,2024-06-25,"It is okay, but could be better."
+2508,1117,10,5,2024-08-12,Great quality for the price.
+2509,2499,34,4,2025-01-08,Works as expected.
+2510,2195,61,4,2024-07-27,Nice quality and useful.
+2511,94,86,5,2025-09-08,Great quality for the price.
+2512,933,35,4,2025-08-13,Good product overall.
+2513,1928,3,4,2024-09-04,Good product overall.
+2514,81,20,5,2024-03-27,Great quality for the price.
+2515,1604,58,4,2025-07-25,Good product overall.
+2516,1538,48,4,2025-09-06,Works as expected.
+2517,1677,50,4,2025-12-08,Good product overall.
+2518,2369,10,5,2025-04-25,Great quality for the price.
+2519,315,81,5,2024-12-28,Excellent product and fast delivery.
+2520,2253,73,3,2025-10-19,Average experience.
+2521,883,60,3,2024-05-29,Average experience.
+2522,911,79,4,2024-12-04,Works as expected.
+2523,1993,7,4,2024-07-02,Nice quality and useful.
+2524,1254,23,4,2024-02-04,Good product overall.
+2525,1039,57,4,2025-08-10,Nice quality and useful.
+2526,1274,94,4,2025-03-04,Nice quality and useful.
+2527,949,49,4,2024-08-21,Works as expected.
+2528,740,38,5,2025-04-06,Very happy with my purchase.
+2529,2071,15,4,2024-12-27,Works as expected.
+2530,2344,19,4,2024-12-14,Works as expected.
+2531,833,37,5,2024-01-29,Excellent product and fast delivery.
+2532,1813,14,5,2024-11-03,Excellent product and fast delivery.
+2533,1499,1,5,2024-10-21,Great quality for the price.
+2534,1059,61,5,2024-05-14,Very happy with my purchase.
+2535,877,83,5,2025-01-29,Very happy with my purchase.
+2536,360,20,3,2025-02-13,"It is okay, but could be better."
+2537,990,49,4,2024-09-08,Good product overall.
+2538,1624,38,4,2025-03-02,Good product overall.
+2539,1456,80,5,2024-12-12,Great quality for the price.
+2540,27,37,5,2025-10-12,Very happy with my purchase.
+2541,541,83,4,2025-05-08,Good product overall.
+2542,984,64,4,2025-03-13,Good product overall.
+2543,994,14,5,2025-10-06,Very happy with my purchase.
+2544,1474,6,5,2024-06-11,Excellent product and fast delivery.
+2545,2294,11,2,2024-09-22,Delivery was fine but product disappointed me.
+2546,1174,15,5,2024-07-09,Great quality for the price.
+2547,1986,6,5,2024-11-10,Excellent product and fast delivery.
+2548,2191,23,5,2024-01-22,Very happy with my purchase.
+2549,2066,90,4,2025-02-11,Nice quality and useful.
+2550,664,76,5,2025-04-30,Great quality for the price.
+2551,2437,53,5,2024-05-31,Very happy with my purchase.
+2552,2270,38,5,2025-08-20,Very happy with my purchase.
+2553,969,82,2,2024-10-29,Quality could be improved.
+2554,1179,67,4,2024-06-19,Good product overall.
+2555,307,57,1,2024-10-28,Very disappointed with the product.
+2556,1248,35,5,2025-01-22,Very happy with my purchase.
+2557,821,44,5,2024-01-10,Great quality for the price.
+2558,2228,55,5,2024-12-12,Excellent product and fast delivery.
+2559,160,24,4,2025-02-25,Works as expected.
+2560,1865,79,4,2024-12-03,Works as expected.
+2561,1587,56,4,2025-05-15,Nice quality and useful.
+2562,1195,6,5,2024-09-26,Very happy with my purchase.
+2563,1825,94,4,2025-12-15,Nice quality and useful.
+2564,1044,50,4,2025-11-03,Works as expected.
+2565,2054,38,4,2025-01-11,Nice quality and useful.
+2566,375,42,4,2025-07-20,Works as expected.
+2567,671,35,4,2024-11-02,Works as expected.
+2568,2207,62,5,2025-11-04,Very happy with my purchase.
+2569,2109,94,4,2024-08-19,Nice quality and useful.
+2570,2338,34,4,2024-06-27,Works as expected.
+2571,1701,67,5,2024-07-14,Very happy with my purchase.
+2572,103,55,3,2025-10-11,Product is decent for the price.
+2573,18,55,4,2025-01-10,Nice quality and useful.
+2574,471,66,4,2024-12-01,Good product overall.
+2575,1942,10,4,2024-06-20,Good product overall.
+2576,24,87,4,2024-09-20,Nice quality and useful.
+2577,1031,1,3,2025-09-04,Product is decent for the price.
+2578,1736,11,5,2024-12-21,Great quality for the price.
+2579,280,74,2,2024-11-05,Not as good as expected.
+2580,2016,83,4,2024-09-26,Good product overall.
+2581,1241,18,4,2024-04-18,Nice quality and useful.
+2582,729,68,5,2025-01-11,Excellent product and fast delivery.
+2583,899,15,2,2024-07-30,Quality could be improved.
+2584,1825,34,4,2025-11-12,Nice quality and useful.
+2585,2349,58,4,2025-10-29,Works as expected.
+2586,2137,6,4,2025-01-06,Nice quality and useful.
+2587,772,16,3,2025-09-07,Average experience.
+2588,2418,79,1,2024-07-27,Very disappointed with the product.
+2589,198,73,5,2024-05-29,Very happy with my purchase.
+2590,1663,72,1,2024-02-15,Very disappointed with the product.
+2591,1233,21,4,2024-05-28,Works as expected.
+2592,683,28,3,2025-12-26,Average experience.
+2593,2065,31,5,2024-11-18,Great quality for the price.
+2594,2331,95,5,2025-09-29,Excellent product and fast delivery.
+2595,522,13,4,2025-10-09,Good product overall.
+2596,437,87,4,2025-01-03,Works as expected.
+2597,2352,48,3,2024-10-22,Product is decent for the price.
+2598,2272,40,4,2025-04-19,Good product overall.
+2599,1986,73,4,2025-01-07,Works as expected.
+2600,1628,9,4,2024-06-16,Good product overall.
+2601,1507,34,4,2024-12-02,Works as expected.
+2602,1823,76,5,2024-03-01,Very happy with my purchase.
+2603,1270,65,5,2024-03-14,Great quality for the price.
+2604,827,49,5,2024-07-04,Very happy with my purchase.
+2605,2057,62,5,2025-04-17,Great quality for the price.
+2606,892,15,5,2025-07-28,Excellent product and fast delivery.
+2607,2278,12,5,2024-09-27,Great quality for the price.
+2608,2378,70,5,2024-04-14,Excellent product and fast delivery.
+2609,1954,20,4,2024-07-21,Works as expected.
+2610,1106,18,4,2025-01-11,Good product overall.
+2611,1552,35,3,2024-12-19,Average experience.
+2612,1288,70,3,2024-04-06,"It is okay, but could be better."
+2613,777,2,2,2024-04-03,Quality could be improved.
+2614,1180,3,1,2024-03-05,Poor quality.
+2615,248,88,3,2025-08-18,Average experience.
+2616,2358,88,2,2024-06-05,Delivery was fine but product disappointed me.
+2617,1231,68,4,2025-08-22,Nice quality and useful.
+2618,1539,29,5,2024-09-12,Excellent product and fast delivery.
+2619,668,56,5,2024-08-18,Excellent product and fast delivery.
+2620,463,25,5,2025-09-30,Excellent product and fast delivery.
+2621,2012,51,1,2024-08-25,Poor quality.
+2622,1415,94,4,2025-09-04,Works as expected.
+2623,1354,11,4,2025-02-01,Works as expected.
+2624,970,27,3,2025-09-10,Average experience.
+2625,1603,62,5,2024-11-01,Great quality for the price.
+2626,237,57,4,2025-12-14,Works as expected.
+2627,2222,48,4,2024-06-17,Works as expected.
+2628,664,69,5,2025-04-13,Excellent product and fast delivery.
+2629,1382,42,5,2026-01-12,Very happy with my purchase.
+2630,2088,25,5,2024-06-05,Very happy with my purchase.
+2631,1041,4,4,2025-02-10,Works as expected.
+2632,204,32,4,2024-09-20,Good product overall.
+2633,1703,83,3,2025-05-24,Average experience.
+2634,1552,96,3,2024-11-30,"It is okay, but could be better."
+2635,836,27,4,2025-10-01,Good product overall.
+2636,1030,35,1,2025-05-14,Poor quality.
+2637,671,20,4,2025-10-04,Nice quality and useful.
+2638,1347,69,3,2025-08-24,Product is decent for the price.
+2639,990,20,3,2026-01-01,"It is okay, but could be better."
+2640,1085,65,3,2025-04-05,Average experience.
+2641,1825,76,5,2025-11-13,Great quality for the price.
+2642,1434,16,5,2025-08-18,Excellent product and fast delivery.
+2643,1116,48,5,2024-12-16,Great quality for the price.
+2644,1067,55,4,2024-02-02,Works as expected.
+2645,1643,61,2,2024-06-09,Quality could be improved.
+2646,892,48,2,2024-03-12,Delivery was fine but product disappointed me.
+2647,1818,12,4,2025-05-05,Works as expected.
+2648,607,75,2,2025-03-29,Quality could be improved.
+2649,1018,96,4,2024-08-18,Works as expected.
+2650,833,76,5,2024-03-12,Very happy with my purchase.
+2651,160,11,3,2024-06-15,Average experience.
+2652,1469,17,2,2024-02-23,Not as good as expected.
+2653,2459,43,3,2024-02-11,Product is decent for the price.
+2654,1055,92,5,2024-02-19,Very happy with my purchase.
+2655,1033,53,4,2024-01-14,Good product overall.
+2656,1572,96,5,2025-03-19,Very happy with my purchase.
+2657,619,66,5,2025-12-03,Great quality for the price.
+2658,445,76,1,2025-02-02,Would not buy this again.
+2659,924,95,4,2025-09-09,Good product overall.
+2660,2242,47,4,2024-03-09,Nice quality and useful.
+2661,1684,74,4,2025-12-25,Good product overall.
+2662,868,61,5,2024-08-09,Great quality for the price.
+2663,322,34,4,2025-11-30,Works as expected.
+2664,602,17,5,2025-01-31,Great quality for the price.
+2665,1740,85,4,2025-04-29,Nice quality and useful.
+2666,1658,47,4,2024-11-13,Good product overall.
+2667,1716,83,4,2025-12-10,Works as expected.
+2668,324,70,5,2024-10-06,Very happy with my purchase.
+2669,983,58,3,2024-07-01,Average experience.
+2670,821,50,5,2024-01-08,Great quality for the price.
+2671,441,70,5,2024-07-04,Excellent product and fast delivery.
+2672,1483,47,2,2025-05-14,Not as good as expected.
+2673,2472,12,4,2025-07-04,Good product overall.
+2674,57,89,5,2024-11-20,Great quality for the price.
+2675,1423,81,4,2025-11-08,Nice quality and useful.
+2676,2091,79,3,2025-05-26,Average experience.
+2677,2312,12,4,2025-12-26,Nice quality and useful.
+2678,280,4,3,2025-04-29,Product is decent for the price.
+2679,1628,31,3,2025-04-22,Average experience.
+2680,2427,84,2,2024-11-25,Quality could be improved.
+2681,1476,38,3,2024-07-23,"It is okay, but could be better."
+2682,1745,53,5,2025-07-08,Great quality for the price.
+2683,1277,3,4,2025-10-07,Works as expected.
+2684,1496,79,3,2024-10-05,"It is okay, but could be better."
+2685,1695,28,4,2024-06-22,Works as expected.
+2686,1573,5,4,2026-01-11,Works as expected.
+2687,558,26,5,2024-06-08,Great quality for the price.
+2688,437,24,3,2024-11-02,"It is okay, but could be better."
+2689,1782,70,5,2024-05-01,Very happy with my purchase.
+2690,509,59,4,2024-05-02,Nice quality and useful.
+2691,2282,11,4,2024-07-20,Good product overall.
+2692,288,80,5,2025-09-12,Excellent product and fast delivery.
+2693,1644,63,4,2025-01-11,Nice quality and useful.
+2694,147,90,5,2024-01-30,Great quality for the price.
+2695,249,84,5,2024-10-08,Very happy with my purchase.
+2696,1775,75,4,2025-05-23,Good product overall.
+2697,338,12,3,2025-09-15,Average experience.
+2698,2273,60,5,2025-12-20,Great quality for the price.
+2699,1907,78,5,2025-11-14,Great quality for the price.
+2700,1177,85,2,2025-03-22,Delivery was fine but product disappointed me.
+2701,743,34,5,2025-01-11,Great quality for the price.
+2702,285,70,5,2024-07-15,Great quality for the price.
+2703,21,4,1,2025-07-10,Poor quality.
+2704,1146,45,4,2025-07-03,Nice quality and useful.
+2705,1018,40,5,2025-10-04,Great quality for the price.
+2706,1279,58,4,2024-05-04,Works as expected.
+2707,2413,73,5,2025-07-29,Great quality for the price.
+2708,2412,73,2,2024-03-10,Quality could be improved.
+2709,1293,94,4,2024-11-25,Nice quality and useful.
+2710,277,1,5,2025-08-19,Excellent product and fast delivery.
+2711,2036,50,5,2025-02-19,Very happy with my purchase.
+2712,349,39,5,2024-05-15,Excellent product and fast delivery.
+2713,83,95,5,2025-08-23,Very happy with my purchase.
+2714,1252,67,4,2025-12-18,Nice quality and useful.
+2715,2407,68,4,2025-12-07,Good product overall.
+2716,825,60,4,2025-11-30,Good product overall.
+2717,1342,53,4,2025-09-12,Works as expected.
+2718,1098,86,4,2025-12-23,Good product overall.
+2719,1038,85,3,2024-06-07,Product is decent for the price.
+2720,2393,29,4,2025-09-02,Nice quality and useful.
+2721,719,31,4,2024-02-19,Works as expected.
+2722,255,71,5,2025-08-06,Excellent product and fast delivery.
+2723,808,57,2,2025-08-24,Not as good as expected.
+2724,1431,70,5,2025-07-25,Excellent product and fast delivery.
+2725,1799,14,5,2025-10-06,Great quality for the price.
+2726,1397,20,3,2025-02-19,Product is decent for the price.
+2727,540,54,5,2024-07-30,Great quality for the price.
+2728,348,2,3,2024-08-27,Average experience.
+2729,2104,58,5,2024-11-07,Great quality for the price.
+2730,430,23,5,2025-09-04,Very happy with my purchase.
+2731,285,2,3,2024-01-27,Average experience.
+2732,1490,63,5,2024-06-27,Very happy with my purchase.
+2733,2281,54,5,2024-11-15,Great quality for the price.
+2734,20,4,5,2025-06-22,Excellent product and fast delivery.
+2735,2289,83,5,2025-01-17,Very happy with my purchase.
+2736,247,51,5,2025-02-01,Great quality for the price.
+2737,921,40,5,2024-12-31,Excellent product and fast delivery.
+2738,2340,39,4,2024-03-16,Nice quality and useful.
+2739,890,62,5,2024-12-21,Excellent product and fast delivery.
+2740,2154,1,5,2024-07-27,Very happy with my purchase.
+2741,1371,27,5,2024-09-05,Very happy with my purchase.
+2742,2415,31,1,2025-02-16,Very disappointed with the product.
+2743,1202,62,4,2025-04-15,Nice quality and useful.
+2744,787,94,5,2025-07-13,Great quality for the price.
+2745,40,83,4,2025-08-29,Works as expected.
+2746,771,10,5,2025-06-18,Very happy with my purchase.
+2747,2022,84,3,2025-10-02,"It is okay, but could be better."
+2748,551,31,5,2025-02-25,Very happy with my purchase.
+2749,582,66,3,2025-06-05,Average experience.
+2750,405,54,2,2025-03-02,Delivery was fine but product disappointed me.
+2751,965,95,4,2025-03-13,Nice quality and useful.
+2752,2289,92,3,2025-12-07,Average experience.
+2753,1321,93,5,2024-12-05,Excellent product and fast delivery.
+2754,1329,44,4,2025-10-28,Works as expected.
+2755,1900,42,5,2024-11-26,Very happy with my purchase.
+2756,1514,65,5,2024-06-11,Very happy with my purchase.
+2757,147,88,4,2025-12-04,Nice quality and useful.
+2758,926,82,5,2024-05-03,Great quality for the price.
+2759,1195,85,4,2025-05-07,Works as expected.
+2760,532,50,4,2025-01-13,Works as expected.
+2761,152,19,4,2024-06-13,Good product overall.
+2762,1574,56,5,2024-04-17,Very happy with my purchase.
+2763,113,54,3,2025-01-24,"It is okay, but could be better."
+2764,1018,66,1,2025-04-08,Very disappointed with the product.
+2765,2393,31,5,2024-08-02,Excellent product and fast delivery.
+2766,323,72,2,2024-02-09,Delivery was fine but product disappointed me.
+2767,672,24,2,2025-04-21,Delivery was fine but product disappointed me.
+2768,191,71,5,2024-12-03,Excellent product and fast delivery.
+2769,289,38,5,2025-02-08,Very happy with my purchase.
+2770,1472,3,4,2024-02-25,Works as expected.
+2771,2440,32,5,2025-12-15,Great quality for the price.
+2772,304,25,3,2024-06-18,Average experience.
+2773,1313,52,4,2024-08-13,Works as expected.
+2774,1196,6,4,2024-06-18,Good product overall.
+2775,968,27,4,2024-07-19,Nice quality and useful.
+2776,1144,90,2,2026-01-10,Quality could be improved.
+2777,288,54,4,2025-09-22,Good product overall.
+2778,2062,92,5,2025-05-01,Very happy with my purchase.
+2779,1907,59,3,2025-05-08,Average experience.
+2780,699,4,4,2025-10-24,Works as expected.
+2781,1599,81,3,2025-07-05,"It is okay, but could be better."
+2782,1377,14,5,2025-09-16,Excellent product and fast delivery.
+2783,2422,47,5,2024-12-05,Very happy with my purchase.
+2784,1382,45,5,2025-02-06,Excellent product and fast delivery.
+2785,1341,31,4,2024-03-22,Works as expected.
+2786,260,63,5,2024-01-20,Excellent product and fast delivery.
+2787,787,73,4,2025-10-03,Good product overall.
+2788,2359,9,5,2025-08-20,Very happy with my purchase.
+2789,2392,53,5,2024-10-08,Very happy with my purchase.
+2790,795,73,3,2024-11-28,Product is decent for the price.
+2791,994,87,5,2025-07-26,Very happy with my purchase.
+2792,1615,19,4,2024-09-22,Nice quality and useful.
+2793,15,91,3,2024-03-07,Product is decent for the price.
+2794,118,95,5,2025-11-27,Very happy with my purchase.
+2795,1821,7,4,2025-09-25,Works as expected.
+2796,847,35,5,2024-01-06,Great quality for the price.
+2797,1452,81,5,2024-04-22,Very happy with my purchase.
+2798,1394,34,5,2024-06-06,Great quality for the price.
+2799,98,1,3,2024-01-17,Product is decent for the price.
+2800,2083,22,4,2024-08-26,Nice quality and useful.
+2801,46,30,4,2024-06-24,Good product overall.
+2802,586,69,4,2024-08-17,Works as expected.
+2803,2010,94,5,2024-08-17,Great quality for the price.
+2804,74,14,1,2024-07-20,Would not buy this again.
+2805,2127,57,5,2024-05-01,Excellent product and fast delivery.
+2806,674,71,4,2024-05-27,Nice quality and useful.
+2807,1369,70,5,2024-09-05,Excellent product and fast delivery.
+2808,1478,85,5,2026-01-02,Great quality for the price.
+2809,1563,91,4,2025-12-28,Works as expected.
+2810,1653,39,4,2025-10-10,Good product overall.
+2811,1369,42,3,2025-02-27,"It is okay, but could be better."
+2812,2301,28,5,2025-07-23,Great quality for the price.
+2813,1794,55,4,2025-09-04,Works as expected.
+2814,771,57,4,2025-11-22,Nice quality and useful.
+2815,1376,66,4,2024-10-06,Good product overall.
+2816,1982,74,4,2024-02-29,Nice quality and useful.
+2817,553,68,3,2024-05-26,Product is decent for the price.
+2818,2207,69,4,2025-04-07,Works as expected.
+2819,1389,86,5,2025-02-05,Great quality for the price.
+2820,2284,7,5,2025-02-05,Excellent product and fast delivery.
+2821,808,92,5,2024-03-23,Excellent product and fast delivery.
+2822,2018,8,5,2024-05-16,Great quality for the price.
+2823,270,43,3,2025-09-05,Product is decent for the price.
+2824,2091,90,3,2024-11-05,"It is okay, but could be better."
+2825,161,61,1,2025-05-29,Very disappointed with the product.
+2826,2202,7,5,2024-04-25,Excellent product and fast delivery.
+2827,65,56,5,2024-06-13,Very happy with my purchase.
+2828,1102,65,4,2024-03-12,Works as expected.
+2829,119,21,3,2024-09-10,"It is okay, but could be better."
+2830,2246,55,5,2025-10-03,Excellent product and fast delivery.
+2831,542,51,4,2024-09-19,Good product overall.
+2832,1486,94,2,2024-11-16,Delivery was fine but product disappointed me.
+2833,306,14,4,2025-01-15,Works as expected.
+2834,1140,16,3,2025-04-09,"It is okay, but could be better."
+2835,1335,93,5,2025-01-15,Great quality for the price.
+2836,550,53,4,2025-06-15,Works as expected.
+2837,1544,40,2,2024-10-06,Delivery was fine but product disappointed me.
+2838,1202,25,2,2025-04-24,Not as good as expected.
+2839,802,79,5,2025-02-20,Great quality for the price.
+2840,1643,5,4,2026-01-02,Good product overall.
+2841,1693,32,2,2025-06-13,Quality could be improved.
+2842,2294,21,3,2025-04-13,Product is decent for the price.
+2843,1118,62,4,2025-11-20,Nice quality and useful.
+2844,1834,82,5,2024-12-01,Very happy with my purchase.
+2845,1880,94,5,2025-04-29,Excellent product and fast delivery.
+2846,1071,69,4,2025-09-20,Nice quality and useful.
+2847,1795,20,4,2024-06-14,Works as expected.
+2848,2272,67,4,2024-06-20,Nice quality and useful.
+2849,1278,2,3,2025-12-15,Average experience.
+2850,2089,7,4,2025-05-23,Good product overall.
+2851,102,56,4,2025-08-19,Good product overall.
+2852,280,75,4,2024-11-10,Works as expected.
+2853,2288,34,2,2024-08-26,Quality could be improved.
+2854,1825,83,5,2025-07-26,Great quality for the price.
+2855,274,88,4,2024-09-26,Good product overall.
+2856,502,22,4,2024-05-18,Nice quality and useful.
+2857,323,9,5,2025-08-25,Great quality for the price.
+2858,270,44,1,2025-06-21,Would not buy this again.
+2859,515,8,3,2024-06-15,"It is okay, but could be better."
+2860,41,59,4,2024-10-02,Works as expected.
+2861,659,1,4,2025-08-30,Good product overall.
+2862,1672,90,3,2025-04-03,Product is decent for the price.
+2863,726,41,5,2024-02-18,Great quality for the price.
+2864,1641,50,4,2024-05-30,Works as expected.
+2865,1729,38,3,2024-11-03,Average experience.
+2866,480,67,4,2025-12-09,Works as expected.
+2867,2036,10,4,2024-01-09,Works as expected.
+2868,1746,43,5,2025-11-08,Excellent product and fast delivery.
+2869,401,9,3,2025-05-15,"It is okay, but could be better."
+2870,512,32,5,2025-02-19,Great quality for the price.
+2871,708,21,4,2025-09-10,Good product overall.
+2872,1144,40,5,2024-04-06,Very happy with my purchase.
+2873,322,20,5,2025-08-24,Great quality for the price.
+2874,1853,68,3,2024-05-25,"It is okay, but could be better."
+2875,1993,10,3,2024-06-01,Average experience.
+2876,2480,13,3,2025-11-07,"It is okay, but could be better."
+2877,568,58,5,2024-02-07,Excellent product and fast delivery.
+2878,2062,18,4,2025-03-09,Works as expected.
+2879,15,35,5,2025-02-10,Excellent product and fast delivery.
+2880,523,4,5,2025-03-20,Excellent product and fast delivery.
+2881,1901,76,4,2025-12-26,Nice quality and useful.
+2882,969,26,2,2024-12-28,Delivery was fine but product disappointed me.
+2883,749,89,1,2024-09-16,Poor quality.
+2884,2178,96,3,2025-03-11,Average experience.
+2885,1243,85,5,2025-01-26,Excellent product and fast delivery.
+2886,1493,30,3,2025-11-09,Product is decent for the price.
+2887,777,35,4,2025-04-19,Good product overall.
+2888,2349,28,4,2025-01-19,Works as expected.
+2889,1190,83,4,2025-08-15,Works as expected.
+2890,72,75,5,2025-08-18,Very happy with my purchase.
+2891,875,68,2,2024-10-14,Delivery was fine but product disappointed me.
+2892,1943,62,2,2025-11-17,Quality could be improved.
+2893,1030,54,4,2025-07-08,Works as expected.
+2894,225,25,4,2025-03-25,Good product overall.
+2895,2121,13,5,2025-03-25,Very happy with my purchase.
+2896,2286,4,3,2025-01-23,"It is okay, but could be better."
+2897,1813,84,5,2024-10-10,Very happy with my purchase.
+2898,2203,53,5,2025-04-25,Excellent product and fast delivery.
+2899,501,6,3,2025-01-04,Product is decent for the price.
+2900,442,38,1,2024-09-29,Very disappointed with the product.
+2901,118,77,3,2025-02-25,Average experience.
+2902,94,73,3,2025-06-26,Product is decent for the price.
+2903,2465,73,4,2025-06-21,Good product overall.
+2904,24,91,3,2024-10-11,"It is okay, but could be better."
+2905,1947,42,4,2025-03-04,Nice quality and useful.
+2906,2022,19,4,2025-09-29,Works as expected.
+2907,1310,16,4,2024-08-16,Nice quality and useful.
+2908,1332,55,2,2025-05-05,Delivery was fine but product disappointed me.
+2909,1948,28,2,2025-11-24,Not as good as expected.
+2910,493,31,4,2025-03-02,Nice quality and useful.
+2911,1,66,4,2025-04-14,Good product overall.
+2912,102,65,4,2025-06-08,Good product overall.
+2913,2309,61,5,2025-12-25,Excellent product and fast delivery.
+2914,1695,80,5,2024-11-14,Very happy with my purchase.
+2915,580,42,3,2024-08-06,Average experience.
+2916,115,83,1,2024-10-17,Would not buy this again.
+2917,1181,14,4,2024-12-21,Nice quality and useful.
+2918,1488,46,2,2025-03-22,Not as good as expected.
+2919,1434,22,5,2024-10-04,Very happy with my purchase.
+2920,283,15,4,2025-11-23,Good product overall.
+2921,2442,36,3,2025-06-24,Product is decent for the price.
+2922,1154,71,3,2025-12-02,Product is decent for the price.
+2923,139,33,4,2024-09-28,Good product overall.
+2924,1307,12,3,2024-04-14,Product is decent for the price.
+2925,2465,19,4,2024-09-10,Good product overall.
+2926,1202,95,5,2024-04-12,Very happy with my purchase.
+2927,682,13,3,2024-07-25,"It is okay, but could be better."
+2928,497,33,4,2025-01-15,Nice quality and useful.
+2929,1944,87,5,2025-05-25,Excellent product and fast delivery.
+2930,595,74,3,2024-03-13,Average experience.
+2931,579,57,4,2025-11-05,Works as expected.
+2932,1248,96,1,2024-03-16,Poor quality.
+2933,945,67,2,2024-09-15,Delivery was fine but product disappointed me.
+2934,1900,29,5,2024-11-07,Great quality for the price.
+2935,2481,2,5,2025-05-10,Excellent product and fast delivery.
+2936,1565,27,1,2024-04-11,Poor quality.
+2937,449,42,5,2025-07-15,Excellent product and fast delivery.
+2938,471,58,4,2024-01-18,Works as expected.
+2939,2419,14,5,2025-02-08,Great quality for the price.
+2940,446,37,4,2026-01-05,Nice quality and useful.
+2941,785,78,4,2025-08-27,Nice quality and useful.
+2942,1663,30,4,2025-04-13,Works as expected.
+2943,1412,50,3,2025-01-23,Average experience.
+2944,1929,51,3,2025-02-05,"It is okay, but could be better."
+2945,482,48,3,2025-05-07,Average experience.
+2946,976,85,4,2025-06-28,Good product overall.
+2947,152,4,5,2025-11-06,Excellent product and fast delivery.
+2948,186,95,4,2025-09-30,Works as expected.
+2949,1959,42,4,2024-02-13,Nice quality and useful.
+2950,308,28,3,2025-10-03,Product is decent for the price.
+2951,1691,96,3,2025-11-17,Product is decent for the price.
+2952,2181,52,4,2024-04-12,Good product overall.
+2953,1265,89,4,2025-07-12,Nice quality and useful.
+2954,300,92,3,2024-02-29,Product is decent for the price.
+2955,1800,33,2,2024-06-26,Quality could be improved.
+2956,51,84,5,2025-02-28,Very happy with my purchase.
+2957,6,36,5,2024-12-30,Great quality for the price.
+2958,2067,11,5,2025-10-24,Excellent product and fast delivery.
+2959,246,22,3,2025-04-01,Product is decent for the price.
+2960,297,67,5,2024-04-08,Excellent product and fast delivery.
+2961,1907,18,4,2025-10-31,Nice quality and useful.
+2962,500,27,4,2025-09-28,Works as expected.
+2963,1930,36,1,2024-11-27,Very disappointed with the product.
+2964,1451,1,5,2025-07-26,Excellent product and fast delivery.
+2965,1131,19,4,2025-11-30,Works as expected.
+2966,888,14,5,2024-07-26,Very happy with my purchase.
+2967,1713,75,5,2024-11-13,Great quality for the price.
+2968,670,49,3,2025-08-01,"It is okay, but could be better."
+2969,72,85,5,2025-08-30,Great quality for the price.
+2970,1223,86,3,2025-01-02,Product is decent for the price.
+2971,1177,88,4,2024-04-07,Good product overall.
+2972,853,96,4,2024-10-30,Works as expected.
+2973,74,84,4,2024-10-18,Nice quality and useful.
+2974,1311,29,5,2024-11-11,Very happy with my purchase.
+2975,1803,68,3,2025-01-14,Average experience.
+2976,2033,93,5,2024-02-18,Very happy with my purchase.
+2977,1788,42,4,2025-03-18,Good product overall.
+2978,1443,1,5,2025-09-18,Excellent product and fast delivery.
+2979,1306,3,4,2024-02-02,Good product overall.
+2980,353,77,4,2024-08-10,Nice quality and useful.
+2981,1635,65,3,2024-10-21,Product is decent for the price.
+2982,2442,11,4,2025-01-03,Good product overall.
+2983,1202,5,3,2024-10-08,"It is okay, but could be better."
+2984,969,35,2,2024-08-03,Quality could be improved.
+2985,995,33,3,2024-07-15,Product is decent for the price.
+2986,1788,89,4,2025-12-06,Nice quality and useful.
+2987,328,16,5,2024-02-11,Very happy with my purchase.
+2988,917,55,4,2025-12-21,Works as expected.
+2989,1123,1,5,2024-11-22,Great quality for the price.
+2990,2481,34,3,2024-12-01,"It is okay, but could be better."
+2991,130,53,4,2024-09-28,Works as expected.
+2992,640,75,5,2025-02-25,Excellent product and fast delivery.
+2993,2399,60,5,2024-02-10,Great quality for the price.
+2994,1940,35,4,2025-01-23,Good product overall.
+2995,17,29,4,2025-05-06,Good product overall.
+2996,176,73,1,2024-06-16,Would not buy this again.
+2997,2338,20,4,2025-04-17,Good product overall.
+2998,1369,23,3,2025-07-14,Average experience.
+2999,2443,49,3,2024-10-07,Product is decent for the price.
+3000,255,58,4,2024-10-06,Works as expected.
+3001,41,85,1,2025-03-26,Poor quality.
+3002,40,58,4,2025-09-17,Good product overall.
+3003,237,35,4,2025-02-21,Good product overall.
+3004,609,47,5,2025-03-07,Great quality for the price.
+3005,2042,32,2,2025-09-28,Not as good as expected.
+3006,1031,9,5,2025-11-04,Very happy with my purchase.
+3007,757,76,4,2025-01-15,Works as expected.
+3008,1469,68,4,2024-08-22,Nice quality and useful.
+3009,437,55,5,2024-04-06,Great quality for the price.
+3010,1747,35,4,2026-01-26,Works as expected.
+3011,1171,34,5,2024-03-15,Very happy with my purchase.
+3012,1589,15,2,2024-05-09,Quality could be improved.
+3013,1381,57,2,2025-08-29,Quality could be improved.
+3014,1017,78,5,2025-03-16,Great quality for the price.
+3015,1904,74,5,2024-11-29,Great quality for the price.
+3016,1939,73,5,2024-04-09,Excellent product and fast delivery.
+3017,201,51,5,2025-02-13,Very happy with my purchase.
+3018,867,82,2,2024-04-05,Not as good as expected.
+3019,2235,51,5,2024-08-20,Excellent product and fast delivery.
+3020,897,13,4,2024-07-02,Good product overall.
+3021,1885,68,3,2025-02-11,Average experience.
+3022,286,36,4,2024-02-13,Nice quality and useful.
+3023,12,28,3,2025-09-04,Average experience.
+3024,2415,50,4,2025-03-15,Good product overall.
+3025,900,70,4,2024-09-18,Nice quality and useful.
+3026,48,51,5,2024-05-07,Great quality for the price.
+3027,2131,47,3,2025-07-16,Product is decent for the price.
+3028,1409,40,5,2024-05-04,Great quality for the price.
+3029,108,92,5,2025-06-03,Very happy with my purchase.
+3030,1088,86,2,2024-03-21,Delivery was fine but product disappointed me.
+3031,1490,49,2,2025-04-16,Quality could be improved.
+3032,2361,31,4,2024-07-29,Works as expected.
+3033,309,37,3,2024-10-03,Product is decent for the price.
+3034,213,12,4,2024-08-06,Works as expected.
+3035,2048,71,5,2024-10-13,Very happy with my purchase.
+3036,950,61,4,2025-09-15,Works as expected.
+3037,1385,76,3,2024-09-13,Average experience.
+3038,1657,74,4,2025-10-26,Good product overall.
+3039,477,81,5,2025-05-01,Excellent product and fast delivery.
+3040,2413,16,1,2025-02-13,Very disappointed with the product.
+3041,202,94,1,2025-10-09,Very disappointed with the product.
+3042,578,44,4,2024-07-05,Works as expected.
+3043,1899,64,5,2024-06-27,Very happy with my purchase.
+3044,471,75,4,2024-11-09,Works as expected.
+3045,2000,71,5,2024-02-21,Very happy with my purchase.
+3046,551,81,5,2025-02-21,Great quality for the price.
+3047,2096,26,4,2025-04-16,Works as expected.
+3048,2499,93,5,2024-11-25,Great quality for the price.
+3049,2070,95,2,2025-02-17,Quality could be improved.
+3050,1684,96,4,2025-11-19,Good product overall.
+3051,619,71,3,2025-03-26,Average experience.
+3052,1945,34,4,2024-10-08,Nice quality and useful.
+3053,2023,60,4,2025-08-14,Good product overall.
+3054,1768,3,4,2025-03-26,Good product overall.
+3055,202,71,3,2024-11-08,Average experience.
+3056,969,76,4,2024-04-25,Good product overall.
+3057,1223,74,4,2025-07-22,Works as expected.
+3058,15,13,5,2025-06-16,Great quality for the price.
+3059,2191,29,4,2025-03-06,Works as expected.
+3060,678,44,4,2024-07-07,Works as expected.
+3061,2349,14,2,2024-07-07,Delivery was fine but product disappointed me.
+3062,464,67,2,2024-05-01,Delivery was fine but product disappointed me.
+3063,1385,64,4,2024-10-04,Works as expected.
+3064,2378,83,5,2025-04-21,Excellent product and fast delivery.
+3065,674,21,5,2024-04-18,Great quality for the price.
+3066,954,52,5,2025-07-20,Very happy with my purchase.
+3067,2406,10,5,2025-01-22,Great quality for the price.
+3068,558,4,5,2024-07-19,Very happy with my purchase.
+3069,1406,69,5,2024-07-18,Excellent product and fast delivery.
+3070,417,63,5,2025-04-01,Great quality for the price.
+3071,2101,6,3,2025-01-26,Product is decent for the price.
+3072,2349,28,4,2026-01-17,Good product overall.
+3073,1959,75,5,2024-05-24,Excellent product and fast delivery.
+3074,98,33,4,2024-12-13,Good product overall.
+3075,408,8,4,2024-07-15,Good product overall.
+3076,1733,18,4,2024-12-27,Nice quality and useful.
+3077,1242,80,3,2025-10-18,"It is okay, but could be better."
+3078,773,13,5,2025-05-24,Very happy with my purchase.
+3079,414,81,1,2024-10-23,Would not buy this again.
+3080,286,45,4,2025-06-18,Nice quality and useful.
+3081,2253,87,4,2025-03-16,Good product overall.
+3082,214,40,5,2024-02-21,Very happy with my purchase.
+3083,1362,79,2,2025-04-23,Quality could be improved.
+3084,449,16,5,2025-08-08,Great quality for the price.
+3085,1359,91,2,2024-03-13,Not as good as expected.
+3086,1147,11,5,2024-05-08,Excellent product and fast delivery.
+3087,1407,81,5,2025-02-28,Very happy with my purchase.
+3088,577,37,5,2025-12-26,Very happy with my purchase.
+3089,281,59,4,2025-09-20,Nice quality and useful.
+3090,1637,52,5,2024-08-07,Excellent product and fast delivery.
+3091,1100,34,5,2024-07-23,Very happy with my purchase.
+3092,795,58,4,2024-10-21,Nice quality and useful.
+3093,1661,52,4,2024-03-05,Nice quality and useful.
+3094,594,32,5,2025-10-10,Excellent product and fast delivery.
+3095,1847,29,1,2025-03-13,Very disappointed with the product.
+3096,2268,95,3,2024-05-02,"It is okay, but could be better."
+3097,1368,5,2,2025-11-04,Delivery was fine but product disappointed me.
+3098,447,91,3,2026-01-23,Product is decent for the price.
+3099,1356,40,5,2025-12-31,Very happy with my purchase.
+3100,374,8,4,2025-10-21,Good product overall.
+3101,2429,72,5,2025-03-15,Very happy with my purchase.
+3102,859,11,4,2024-09-05,Works as expected.
+3103,1102,12,5,2024-04-10,Very happy with my purchase.
+3104,780,82,5,2024-06-30,Excellent product and fast delivery.
+3105,1342,78,5,2024-03-21,Very happy with my purchase.
+3106,1733,53,5,2024-08-17,Great quality for the price.
+3107,2380,62,3,2024-04-11,Product is decent for the price.
+3108,893,40,5,2025-06-12,Very happy with my purchase.
+3109,366,86,3,2025-07-07,Product is decent for the price.
+3110,1504,65,5,2025-03-14,Great quality for the price.
+3111,2243,45,4,2025-07-10,Good product overall.
+3112,1652,76,2,2024-06-22,Not as good as expected.
+3113,725,13,4,2024-12-18,Good product overall.
+3114,12,32,5,2025-04-22,Great quality for the price.
+3115,2332,67,5,2025-06-14,Great quality for the price.
+3116,1382,48,2,2024-12-09,Not as good as expected.
+3117,579,1,4,2025-03-05,Works as expected.
+3118,455,77,5,2025-12-23,Very happy with my purchase.
+3119,2034,18,4,2025-11-04,Nice quality and useful.
+3120,2299,73,4,2024-10-23,Good product overall.
+3121,674,31,2,2024-02-28,Delivery was fine but product disappointed me.
+3122,139,17,4,2025-08-09,Works as expected.
+3123,1399,70,3,2025-10-11,Product is decent for the price.
+3124,959,39,5,2025-09-03,Excellent product and fast delivery.
+3125,2054,87,5,2025-05-25,Great quality for the price.
+3126,802,89,4,2024-03-08,Nice quality and useful.
+3127,1413,49,3,2025-01-30,"It is okay, but could be better."
+3128,2179,19,4,2025-09-30,Works as expected.
+3129,261,48,4,2024-05-12,Works as expected.
+3130,2267,48,4,2024-09-02,Good product overall.
+3131,185,14,4,2024-08-21,Works as expected.
+3132,202,51,4,2025-12-14,Works as expected.
+3133,1691,71,5,2024-02-14,Excellent product and fast delivery.
+3134,2265,93,4,2025-02-18,Works as expected.
+3135,2386,48,4,2024-09-28,Good product overall.
+3136,880,61,4,2024-05-01,Good product overall.
+3137,111,72,5,2025-08-17,Great quality for the price.
+3138,764,6,5,2025-07-11,Great quality for the price.
+3139,2425,1,5,2024-10-07,Great quality for the price.
+3140,2346,58,3,2025-05-18,Product is decent for the price.
+3141,2490,1,5,2024-07-17,Very happy with my purchase.
+3142,600,44,4,2025-06-15,Good product overall.
+3143,577,39,1,2025-12-24,Very disappointed with the product.
+3144,1458,64,5,2025-11-11,Very happy with my purchase.
+3145,1245,79,5,2025-10-21,Very happy with my purchase.
+3146,976,42,5,2025-12-04,Great quality for the price.
+3147,353,33,3,2026-01-18,"It is okay, but could be better."
+3148,1782,90,5,2024-04-01,Excellent product and fast delivery.
+3149,1145,84,4,2024-05-13,Nice quality and useful.
+3150,2442,96,3,2024-12-10,Product is decent for the price.
+3151,281,31,4,2025-08-08,Works as expected.
+3152,723,6,4,2025-08-17,Nice quality and useful.
+3153,1206,56,4,2024-10-05,Works as expected.
+3154,2023,3,4,2025-08-17,Works as expected.
+3155,2109,32,3,2024-09-25,"It is okay, but could be better."
+3156,2202,88,4,2025-02-13,Works as expected.
+3157,49,89,5,2024-01-30,Great quality for the price.
+3158,1144,61,2,2025-06-19,Not as good as expected.
+3159,1572,7,2,2025-02-21,Not as good as expected.
+3160,726,41,3,2024-11-07,Average experience.
+3161,281,76,5,2025-09-28,Excellent product and fast delivery.
+3162,539,10,3,2025-02-07,Average experience.
+3163,2051,21,5,2024-04-08,Very happy with my purchase.
+3164,817,56,4,2024-03-21,Nice quality and useful.
+3165,2421,21,4,2025-10-05,Good product overall.
+3166,1248,52,5,2025-01-23,Very happy with my purchase.
+3167,712,53,4,2024-05-18,Nice quality and useful.
+3168,1835,6,4,2025-01-26,Nice quality and useful.
+3169,1726,7,4,2025-11-04,Good product overall.
+3170,1585,83,4,2024-08-04,Works as expected.
+3171,1072,69,3,2024-11-23,Average experience.
+3172,297,15,4,2025-11-18,Works as expected.
+3173,2164,14,5,2024-06-17,Excellent product and fast delivery.
+3174,823,52,1,2024-09-29,Very disappointed with the product.
+3175,482,4,5,2025-04-15,Great quality for the price.
+3176,2098,21,4,2024-04-17,Works as expected.
+3177,879,49,4,2025-11-22,Good product overall.
+3178,859,91,2,2025-12-23,Quality could be improved.
+3179,535,83,4,2025-05-14,Good product overall.
+3180,1435,56,1,2024-07-24,Very disappointed with the product.
+3181,2164,30,4,2025-04-19,Nice quality and useful.
+3182,1813,19,3,2025-10-04,Average experience.
+3183,832,94,5,2024-03-11,Excellent product and fast delivery.
+3184,1897,12,5,2025-07-04,Very happy with my purchase.
+3185,963,4,4,2025-09-12,Good product overall.
+3186,2364,78,5,2024-03-19,Great quality for the price.
+3187,1475,26,4,2025-03-27,Good product overall.
+3188,1056,18,4,2024-03-10,Nice quality and useful.
+3189,1286,47,5,2024-08-31,Very happy with my purchase.
+3190,1070,70,2,2024-08-17,Delivery was fine but product disappointed me.
+3191,650,93,5,2025-06-01,Excellent product and fast delivery.
+3192,2454,85,4,2024-12-19,Nice quality and useful.
+3193,1883,20,4,2025-04-17,Nice quality and useful.
+3194,1717,9,4,2025-02-02,Good product overall.
+3195,725,75,1,2025-12-18,Very disappointed with the product.
+3196,152,49,5,2024-12-05,Great quality for the price.
+3197,1948,59,5,2025-12-18,Very happy with my purchase.
+3198,455,48,4,2025-05-16,Works as expected.
+3199,2395,13,4,2025-06-20,Good product overall.
+3200,1902,11,1,2024-07-21,Would not buy this again.
+3201,2399,32,5,2024-01-31,Great quality for the price.
+3202,77,6,4,2025-07-17,Nice quality and useful.
+3203,245,48,4,2025-09-11,Good product overall.
+3204,1861,21,5,2025-12-17,Very happy with my purchase.
+3205,1475,56,4,2025-11-19,Good product overall.
+3206,2178,52,3,2024-07-22,Product is decent for the price.
+3207,380,47,4,2024-03-27,Good product overall.
+3208,1242,34,4,2024-02-02,Good product overall.
+3209,1385,91,5,2024-04-19,Great quality for the price.
+3210,679,83,5,2025-09-14,Great quality for the price.
+3211,2456,58,3,2024-05-19,"It is okay, but could be better."
+3212,1640,70,4,2025-12-27,Nice quality and useful.
+3213,904,79,2,2025-09-25,Quality could be improved.
+3214,1776,68,5,2025-04-17,Very happy with my purchase.
+3215,903,41,5,2025-05-14,Excellent product and fast delivery.
+3216,278,94,3,2025-04-11,"It is okay, but could be better."
+3217,2267,77,1,2024-08-06,Would not buy this again.
+3218,2018,33,4,2024-05-20,Works as expected.
+3219,132,71,5,2025-10-10,Very happy with my purchase.
+3220,1745,61,5,2025-04-19,Great quality for the price.
+3221,1187,57,5,2025-08-16,Excellent product and fast delivery.
+3222,354,7,2,2024-04-03,Not as good as expected.
+3223,1385,56,5,2024-02-04,Great quality for the price.
+3224,1879,96,2,2025-04-03,Quality could be improved.
+3225,793,30,3,2025-12-24,Product is decent for the price.
+3226,200,57,4,2024-05-28,Works as expected.
+3227,1878,59,5,2025-04-15,Excellent product and fast delivery.
+3228,2405,70,5,2024-02-01,Very happy with my purchase.
+3229,1782,11,4,2024-11-23,Good product overall.
+3230,2240,35,5,2025-07-15,Very happy with my purchase.
+3231,1172,78,5,2024-10-21,Great quality for the price.
+3232,599,7,3,2024-05-16,Average experience.
+3233,2488,42,4,2024-06-23,Nice quality and useful.
+3234,960,65,4,2025-05-08,Nice quality and useful.
+3235,2303,66,4,2025-04-18,Good product overall.
+3236,2499,16,5,2025-11-29,Excellent product and fast delivery.
+3237,1055,37,2,2024-02-16,Not as good as expected.
+3238,893,54,2,2024-09-02,Delivery was fine but product disappointed me.
+3239,899,32,5,2024-04-30,Great quality for the price.
+3240,2281,61,5,2024-11-16,Excellent product and fast delivery.
+3241,2149,32,4,2025-11-13,Nice quality and useful.
+3242,686,51,3,2025-01-26,Average experience.
+3243,1643,89,5,2024-05-09,Very happy with my purchase.
+3244,1332,35,3,2025-05-06,Average experience.
+3245,675,39,4,2024-06-14,Nice quality and useful.
+3246,1545,92,5,2024-11-26,Great quality for the price.
+3247,1171,6,3,2024-09-09,Average experience.
+3248,1409,80,4,2025-01-13,Good product overall.
+3249,1305,89,4,2024-05-18,Nice quality and useful.
+3250,2294,59,5,2026-01-06,Great quality for the price.
+3251,770,10,4,2024-09-18,Works as expected.
+3252,725,10,5,2025-07-18,Excellent product and fast delivery.
+3253,1613,4,5,2024-02-22,Very happy with my purchase.
+3254,1631,48,5,2025-12-19,Great quality for the price.
+3255,223,24,4,2025-08-08,Good product overall.
+3256,2222,54,4,2024-11-13,Good product overall.
+3257,2394,41,5,2025-07-25,Excellent product and fast delivery.
+3258,167,95,4,2024-01-15,Good product overall.
+3259,1070,1,5,2025-12-25,Very happy with my purchase.
+3260,960,94,5,2024-05-17,Great quality for the price.
+3261,239,27,5,2024-11-19,Excellent product and fast delivery.
+3262,623,55,5,2024-04-26,Excellent product and fast delivery.
+3263,1869,63,4,2024-02-25,Works as expected.
+3264,2249,57,4,2025-08-26,Good product overall.
+3265,1702,24,5,2025-11-07,Very happy with my purchase.
+3266,1310,79,3,2024-08-15,Average experience.
+3267,222,74,5,2024-12-08,Excellent product and fast delivery.
+3268,668,22,5,2025-03-22,Great quality for the price.
+3269,1252,55,3,2024-05-26,Average experience.
+3270,2101,28,1,2025-02-08,Would not buy this again.
+3271,529,63,4,2024-04-18,Nice quality and useful.
+3272,384,69,5,2025-06-29,Great quality for the price.
+3273,2017,22,5,2024-04-30,Very happy with my purchase.
+3274,1715,31,4,2024-01-31,Nice quality and useful.
+3275,1937,34,4,2024-05-10,Works as expected.
+3276,156,16,5,2025-07-24,Great quality for the price.
+3277,1116,53,5,2024-12-23,Very happy with my purchase.
+3278,208,22,5,2024-09-25,Excellent product and fast delivery.
+3279,1632,55,3,2024-06-07,Average experience.
+3280,1638,33,4,2025-04-27,Good product overall.
+3281,700,61,2,2025-10-26,Delivery was fine but product disappointed me.
+3282,1490,67,5,2024-07-22,Excellent product and fast delivery.
+3283,80,25,5,2024-06-22,Very happy with my purchase.
+3284,1570,32,4,2025-10-06,Nice quality and useful.
+3285,1599,76,4,2024-05-10,Good product overall.
+3286,1638,8,1,2025-11-02,Poor quality.
+3287,1047,23,3,2025-09-30,Product is decent for the price.
+3288,1918,83,4,2024-02-06,Nice quality and useful.
+3289,1672,75,4,2024-11-23,Works as expected.
+3290,15,33,4,2024-08-20,Good product overall.
+3291,600,56,4,2024-02-03,Works as expected.
+3292,470,16,5,2024-04-04,Very happy with my purchase.
+3293,517,80,5,2025-10-17,Great quality for the price.
+3294,2418,11,4,2024-07-28,Nice quality and useful.
+3295,1419,71,4,2026-01-10,Works as expected.
+3296,1122,46,5,2025-11-19,Excellent product and fast delivery.
+3297,1068,73,5,2025-10-10,Very happy with my purchase.
+3298,2395,44,4,2025-07-04,Works as expected.
+3299,2348,25,4,2024-04-12,Works as expected.
+3300,1224,69,4,2025-10-28,Good product overall.
+3301,2495,53,4,2024-12-17,Works as expected.
+3302,354,68,4,2024-08-02,Nice quality and useful.
+3303,2286,66,2,2025-05-15,Not as good as expected.
+3304,332,67,5,2024-10-22,Excellent product and fast delivery.
+3305,2371,64,4,2024-02-17,Works as expected.
+3306,2306,83,4,2024-07-04,Nice quality and useful.
+3307,1144,21,4,2025-06-18,Works as expected.
+3308,2418,87,1,2024-07-08,Poor quality.
+3309,2041,54,3,2024-03-11,"It is okay, but could be better."
+3310,1729,28,4,2024-04-27,Good product overall.
+3311,1367,57,4,2025-05-21,Nice quality and useful.
+3312,2289,15,5,2025-10-04,Very happy with my purchase.
+3313,1624,8,4,2025-09-28,Works as expected.
+3314,501,88,4,2025-07-14,Works as expected.
+3315,726,15,3,2025-07-24,Average experience.
+3316,787,11,5,2025-09-06,Very happy with my purchase.
+3317,417,77,5,2025-06-03,Great quality for the price.
+3318,330,80,5,2024-10-23,Excellent product and fast delivery.
+3319,2339,79,3,2024-01-19,"It is okay, but could be better."
+3320,1901,32,5,2024-07-02,Great quality for the price.
+3321,829,10,4,2025-10-10,Good product overall.
+3322,2364,36,4,2024-06-28,Nice quality and useful.
+3323,1596,25,4,2025-04-24,Works as expected.
+3324,1642,68,4,2025-08-04,Works as expected.
+3325,2119,38,1,2025-07-03,Would not buy this again.
+3326,2063,95,4,2026-01-02,Works as expected.
+3327,2062,96,5,2024-12-23,Excellent product and fast delivery.
+3328,2197,4,4,2024-11-06,Works as expected.
+3329,173,29,5,2025-10-08,Excellent product and fast delivery.
+3330,2413,24,5,2025-05-24,Excellent product and fast delivery.
+3331,1124,22,5,2025-12-28,Excellent product and fast delivery.
+3332,74,60,4,2025-07-27,Good product overall.
+3333,1033,8,5,2024-05-11,Excellent product and fast delivery.
+3334,915,33,4,2024-10-06,Nice quality and useful.
+3335,654,81,5,2025-08-19,Excellent product and fast delivery.
+3336,82,79,5,2025-04-04,Great quality for the price.
+3337,1366,58,5,2024-01-21,Very happy with my purchase.
+3338,1377,17,2,2024-03-21,Delivery was fine but product disappointed me.
+3339,452,30,2,2025-11-15,Delivery was fine but product disappointed me.
+3340,921,32,1,2025-07-20,Would not buy this again.
+3341,2129,86,5,2025-02-25,Excellent product and fast delivery.
+3342,1685,10,4,2025-04-11,Works as expected.
+3343,1308,76,5,2025-01-04,Very happy with my purchase.
+3344,977,88,4,2024-10-14,Nice quality and useful.
+3345,1149,8,5,2025-05-17,Great quality for the price.
+3346,616,74,2,2024-06-12,Not as good as expected.
+3347,587,13,4,2024-08-08,Works as expected.
+3348,2149,25,5,2024-12-02,Excellent product and fast delivery.
+3349,1247,70,5,2025-09-25,Excellent product and fast delivery.
+3350,1805,41,3,2025-09-19,Average experience.
+3351,686,58,5,2024-08-13,Excellent product and fast delivery.
+3352,1836,69,3,2024-10-08,Average experience.
+3353,118,89,4,2025-10-08,Good product overall.
+3354,2252,59,5,2025-05-09,Very happy with my purchase.
+3355,81,16,4,2025-03-05,Good product overall.
+3356,442,29,5,2024-06-19,Excellent product and fast delivery.
+3357,137,49,4,2026-01-05,Works as expected.
+3358,1284,1,4,2024-11-25,Works as expected.
+3359,2122,71,4,2024-02-06,Good product overall.
+3360,1718,27,4,2025-07-06,Nice quality and useful.
+3361,1237,82,4,2025-11-12,Works as expected.
+3362,2028,66,5,2024-06-28,Very happy with my purchase.
+3363,1277,7,3,2025-02-10,Product is decent for the price.
+3364,306,45,4,2026-01-15,Nice quality and useful.
+3365,1203,82,2,2025-05-04,Delivery was fine but product disappointed me.
+3366,569,57,3,2024-02-06,Product is decent for the price.
+3367,646,71,4,2025-11-11,Good product overall.
+3368,894,80,5,2025-11-04,Very happy with my purchase.
+3369,1899,38,5,2025-04-27,Very happy with my purchase.
+3370,1322,63,5,2024-04-09,Excellent product and fast delivery.
+3371,582,73,3,2025-06-25,Product is decent for the price.
+3372,60,84,5,2024-05-14,Very happy with my purchase.
+3373,744,12,2,2025-07-19,Not as good as expected.
+3374,273,73,5,2024-03-24,Very happy with my purchase.
+3375,2037,74,3,2024-05-12,Product is decent for the price.
+3376,692,95,5,2025-09-29,Excellent product and fast delivery.
+3377,1025,3,1,2025-12-25,Poor quality.
+3378,644,11,4,2024-12-03,Works as expected.
+3379,107,89,5,2024-12-02,Excellent product and fast delivery.
+3380,1686,10,2,2025-03-29,Not as good as expected.
+3381,2263,22,4,2025-08-24,Good product overall.
+3382,2178,3,4,2024-03-17,Good product overall.
+3383,1209,37,3,2025-11-26,"It is okay, but could be better."
+3384,832,90,1,2024-05-03,Poor quality.
+3385,1328,40,2,2024-12-05,Quality could be improved.
+3386,1132,96,3,2024-10-01,Product is decent for the price.
+3387,223,85,4,2024-10-22,Nice quality and useful.
+3388,920,85,5,2025-02-25,Excellent product and fast delivery.
+3389,2122,36,5,2024-07-28,Very happy with my purchase.
+3390,1492,54,4,2024-04-03,Nice quality and useful.
+3391,2461,53,4,2025-10-31,Works as expected.
+3392,1626,96,4,2024-06-07,Good product overall.
+3393,2018,49,4,2026-01-03,Nice quality and useful.
+3394,478,56,5,2024-11-01,Excellent product and fast delivery.
+3395,1345,41,4,2024-10-14,Good product overall.
+3396,120,26,5,2024-06-06,Great quality for the price.
+3397,354,71,4,2024-07-29,Nice quality and useful.
+3398,1924,69,2,2025-01-02,Not as good as expected.
+3399,248,21,3,2025-08-15,"It is okay, but could be better."
+3400,350,44,4,2024-05-29,Works as expected.
+3401,1018,10,5,2025-04-24,Excellent product and fast delivery.
+3402,348,17,5,2025-11-27,Very happy with my purchase.
+3403,437,34,5,2025-10-25,Excellent product and fast delivery.
+3404,2457,46,3,2025-11-25,"It is okay, but could be better."
+3405,1842,46,3,2024-06-17,"It is okay, but could be better."
+3406,1284,23,5,2025-12-06,Very happy with my purchase.
+3407,1016,9,5,2025-03-25,Very happy with my purchase.
+3408,1640,92,3,2024-09-25,Average experience.
+3409,1825,93,3,2025-11-12,Average experience.
+3410,2417,5,4,2024-12-17,Good product overall.
+3411,290,78,3,2024-12-26,"It is okay, but could be better."
+3412,550,81,3,2025-06-16,Average experience.
+3413,859,8,5,2025-03-16,Very happy with my purchase.
+3414,1589,27,5,2024-03-15,Great quality for the price.
+3415,2452,2,5,2024-11-01,Excellent product and fast delivery.
+3416,447,88,3,2024-10-22,Product is decent for the price.
+3417,1172,13,3,2024-10-04,"It is okay, but could be better."
+3418,475,66,5,2024-11-12,Excellent product and fast delivery.
+3419,1804,10,5,2026-01-10,Very happy with my purchase.
+3420,1337,93,4,2024-07-16,Nice quality and useful.
+3421,1610,9,3,2025-08-27,Product is decent for the price.
+3422,1328,30,5,2025-04-19,Very happy with my purchase.
+3423,1094,96,5,2025-04-23,Very happy with my purchase.
+3424,395,11,3,2025-09-17,Product is decent for the price.
+3425,963,72,5,2025-01-04,Great quality for the price.
+3426,660,11,5,2025-02-01,Very happy with my purchase.
+3427,1632,61,1,2024-04-08,Would not buy this again.
+3428,1571,4,4,2024-11-25,Works as expected.
+3429,1332,42,5,2025-06-28,Very happy with my purchase.
+3430,286,8,5,2024-08-26,Excellent product and fast delivery.
+3431,750,82,4,2024-10-19,Works as expected.
+3432,188,28,4,2024-12-10,Nice quality and useful.
+3433,1947,70,5,2024-07-11,Excellent product and fast delivery.
+3434,2164,72,4,2025-11-16,Nice quality and useful.
+3435,1769,82,3,2024-04-04,Product is decent for the price.
+3436,1022,8,5,2024-11-20,Great quality for the price.
+3437,1231,56,5,2024-07-09,Excellent product and fast delivery.
+3438,1489,8,4,2024-08-05,Good product overall.
+3439,2443,86,5,2025-11-10,Great quality for the price.
+3440,2481,18,4,2025-04-12,Works as expected.
+3441,1927,19,5,2024-04-05,Great quality for the price.
+3442,2269,23,4,2024-08-10,Nice quality and useful.
+3443,1535,87,5,2025-06-19,Excellent product and fast delivery.
+3444,1071,79,3,2025-01-03,Average experience.
+3445,1253,18,4,2026-01-02,Good product overall.
+3446,1311,60,5,2025-09-14,Excellent product and fast delivery.
+3447,1185,16,4,2024-07-19,Works as expected.
+3448,83,56,3,2025-08-28,"It is okay, but could be better."
+3449,1499,10,3,2024-05-11,"It is okay, but could be better."
+3450,1039,87,5,2025-08-14,Very happy with my purchase.
+3451,2338,57,5,2025-01-16,Very happy with my purchase.
+3452,1683,1,4,2024-06-21,Nice quality and useful.
+3453,235,38,5,2024-08-01,Excellent product and fast delivery.
+3454,1149,77,3,2025-07-20,Average experience.
+3455,894,96,4,2025-05-09,Works as expected.
+3456,1749,93,5,2025-05-04,Great quality for the price.
+3457,639,54,3,2024-04-12,Average experience.
+3458,477,18,5,2025-10-22,Very happy with my purchase.
+3459,1448,62,4,2024-11-03,Works as expected.
+3460,2054,82,4,2024-03-30,Works as expected.
+3461,2475,65,5,2025-09-17,Very happy with my purchase.
+3462,2169,9,5,2024-03-20,Great quality for the price.
+3463,944,71,4,2024-12-20,Nice quality and useful.
+3464,2089,28,3,2024-02-03,Product is decent for the price.
+3465,1733,78,4,2024-08-18,Nice quality and useful.
+3466,1150,95,1,2024-09-09,Poor quality.
+3467,2498,82,5,2024-11-13,Excellent product and fast delivery.
+3468,899,51,5,2024-03-29,Excellent product and fast delivery.
+3469,1308,69,5,2025-08-18,Excellent product and fast delivery.
+3470,638,91,5,2025-03-20,Excellent product and fast delivery.
+3471,332,19,4,2024-10-08,Nice quality and useful.
+3472,1993,62,4,2024-09-13,Works as expected.
+3473,2180,1,5,2025-08-05,Very happy with my purchase.
+3474,2280,39,5,2024-07-23,Excellent product and fast delivery.
+3475,1150,41,4,2024-06-07,Good product overall.
+3476,1713,88,2,2025-01-03,Quality could be improved.
+3477,817,53,4,2024-03-21,Good product overall.
+3478,763,32,5,2024-04-15,Excellent product and fast delivery.
+3479,60,5,3,2024-08-26,Product is decent for the price.
+3480,1047,62,4,2024-05-23,Works as expected.
+3481,2282,70,5,2025-01-12,Excellent product and fast delivery.
+3482,400,40,2,2024-12-30,Not as good as expected.
+3483,174,34,4,2024-10-28,Nice quality and useful.
+3484,460,77,5,2025-07-29,Very happy with my purchase.
+3485,2088,72,4,2024-04-20,Works as expected.
+3486,697,17,5,2025-09-01,Great quality for the price.
+3487,675,7,1,2024-06-21,Very disappointed with the product.
+3488,312,96,4,2025-12-28,Good product overall.
+3489,1729,71,3,2025-08-14,"It is okay, but could be better."
+3490,1172,9,3,2024-10-08,"It is okay, but could be better."
+3491,2017,93,5,2024-05-03,Excellent product and fast delivery.
+3492,2127,80,4,2024-05-18,Good product overall.
+3493,1423,70,5,2025-06-19,Excellent product and fast delivery.
+3494,2322,82,5,2025-09-29,Great quality for the price.
+3495,1532,16,4,2024-02-05,Good product overall.
+3496,1572,22,3,2024-02-15,Average experience.
+3497,317,36,3,2025-10-25,"It is okay, but could be better."
+3498,2319,12,3,2024-03-16,Average experience.
+3499,820,60,4,2024-07-05,Works as expected.
+3500,857,91,5,2024-09-22,Very happy with my purchase.

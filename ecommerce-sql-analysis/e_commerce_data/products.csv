@@ -1,0 +1,97 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+1,Wireless Earbuds 1,Electronics,Consumer Electronics,100.31,182.93
+2,Wireless Earbuds 2,Electronics,Consumer Electronics,48.01,81.21
+3,Bluetooth Speaker 1,Electronics,Consumer Electronics,139.07,205.38
+4,Bluetooth Speaker 2,Electronics,Consumer Electronics,78.94,127.52
+5,Power Bank 1,Electronics,Consumer Electronics,52.57,82.89
+6,Power Bank 2,Electronics,Consumer Electronics,89.42,149.24
+7,USB-C Hub 1,Electronics,Consumer Electronics,110.89,169.85
+8,USB-C Hub 2,Electronics,Consumer Electronics,150.82,224.31
+9,Mechanical Keyboard 1,Electronics,Consumer Electronics,72.69,131.82
+10,Mechanical Keyboard 2,Electronics,Consumer Electronics,111.78,170.62
+11,Wireless Mouse 1,Electronics,Consumer Electronics,148.67,274.05
+12,Wireless Mouse 2,Electronics,Consumer Electronics,156.69,283.62
+13,Smart Watch 1,Electronics,Consumer Electronics,89.64,134.55
+14,Smart Watch 2,Electronics,Consumer Electronics,98.64,169.14
+15,Webcam 1,Electronics,Consumer Electronics,11.93,16.25
+16,Webcam 2,Electronics,Consumer Electronics,68.71,105.22
+17,Air Fryer 1,Home & Kitchen,Home Appliances,58.57,78.33
+18,Air Fryer 2,Home & Kitchen,Home Appliances,11.21,20.43
+19,Electric Kettle 1,Home & Kitchen,Home Appliances,33.55,56.7
+20,Electric Kettle 2,Home & Kitchen,Home Appliances,141.09,246.35
+21,Coffee Maker 1,Home & Kitchen,Home Appliances,26.13,43.59
+22,Coffee Maker 2,Home & Kitchen,Home Appliances,140.84,182.16
+23,Blender 1,Home & Kitchen,Home Appliances,145.11,214.4
+24,Blender 2,Home & Kitchen,Home Appliances,76.82,137.09
+25,Desk Lamp 1,Home & Kitchen,Home Appliances,119.53,178.25
+26,Desk Lamp 2,Home & Kitchen,Home Appliances,20.07,25.71
+27,Storage Box 1,Home & Kitchen,Home Appliances,74.67,125.5
+28,Storage Box 2,Home & Kitchen,Home Appliances,121.52,168.02
+29,Nonstick Pan 1,Home & Kitchen,Home Appliances,60.86,81.35
+30,Nonstick Pan 2,Home & Kitchen,Home Appliances,37.93,65.71
+31,Water Bottle 1,Home & Kitchen,Home Appliances,39.06,57.16
+32,Water Bottle 2,Home & Kitchen,Home Appliances,163.7,217.18
+33,Sneakers 1,Fashion,Apparel,145.27,204.5
+34,Sneakers 2,Fashion,Apparel,79.72,116.06
+35,Hoodie 1,Fashion,Apparel,50.59,63.82
+36,Hoodie 2,Fashion,Apparel,135.05,172.37
+37,T-Shirt 1,Fashion,Apparel,152.59,265.25
+38,T-Shirt 2,Fashion,Apparel,89.35,151.21
+39,Jeans 1,Fashion,Apparel,127.73,228.9
+40,Jeans 2,Fashion,Apparel,31.26,55.21
+41,Backpack 1,Fashion,Apparel,171.13,288.08
+42,Backpack 2,Fashion,Apparel,41.64,53.84
+43,Cap 1,Fashion,Apparel,91.85,136.11
+44,Cap 2,Fashion,Apparel,73.88,131.01
+45,Dress 1,Fashion,Apparel,13.45,18.09
+46,Dress 2,Fashion,Apparel,117.63,193.96
+47,Wristwatch 1,Fashion,Apparel,53.33,96.62
+48,Wristwatch 2,Fashion,Apparel,8.15,10.29
+49,Face Cleanser 1,Beauty,Personal Care,101.48,146.44
+50,Face Cleanser 2,Beauty,Personal Care,29.35,48.53
+51,Moisturizer 1,Beauty,Personal Care,163.5,262.24
+52,Moisturizer 2,Beauty,Personal Care,40.42,54.45
+53,Sunscreen 1,Beauty,Personal Care,47.63,74.38
+54,Sunscreen 2,Beauty,Personal Care,141.34,193.26
+55,Hair Dryer 1,Beauty,Personal Care,152.54,241.95
+56,Hair Dryer 2,Beauty,Personal Care,49.59,63.16
+57,Body Lotion 1,Beauty,Personal Care,73.22,93.61
+58,Body Lotion 2,Beauty,Personal Care,53.18,91.45
+59,Perfume 1,Beauty,Personal Care,104.53,154.99
+60,Perfume 2,Beauty,Personal Care,34.95,55.85
+61,Shampoo 1,Beauty,Personal Care,155.67,241.98
+62,Shampoo 2,Beauty,Personal Care,70.76,89.47
+63,Makeup Kit 1,Beauty,Personal Care,77.24,122.22
+64,Makeup Kit 2,Beauty,Personal Care,85.44,122.08
+65,Notebook 1,Office,Office Supplies,93.92,171.9
+66,Notebook 2,Office,Office Supplies,87.89,154.5
+67,Ballpoint Pen Set 1,Office,Office Supplies,92.25,128.1
+68,Ballpoint Pen Set 2,Office,Office Supplies,155.7,270.21
+69,Desk Organizer 1,Office,Office Supplies,139.72,234.64
+70,Desk Organizer 2,Office,Office Supplies,153.05,207.16
+71,Office Chair 1,Office,Office Supplies,5.09,7.44
+72,Office Chair 2,Office,Office Supplies,99.04,174.88
+73,Monitor Stand 1,Office,Office Supplies,49.15,75.61
+74,Monitor Stand 2,Office,Office Supplies,90.75,128.24
+75,Stapler 1,Office,Office Supplies,42.53,72.81
+76,Stapler 2,Office,Office Supplies,106.78,180.62
+77,Whiteboard 1,Office,Office Supplies,39.3,68.48
+78,Whiteboard 2,Office,Office Supplies,38.99,51.68
+79,Calculator 1,Office,Office Supplies,36.07,55.25
+80,Calculator 2,Office,Office Supplies,179.66,289.75
+81,Yoga Mat 1,Sports,Fitness & Sports,110.43,158.7
+82,Yoga Mat 2,Sports,Fitness & Sports,102.33,129.94
+83,Football 1,Sports,Fitness & Sports,189.99,267.74
+84,Football 2,Sports,Fitness & Sports,161.53,231.65
+85,Running Shoes 1,Sports,Fitness & Sports,14.26,20.78
+86,Running Shoes 2,Sports,Fitness & Sports,25.89,44.3
+87,Resistance Bands 1,Sports,Fitness & Sports,43.81,61.14
+88,Resistance Bands 2,Sports,Fitness & Sports,174.72,278.73
+89,Dumbbells 1,Sports,Fitness & Sports,158.87,291.13
+90,Dumbbells 2,Sports,Fitness & Sports,228.72,315.34
+91,Sports Bag 1,Sports,Fitness & Sports,147.37,271.4
+92,Sports Bag 2,Sports,Fitness & Sports,45.78,66.53
+93,Skipping Rope 1,Sports,Fitness & Sports,38.37,66.24
+94,Skipping Rope 2,Sports,Fitness & Sports,99.37,183.55
+95,Fitness Tracker 1,Sports,Fitness & Sports,89.03,130.8
+96,Fitness Tracker 2,Sports,Fitness & Sports,90.78,164.56
